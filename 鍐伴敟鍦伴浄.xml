@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
-	<Build level="90" targetVersion="3_0" banditNormal="None" bandit="Alira" banditMerciless="None" className="暗影刺客" ascendClassName="Saboteur" mainSocketGroup="1" viewMode="ITEMS" banditCruel="None">
-		<PlayerStat stat="AverageHit" value="146481.93732611"/>
-		<PlayerStat stat="AverageDamage" value="146481.93732611"/>
+	<Build level="90" targetVersion="3_0" banditNormal="None" bandit="Alira" banditMerciless="None" className="暗影刺客" ascendClassName="Saboteur" mainSocketGroup="1" viewMode="SKILLS" banditCruel="None">
+		<PlayerStat stat="AverageHit" value="168718.06040772"/>
+		<PlayerStat stat="AverageDamage" value="168718.06040772"/>
 		<PlayerStat stat="Speed" value="1.4"/>
 		<PlayerStat stat="Speed" value="1.4"/>
-		<PlayerStat stat="MineLayingTime" value="0.17361111111111"/>
-		<PlayerStat stat="PreEffectiveCritChance" value="55.5"/>
-		<PlayerStat stat="CritChance" value="80.1975"/>
+		<PlayerStat stat="MineLayingTime" value="0.20161290322581"/>
+		<PlayerStat stat="PreEffectiveCritChance" value="63.84"/>
+		<PlayerStat stat="CritChance" value="86.924544"/>
 		<PlayerStat stat="CritMultiplier" value="5.09"/>
 		<PlayerStat stat="HitChance" value="100"/>
-		<PlayerStat stat="TotalDPS" value="205074.71225655"/>
+		<PlayerStat stat="TotalDPS" value="236205.2845708"/>
 		<PlayerStat stat="TotalDot" value="0"/>
-		<PlayerStat stat="WithPoisonAverageDamage" value="146481.93732611"/>
+		<PlayerStat stat="WithPoisonAverageDamage" value="168718.06040772"/>
 		<PlayerStat stat="ManaCost" value="22"/>
 		<PlayerStat stat="Str" value="54"/>
-		<PlayerStat stat="ReqStr" value="0"/>
+		<PlayerStat stat="ReqStr" value="70"/>
 		<PlayerStat stat="Dex" value="78"/>
-		<PlayerStat stat="ReqDex" value="111"/>
+		<PlayerStat stat="ReqDex" value="155"/>
 		<PlayerStat stat="Int" value="339"/>
 		<PlayerStat stat="ReqInt" value="194"/>
 		<PlayerStat stat="Devotion" value="0"/>
@@ -25,15 +25,15 @@
 		<PlayerStat stat="Spec:LifeInc" value="132"/>
 		<PlayerStat stat="LifeUnreserved" value="4099"/>
 		<PlayerStat stat="LifeUnreservedPercent" value="100"/>
-		<PlayerStat stat="LifeRegen" value="463.187"/>
+		<PlayerStat stat="LifeRegen" value="709.127"/>
 		<PlayerStat stat="LifeLeechGainPerHit" value="409.9"/>
-		<PlayerStat stat="Mana" value="978"/>
+		<PlayerStat stat="Mana" value="1093"/>
 		<PlayerStat stat="Spec:ManaInc" value="28"/>
-		<PlayerStat stat="ManaUnreserved" value="64"/>
-		<PlayerStat stat="ManaUnreservedPercent" value="6.5439672801636"/>
-		<PlayerStat stat="ManaRegen" value="35.4"/>
+		<PlayerStat stat="ManaUnreserved" value="80"/>
+		<PlayerStat stat="ManaUnreservedPercent" value="7.3193046660567"/>
+		<PlayerStat stat="ManaRegen" value="38.6"/>
 		<PlayerStat stat="ManaLeechGainPerHit" value="0"/>
-		<PlayerStat stat="EnergyShield" value="5732"/>
+		<PlayerStat stat="EnergyShield" value="6010"/>
 		<PlayerStat stat="Spec:EnergyShieldInc" value="104"/>
 		<PlayerStat stat="EnergyShieldRegen" value="0"/>
 		<PlayerStat stat="EnergyShieldLeechGainPerHit" value="0"/>
@@ -69,7 +69,7 @@
 	<Tree activeSpec="1">
 		<Spec treeVersion="3_8">
 			<URL>
-				https://poe.game.qq.com/passive-skill-tree/AAAABAYDABzcg_EI1Aj0jxpzbUIsbAiEd7zqakMRUPGKsijb576K8NXqumwLMhhsjLQ4pyvQ9cHFYeI6WMMJE4MG54PbD8Qi9Cyc2FTviLmT8h35N7TF-Jfv66EvXfLy4ZuaI18fQWNDDkj79VVLVGKMNkyzRbnbXq6zSbFJUQZ3tAzK0wVCidPXz5UuBx6P-uv1NxdFnX_GnaqU8bkGYk-3dQQHuMqkBckGLcQNfKKjoEM7fBEt8PlwUW0ZUDAgbnBSEZYfW6B5RwZTMfaf4Q9BlphTU1LQHw6OfIPQ0CaVKgtVxuUZswMe8Kb4YqzNKprg6-6TJw==
+				https://poe.game.qq.com/passive-skill-tree/AAAABAYDALIog_EI1Aj0jxpCLGwIhHe86tvnEVAGdxzcmuDNKmKs8NXqumwLMhhsjLQ4pyu5k8HFHvAjX8MJE4MG52pDD8Qi9Cyc2FTviPiX8h1VxioLJpXv66Ev0NDy4ZuafIMfQQ6ODkjQH1VLU1KMNkyzRbnbXq6zSbFJUfGKtAzK05hTQZbXz5UuYk--iuv19p8HHn_GnaqkBbkGyQa3dTpYoHm4yh9bEZYNfDt8c21tGREt8PlwUVAwLcQgbnBSYeKgQ6KjRwZTMQQH4Q-U8fv1-TdjQ0WdNxeP-onTXfIFQuUZswO0xab4VGLQ9YPb6-6TJw==
 			</URL>
 			<Sockets>
 				<Socket nodeId="7960" itemId="0"/>
@@ -81,18 +81,18 @@
 				<Socket nodeId="21984" itemId="0"/>
 				<Socket nodeId="46882" itemId="0"/>
 				<Socket nodeId="61419" itemId="9"/>
-				<Socket nodeId="54127" itemId="0"/>
+				<Socket nodeId="41263" itemId="9"/>
 				<Socket nodeId="6230" itemId="0"/>
 				<Socket nodeId="55190" itemId="0"/>
 				<Socket nodeId="48768" itemId="0"/>
-				<Socket nodeId="2491" itemId="0"/>
-				<Socket nodeId="61834" itemId="9"/>
-				<Socket nodeId="41263" itemId="9"/>
+				<Socket nodeId="26725" itemId="0"/>
+				<Socket nodeId="31683" itemId="0"/>
+				<Socket nodeId="34483" itemId="0"/>
 				<Socket nodeId="60735" itemId="0"/>
 				<Socket nodeId="33631" itemId="0"/>
-				<Socket nodeId="34483" itemId="0"/>
-				<Socket nodeId="31683" itemId="0"/>
-				<Socket nodeId="26725" itemId="0"/>
+				<Socket nodeId="54127" itemId="0"/>
+				<Socket nodeId="2491" itemId="0"/>
+				<Socket nodeId="61834" itemId="9"/>
 			</Sockets>
 		</Spec>
 	</Tree>
@@ -101,53 +101,69 @@
 	</Notes>
 	<Skills defaultGemQuality="nil" defaultGemLevel="nil" sortGemsByDPS="true">
 		<Skill mainActiveSkillCalcs="1" label="" enabled="true" slot="Body Armour" mainActiveSkill="1">
-			<Gem enableGlobal2="nil" skillMineCount="10" quality="20" level="20" gemId="Metadata/Items/Gems/SkillGemFreezeMine" skillId="ColdProjectileMine" enableGlobal1="true" enabled="true" nameSpec="冰锥地雷" skillMinion="SummonedPhantasm"/>
+			<Gem enableGlobal2="false" skillMineCount="10" quality="20" level="20" gemId="Metadata/Items/Gems/SkillGemFreezeMine" skillId="ColdProjectileMine" enableGlobal1="true" enabled="true" nameSpec="冰锥地雷" skillMinion="SummonedPhantasm"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemTrapAndMineDamage" skillId="SupportTrapAndMineDamage" enableGlobal1="true" enabled="true" nameSpec="陷阱及地雷伤害(辅)"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemColdPenetration" skillId="SupportColdPenetration" enableGlobal1="true" enabled="true" nameSpec="冰霜穿透(辅)"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemElementalFocus" skillId="SupportElementalFocus" enableGlobal1="true" enabled="true" nameSpec="元素集中(辅)"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemDamageAgainstChilled" skillId="SupportDamageAgainstChilled" enableGlobal1="true" enabled="true" nameSpec="急冻(辅)"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemControlledDestruction" skillId="SupportControlledDestruction" enableGlobal1="true" enabled="true" nameSpec="精准破坏(辅)"/>
+			<Gem enableGlobal2="nil" quality="0" level="20" gemId="Metadata/Items/Gems/SupportGemChain" skillId="SupportChain" enableGlobal1="true" enabled="false" nameSpec="连锁(辅)"/>
+		</Skill>
+		<Skill mainActiveSkillCalcs="1" label="" enabled="true" slot="Weapon 2" mainActiveSkill="1">
+			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemSummonSkitterbots" skillId="Skitterbots" enableGlobal1="true" enabled="true" nameSpec="召唤飞掠者" skillMinion="SummonedPhantasm"/>
+			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemHatred" skillId="Hatred" enableGlobal1="true" enabled="false" nameSpec="憎恨"/>
+			<Gem enableGlobal2="nil" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemDiscipline" skillId="Discipline" enableGlobal1="true" enabled="false" nameSpec="纪律"/>
+			<Gem enableGlobal2="nil" quality="0" level="3" gemId="Metadata/Items/Gems/SupportGemAdditionalXP" skillId="SupportAdditionalXP" enableGlobal1="true" enabled="true" nameSpec="启蒙(辅)"/>
+			<Gem enableGlobal2="nil" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemSpellDamageAura" skillId="SpellDamageAura" enableGlobal1="true" enabled="true" nameSpec="奋锐光环"/>
+		</Skill>
+		<Skill mainActiveSkillCalcs="1" label="" enabled="true" mainActiveSkill="1">
+			<Gem enableGlobal2="nil" skillMineCount="0" quality="20" level="20" gemId="Metadata/Items/Gems/SkillGemGlacialCascade" skillId="GlacialCascade" enableGlobal1="true" enabled="true" nameSpec="冰川之刺" skillMinion="SummonedPhantasm"/>
+			<Gem enableGlobal2="nil" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemHighImpactMineSupport" skillId="SupportRemoteMine2" enableGlobal1="true" enabled="true" nameSpec="高爆地雷辅助"/>
+			<Gem enableGlobal2="nil" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemConcentratedEffect" skillId="SupportConcentratedEffect" enableGlobal1="true" enabled="true" nameSpec="集中效应(辅)"/>
 			<Gem enableGlobal2="nil" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemTrapAndMineDamage" skillId="SupportTrapAndMineDamage" enableGlobal1="true" enabled="true" nameSpec="陷阱及地雷伤害(辅)"/>
-			<Gem enableGlobal2="nil" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemColdPenetration" skillId="SupportColdPenetration" enableGlobal1="true" enabled="true" nameSpec="冰霜穿透(辅)"/>
-			<Gem enableGlobal2="nil" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemElementalFocus" skillId="SupportElementalFocus" enableGlobal1="true" enabled="true" nameSpec="元素集中(辅)"/>
 			<Gem enableGlobal2="nil" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemDamageAgainstChilled" skillId="SupportDamageAgainstChilled" enableGlobal1="true" enabled="true" nameSpec="急冻(辅)"/>
 			<Gem enableGlobal2="nil" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemControlledDestruction" skillId="SupportControlledDestruction" enableGlobal1="true" enabled="true" nameSpec="精准破坏(辅)"/>
-			<Gem enableGlobal2="nil" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemMinefield" skillId="SupportMinefield" enableGlobal1="true" enabled="false" nameSpec="地雷网(辅)"/>
 		</Skill>
-		<Skill mainActiveSkillCalcs="nil" label="" enabled="true" slot="Weapon 2" mainActiveSkill="nil">
-			<Gem enableGlobal2="nil" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemSummonSkitterbots" skillId="Skitterbots" enableGlobal1="true" enabled="true" nameSpec="召唤飞掠者" skillMinion="SummonedPhantasm"/>
-			<Gem enableGlobal2="nil" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemHatred" skillId="Hatred" enableGlobal1="true" enabled="true" nameSpec="憎恨"/>
-		</Skill>
-		<Skill mainActiveSkillCalcs="nil" label="" enabled="true" mainActiveSkill="nil"/>
 		<Skill source="Item:7:塑界之印, 蛋白石戒指" mainActiveSkillCalcs="nil" label="" enabled="true" slot="Ring 2" mainActiveSkill="nil">
 			<Gem enableGlobal2="nil" quality="0" level="20" skillId="召唤异动奇点" enableGlobal1="true" enabled="true" nameSpec=""/>
 		</Skill>
+		<Skill mainActiveSkillCalcs="nil" label="" enabled="true" mainActiveSkill="nil">
+			<Gem enableGlobal2="nil" quality="0" level="20" gemId="Metadata/Items/Gems/SupportGemCastOnDamageTaken" skillId="SupportCastOnDamageTaken" enableGlobal1="true" enabled="true" nameSpec="受伤时施放(辅)"/>
+			<Gem enableGlobal2="nil" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemFrostBomb" skillId="FrostBomb" enableGlobal1="false" enabled="true" nameSpec="寒霜爆" skillMinion="SummonedPhantasm"/>
+			<Gem enableGlobal2="nil" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemProjectileWeakness" skillId="ProjectileWeakness" enableGlobal1="false" enabled="true" nameSpec="投射物要害"/>
+		</Skill>
+		<Skill mainActiveSkillCalcs="nil" label="" enabled="true" mainActiveSkill="nil"/>
 	</Skills>
 	<Calcs>
-		<Input name="skill_number" number="1"/>
 		<Input name="misc_buffMode" string="EFFECTIVE"/>
-		<Section collapsed="nil" id="SkillSelect"/>
-		<Section collapsed="nil" id="HitDamage"/>
-		<Section collapsed="nil" id="Dot"/>
-		<Section collapsed="nil" id="Speed"/>
-		<Section collapsed="nil" id="Crit"/>
-		<Section collapsed="nil" id="HitChance"/>
-		<Section collapsed="nil" id="SkillTypeStats"/>
-		<Section collapsed="nil" id="Bleed"/>
-		<Section collapsed="nil" id="Impale"/>
-		<Section collapsed="nil" id="Poison"/>
-		<Section collapsed="nil" id="Ignite"/>
-		<Section collapsed="nil" id="Decay"/>
-		<Section collapsed="nil" id="LeechGain"/>
-		<Section collapsed="nil" id="MiscEffects"/>
-		<Section collapsed="nil" id="Attributes"/>
-		<Section collapsed="nil" id="Life"/>
-		<Section collapsed="nil" id="Mana"/>
-		<Section collapsed="nil" id="EnergyShield"/>
-		<Section collapsed="nil" id="Armour"/>
-		<Section collapsed="nil" id="Evasion"/>
-		<Section collapsed="nil" id="Resist"/>
-		<Section collapsed="nil" id="DamageTaken"/>
-		<Section collapsed="nil" id="MiscDefences"/>
+		<Input name="skill_number" number="1"/>
+		<Section collapsed="false" id="SkillSelect"/>
+		<Section collapsed="false" id="HitDamage"/>
+		<Section collapsed="false" id="Dot"/>
+		<Section collapsed="false" id="Speed"/>
+		<Section collapsed="false" id="Crit"/>
+		<Section collapsed="false" id="HitChance"/>
+		<Section collapsed="false" id="SkillTypeStats"/>
+		<Section collapsed="false" id="Bleed"/>
+		<Section collapsed="false" id="Impale"/>
+		<Section collapsed="false" id="Poison"/>
+		<Section collapsed="false" id="Ignite"/>
+		<Section collapsed="false" id="Decay"/>
+		<Section collapsed="false" id="LeechGain"/>
+		<Section collapsed="false" id="MiscEffects"/>
+		<Section collapsed="false" id="Attributes"/>
+		<Section collapsed="false" id="Life"/>
+		<Section collapsed="false" id="Mana"/>
+		<Section collapsed="false" id="EnergyShield"/>
+		<Section collapsed="false" id="Armour"/>
+		<Section collapsed="false" id="Evasion"/>
+		<Section collapsed="false" id="Resist"/>
+		<Section collapsed="false" id="DamageTaken"/>
+		<Section collapsed="false" id="MiscDefences"/>
 	</Calcs>
 	<AboutTab/>
-	<TreeView searchStr="" zoomY="91.27037816358" showHeatMap="nil" zoomLevel="4" showStatDifferences="true" zoomX="-1190.1507472756"/>
-	<Items activeItemSet="1" useSecondWeaponSet="nil">
+	<TreeView searchStr="" zoomY="-120.43573844721" showHeatMap="false" zoomLevel="0" showStatDifferences="true" zoomX="-501.46574148424"/>
+	<Items activeItemSet="1" useSecondWeaponSet="false">
 		<Item id="1">
 			稀 有 度: 传奇
 Machina Mitts
@@ -288,7 +304,6 @@ Two-Stone Ring (Cold/Lightning)
 			稀 有 度: 传奇
 泯光寿衣
 禁礼之甲
-League: 深渊
 版本: 一个深渊插槽
 版本: 两个深渊插槽
 Selected Variant: 2
@@ -336,14 +351,13 @@ New Item
 前缀: {range:0.838}LocalIncreasedEnergyShield9
 前缀: {range:0.877}IncreasedLife9
 前缀: {range:0.127}LocalIncreasedEnergyShieldPercent8
-后缀: {range:1}DisplaySocketedGemsGetReducedReservationUber1
+后缀: None
 后缀: None
 后缀: None
 品质: 20
 插槽: B-B-B
 等级需求: 68
 固定基底词缀: 0
-此物品上的技能石降低 10% 魔力保留
 +74 最大能量护盾
 该装备的能量护盾提高 102%
 +98 最大生命
@@ -368,7 +382,35 @@ New Item
 {crafted}{range:0.585}获得等同 (9-10)% 最大生命的额外能量护盾
 			<ModRange range="0.585" id="3"/>
 		</Item>
+		<Item variant="5" id="12">
+			稀 有 度: 传奇
+黯黑贤者
+影语短杖
+League: 超越
+版本: 2.3.0以前
+版本: 3.0.0以前
+版本: 当前（生命/魔力）
+版本: 当前（生命/能量护盾）
+版本: 当前（魔力/能量护盾）
+Selected Variant: 5
+品质: 20
+插槽: B-B-B
+等级需求: 32
+固定基底词缀: 2
+{variant:1}火焰、冰霜、闪电伤害提高 15%
+{variant:2,3,4,5}火焰、冰霜、闪电伤害提高 22%
+{range:0.927}伤害提高 (30-50)%
+击中时有 7% 几率使敌人致盲
+{variant:1,2}每一级在击败敌人时获得 +1 魔力
+{variant:1,2}每一级在击败敌人时获得 +1 能量护盾
+{variant:4,3}每级 +1 生命
+{variant:5,3}每级 +1 魔力
+{variant:5,4}每级 +1 能量护盾
+不会被致盲
+			<ModRange range="0.927" id="3"/>
+		</Item>
 		<Slot name="Gloves" itemId="1"/>
+		<Slot name="Weapon 1" itemId="12"/>
 		<Slot name="Amulet" itemId="3"/>
 		<Slot name="Weapon 2" itemId="10"/>
 		<Slot name="Body Armour" itemId="11"/>
@@ -378,9 +420,9 @@ New Item
 		<Slot name="Ring 1" itemId="6"/>
 		<Slot name="Helmet" itemId="5"/>
 		<Slot name="Belt" itemId="2"/>
-		<ItemSet useSecondWeaponSet="nil" id="1">
+		<ItemSet useSecondWeaponSet="false" id="1">
 			<Slot name="Gloves" itemId="1"/>
-			<Slot name="Weapon 1" itemId="0"/>
+			<Slot name="Weapon 1" itemId="12"/>
 			<Slot name="Weapon 2Swap Abyssal Socket 2" itemId="0"/>
 			<Slot name="Belt Abyssal Socket 2" itemId="0"/>
 			<Slot name="Flask 3" itemId="0"/>
@@ -417,10 +459,12 @@ New Item
 		</ItemSet>
 	</Items>
 	<Config>
+		<Input name="usePowerCharges" boolean="true"/>
+		<Input name="multiplierMineDetonatedRecently" number="10"/>
 		<Input name="conditionEnemyChilled" boolean="true"/>
 		<Input name="enemyIsBoss" string="SHAPER"/>
 		<Input name="critChanceLucky" boolean="true"/>
-		<Input name="multiplierMineDetonatedRecently" number="10"/>
-		<Input name="usePowerCharges" boolean="true"/>
+		<Input name="conditionEnemyOnConsecratedGround" boolean="true"/>
+		<Input name="conditionOnConsecratedGround" boolean="true"/>
 	</Config>
 </PathOfBuilding>
