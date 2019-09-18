@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
-	<Build level="90" targetVersion="3_0" banditNormal="None" bandit="Alira" banditMerciless="None" className="游侠" ascendClassName="Deadeye" mainSocketGroup="1" viewMode="CONFIG" banditCruel="None">
+	<Build level="90" targetVersion="3_0" banditNormal="None" bandit="Alira" banditMerciless="None" className="游侠" ascendClassName="Deadeye" mainSocketGroup="1" viewMode="SKILLS" banditCruel="None">
 		<PlayerStat stat="AverageDamage" value="161264.51005579"/>
 		<PlayerStat stat="Speed" value="7.2384"/>
 		<PlayerStat stat="Speed" value="7.2384"/>
@@ -69,7 +69,7 @@
 	<Tree activeSpec="1">
 		<Spec treeVersion="3_8">
 			<URL>
-				https://poe.game.qq.com/passive-skill-tree/AAAABAICAH11W68Udd1IyBSNfe96E9plTdDQFr-kwjfU45-NgcGg8NUAXmXTYRBsjBX9d6J4GUlRbWzyuFVLJpVDMa1lOkLC7AUt6Ua9NhMEcUOK8LjZTirnVInTMHFqjJOQTZKNv-4Od9d07VFH1geMNtrBtUgj9gAGYqzxig-rvqfdqNvnYEGwq2wIj_pHfjB8jX7Egp2qZ6CHdu0_b1cV9i5Tt7bpvdNvm42WeO2Deu8qOLDYNj1jcPVv8LtwUmHiS3jqYkcGYnkILnXLTP88_hmO1CMk_ZoXkoAFtf66tMWi2f_esQENjdN-AQmjivLmSn38xQ==
+				https://poe.game.qq.com/passive-skill-tree/AAAABAICAH11W68Udd1IyBSNfe96E9r8xdDQD6ukwjfUjb-NgRa_8NVirGXTYRBsjBX9d6J4GaOKbWzyuAEJJpVDMa1l037C7A2N6Ua9NhMEcUOK8E4quNmi2edUtMVqjP66TZI6Qu4OkoBVS1FH1geMNuOftUgj9tQjdO3xijz-vqfdqNvndcuwqwguj_pieTB8jX7Egp2qFfaHdu0_Z6C3ti5T02_pvXrvm42WeO2DsNgqOPC7Nj31b2NwYEFwUmHiS3jqYkcGb1dHfmwITP_awRmOAAYk_ZoXd9cFtQUtMHGJ0__esQGTkElRAF7BoPLmSn1lTQ==
 			</URL>
 			<Sockets>
 				<Socket nodeId="7960" itemId="0"/>
@@ -81,18 +81,18 @@
 				<Socket nodeId="21984" itemId="0"/>
 				<Socket nodeId="46882" itemId="0"/>
 				<Socket nodeId="61419" itemId="0"/>
-				<Socket nodeId="41263" itemId="0"/>
+				<Socket nodeId="54127" itemId="8"/>
 				<Socket nodeId="31683" itemId="0"/>
 				<Socket nodeId="55190" itemId="0"/>
 				<Socket nodeId="48768" itemId="0"/>
-				<Socket nodeId="61834" itemId="8"/>
-				<Socket nodeId="2491" itemId="0"/>
-				<Socket nodeId="54127" itemId="8"/>
+				<Socket nodeId="26725" itemId="0"/>
+				<Socket nodeId="33989" itemId="0"/>
+				<Socket nodeId="6230" itemId="0"/>
 				<Socket nodeId="60735" itemId="0"/>
 				<Socket nodeId="33631" itemId="0"/>
-				<Socket nodeId="6230" itemId="0"/>
-				<Socket nodeId="33989" itemId="0"/>
-				<Socket nodeId="26725" itemId="0"/>
+				<Socket nodeId="41263" itemId="0"/>
+				<Socket nodeId="61834" itemId="8"/>
+				<Socket nodeId="2491" itemId="0"/>
 			</Sockets>
 		</Spec>
 	</Tree>
@@ -117,10 +117,10 @@
 		<Skill mainActiveSkillCalcs="1" label="" enabled="true" mainActiveSkill="1">
 			<Gem enableGlobal2="false" skillMinionSkillCalcs="1" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemSummonLightningGolem" skillId="SummonLightningGolem" skillMinionSkill="1" enableGlobal1="true" enabled="true" nameSpec="召唤闪电魔像" skillMinion="SummonedLightningGolem"/>
 		</Skill>
-		<Skill mainActiveSkillCalcs="nil" label="" enabled="true" mainActiveSkill="nil">
-			<Gem enableGlobal2="nil" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemMeleeTotem" skillId="TotemMelee" enableGlobal1="true" enabled="true" nameSpec="先祖卫士" skillMinion="SummonedPhantasm"/>
+		<Skill mainActiveSkillCalcs="1" label="" enabled="true" mainActiveSkill="1">
+			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemMeleeTotem" skillId="TotemMelee" enableGlobal1="true" enabled="true" nameSpec="先祖卫士" skillMinion="SummonedPhantasm"/>
 		</Skill>
-		<Skill mainActiveSkillCalcs="nil" label="" enabled="true" mainActiveSkill="nil"/>
+		<Skill mainActiveSkillCalcs="1" label="" enabled="true" mainActiveSkill="1"/>
 	</Skills>
 	<Calcs>
 		<Input name="misc_buffMode" string="EFFECTIVE"/>
@@ -739,12 +739,12 @@ New Item
 		<Input name="useFrenzyCharges" boolean="true"/>
 		<Input name="conditionUsedSkillRecently" boolean="true"/>
 		<Input name="critChanceLucky" boolean="true"/>
-		<Input name="projectileDistance" number="1"/>
-		<Input name="witheringTouchWitheredStackCount" number="15"/>
 		<Input name="conditionCriticalStrike" boolean="true"/>
+		<Input name="witheringTouchWitheredStackCount" number="15"/>
+		<Input name="enemyIsBoss" string="SHAPER"/>
 		<Input name="conditionUsedMovementSkillRecently" boolean="true"/>
 		<Input name="multiplierSkillUsedRecently" number="10"/>
 		<Input name="multiplierPoisonOnEnemy" number="12"/>
-		<Input name="enemyIsBoss" string="SHAPER"/>
+		<Input name="projectileDistance" number="1"/>
 	</Config>
 </PathOfBuilding>

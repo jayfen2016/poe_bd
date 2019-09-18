@@ -1,24 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
-	<Build level="90" targetVersion="3_0" banditNormal="None" bandit="Alira" banditMerciless="None" className="野蛮人" ascendClassName="Berserker" mainSocketGroup="5" viewMode="CONFIG" banditCruel="None">
-		<PlayerStat stat="AverageDamage" value="3217014.7076959"/>
+	<Build level="90" targetVersion="3_0" banditNormal="None" bandit="Alira" banditMerciless="None" className="野蛮人" ascendClassName="Berserker" mainSocketGroup="5" viewMode="TREE" banditCruel="None">
+		<PlayerStat stat="AverageDamage" value="2612615.9002641"/>
 		<PlayerStat stat="Speed" value="3.36"/>
 		<PlayerStat stat="Speed" value="3.36"/>
-		<PlayerStat stat="PreEffectiveCritChance" value="46.55"/>
-		<PlayerStat stat="CritChance" value="67.85942625"/>
-		<PlayerStat stat="CritMultiplier" value="5.35"/>
+		<PlayerStat stat="PreEffectiveCritChance" value="44.45"/>
+		<PlayerStat stat="CritChance" value="65.68487625"/>
+		<PlayerStat stat="CritMultiplier" value="4.95"/>
 		<PlayerStat stat="HitChance" value="95"/>
-		<PlayerStat stat="TotalDPS" value="10809169.417858"/>
+		<PlayerStat stat="TotalDPS" value="8778389.4248873"/>
 		<PlayerStat stat="TotalDot" value="0"/>
-		<PlayerStat stat="IgniteDPS" value="2428.3837462604"/>
-		<PlayerStat stat="WithPoisonDPS" value="10809169.417858"/>
+		<PlayerStat stat="IgniteDPS" value="2426.4894046079"/>
+		<PlayerStat stat="WithPoisonDPS" value="8778389.4248873"/>
 		<PlayerStat stat="ManaCost" value="36"/>
 		<PlayerStat stat="Str" value="345"/>
 		<PlayerStat stat="ReqStr" value="180"/>
 		<PlayerStat stat="Dex" value="157"/>
 		<PlayerStat stat="ReqDex" value="112"/>
 		<PlayerStat stat="Int" value="147"/>
-		<PlayerStat stat="ReqInt" value="111"/>
+		<PlayerStat stat="ReqInt" value="117"/>
+		<PlayerStat stat="Devotion" value="0"/>
 		<PlayerStat stat="Life" value="6845"/>
 		<PlayerStat stat="Spec:LifeInc" value="237"/>
 		<PlayerStat stat="LifeUnreserved" value="6845"/>
@@ -37,9 +38,9 @@
 		<PlayerStat stat="EnergyShieldLeechGainRate" value="0"/>
 		<PlayerStat stat="Evasion" value="1538"/>
 		<PlayerStat stat="Spec:EvasionInc" value="78"/>
-		<PlayerStat stat="MeleeEvadeChance" value="5"/>
-		<PlayerStat stat="MeleeEvadeChance" value="5"/>
-		<PlayerStat stat="ProjectileEvadeChance" value="5"/>
+		<PlayerStat stat="MeleeEvadeChance" value="6"/>
+		<PlayerStat stat="MeleeEvadeChance" value="6"/>
+		<PlayerStat stat="ProjectileEvadeChance" value="6"/>
 		<PlayerStat stat="Armour" value="10962"/>
 		<PlayerStat stat="Spec:ArmourInc" value="122"/>
 		<PlayerStat stat="PhysicalDamageReduction" value="47"/>
@@ -64,10 +65,10 @@
 		<PlayerStat stat="EnduranceChargesMax" value="3"/>
 	</Build>
 	<Import/>
-	<Tree activeSpec="2">
+	<Tree activeSpec="3">
 		<Spec treeVersion="3_6">
 			<URL>
-				https://poe.game.qq.com/passive-skill-tree/AAAABAABAHX9WfMdFCHQFm-Nv7XyveZRR8GgCdmUb-96kn33Mha_g8w31InTjYG0xf6PYqw8LcaubIwV_a-NeBlVhW1s53Q64SaVo4qC5Lc-ZlSmrzD4d-VF9PAfPT7irb687g7nVB3CJy8-z-8O2L0Es2SvlyFVS9YHijiNfVBHI_Znm5OQjDaiAPrScqnlz5KArj7E9gBeCC7BfDB8_gqdqmaee8Mt0oKbb1eDX7VITZKQETrYm43_3u2D7T8aOHIPNj2QVaXL5FVwUuNqYeIgWeRRykaKrxQg1EIZjtN-JP2aF6yqBbVKyJ8-mG-mV03jwuxuqjWS8kV7boRv3CM=
+				https://poe.game.qq.com/passive-skill-tree/AAAABAABAHX9WfMdFIRvFm9kr42_veY1km6qjX3vesLsxq73Mha_plc31JhvjYGfPv6PYqxKyDwtbIwV_ayqeBlVhW1smhc64SaVo4qC5Lc-ZlSmrzD4d-VF9PAfkn3irb68lG_nVNN-GY4-z-8OUUcEsxQgiq9VS9YHijgJ2VBHI_Znm5OQIFlh4uNqcqlwUuRVrj7E9gBeMHzBfAgu_goaOJ2q7T8t0nvDb1ftg__eTZI62JARm421SINfgptmnnIPNj2QVaXLkoDlz_rSogCMNuRRykaXIbXy1EInLx3CJP3ndK-NBbU9PrTFidODzE3j7g7BoNi98kV7biHQ3CM=
 			</URL>
 			<Sockets>
 				<Socket nodeId="7960" itemId="0"/>
@@ -79,23 +80,23 @@
 				<Socket nodeId="21984" itemId="0"/>
 				<Socket nodeId="46882" itemId="0"/>
 				<Socket nodeId="61419" itemId="6"/>
-				<Socket nodeId="41263" itemId="0"/>
+				<Socket nodeId="54127" itemId="6"/>
 				<Socket nodeId="31683" itemId="6"/>
 				<Socket nodeId="55190" itemId="0"/>
 				<Socket nodeId="48768" itemId="0"/>
-				<Socket nodeId="61834" itemId="6"/>
-				<Socket nodeId="2491" itemId="0"/>
-				<Socket nodeId="54127" itemId="6"/>
+				<Socket nodeId="26725" itemId="6"/>
+				<Socket nodeId="33989" itemId="0"/>
+				<Socket nodeId="6230" itemId="0"/>
 				<Socket nodeId="60735" itemId="6"/>
 				<Socket nodeId="33631" itemId="6"/>
-				<Socket nodeId="6230" itemId="0"/>
-				<Socket nodeId="33989" itemId="0"/>
-				<Socket nodeId="26725" itemId="6"/>
+				<Socket nodeId="41263" itemId="0"/>
+				<Socket nodeId="61834" itemId="6"/>
+				<Socket nodeId="2491" itemId="0"/>
 			</Sockets>
 		</Spec>
 		<Spec treeVersion="3_7">
 			<URL>
-				https://poe.game.qq.com/passive-skill-tree/AAAABAECACpNHRQUTRZvWfOvjfxLlG9nmxiRaGWiAG6qwzquPvJF_o9irH1bPC1sjBX9mG-MNsBmbWynbTrhxq618jpStz5mVErIMPibtYTF8B_z3aZXjM9fP4nTrY20xRME7w48_gSz-F-8n_ZI1geKOA-rUEc1kuDYdqw26eoQFHFyqQ48aPJF9HflUUxYYyaVnar-Cs9-Zp5h4ho4-OtvVz8ncFLqGMbYOtgkqj38g1-Sfayqcg82PZBVVUski-XP-tLjaoKb2L3kURa_rEdkr4PMJy_4ufcy5FXKSphX8kFf0F-w2XxN44IHxFjE9iGQ8uYUINwj
+				https://poe.game.qq.com/passive-skill-tree/AAAABAECACpNHRQUTRZvWfPg2PxLlG8UIBiRaGW18g-rIZA1ksT2_o9irH1b-F9sjBX9ggduqsBmbWynbTrhxq7ZfDpStz5mVErIMPibtYTF8B_z3V-wjM9fP4nTX9ATBJhX7w7KSgSzjDa8n_ZI1geKOPcyUEfDOmebdqw26eoQFHFyqQ48g8xkr3flFr9YY_4K2L1RTIKbnarjaho4-OvPfvrS5c_qGFVLOtgkqj38g1-Sfayqcg82PZBVxtgki3BSYeI_J29XZp7kUSaVrEdF9GjyJy_4uZhv5FWvjTz-8kG0xa2NpldN4zwtxFiuPvJF8uaiANwj
 			</URL>
 			<Sockets>
 				<Socket nodeId="7960" itemId="6"/>
@@ -103,22 +104,50 @@
 				<Socket nodeId="28475" itemId="6"/>
 				<Socket nodeId="26196" itemId="6"/>
 				<Socket nodeId="36634" itemId="6"/>
-				<Socket nodeId="34483" itemId="6"/>
+				<Socket nodeId="33989" itemId="6"/>
 				<Socket nodeId="21984" itemId="0"/>
 				<Socket nodeId="46882" itemId="0"/>
 				<Socket nodeId="61419" itemId="6"/>
 				<Socket nodeId="54127" itemId="6"/>
+				<Socket nodeId="6230" itemId="0"/>
+				<Socket nodeId="55190" itemId="0"/>
+				<Socket nodeId="48768" itemId="0"/>
+				<Socket nodeId="2491" itemId="0"/>
+				<Socket nodeId="61834" itemId="6"/>
+				<Socket nodeId="41263" itemId="0"/>
+				<Socket nodeId="60735" itemId="6"/>
+				<Socket nodeId="33631" itemId="6"/>
 				<Socket nodeId="31683" itemId="6"/>
+				<Socket nodeId="34483" itemId="6"/>
+				<Socket nodeId="26725" itemId="3"/>
+			</Sockets>
+		</Spec>
+		<Spec treeVersion="3_8">
+			<URL>
+				https://poe.game.qq.com/passive-skill-tree/AAAABAECACpNHRQUTRZvWfNnm_xLlG-iABiRaGW18vcy8kU1kq4-_o9irH1bjDZuqhX9PC0Es8BmbWynbTrhxq6mVzpStz5mVErIMPibtYTF8B_z3a2NjM9fP4nTtMVf0Dz-7w6vjRQg-F-8n_ZI1geKOJhvUEcPq-DYdqw26eoQFHFyqQ48aPJF9HflJpVYY9i9Zp7-Cm9Xnao_Jxo4gpvPfmHicFLqGMbYOtgkqj38g1-Sfayqcg82PZBVVUski-XP42r60vjrUUzkURa_rEdkr4PMJy_4uWyM5FXKShME8kGYV1-w2XxN44IHxFjE9iGQ8ubDOtwj
+			</URL>
+			<Sockets>
+				<Socket nodeId="7960" itemId="6"/>
+				<Socket nodeId="32763" itemId="0"/>
+				<Socket nodeId="28475" itemId="6"/>
+				<Socket nodeId="26196" itemId="6"/>
+				<Socket nodeId="36634" itemId="6"/>
+				<Socket nodeId="33989" itemId="6"/>
+				<Socket nodeId="21984" itemId="0"/>
+				<Socket nodeId="46882" itemId="0"/>
+				<Socket nodeId="61419" itemId="6"/>
+				<Socket nodeId="41263" itemId="0"/>
+				<Socket nodeId="6230" itemId="0"/>
 				<Socket nodeId="55190" itemId="0"/>
 				<Socket nodeId="48768" itemId="0"/>
 				<Socket nodeId="26725" itemId="3"/>
-				<Socket nodeId="33989" itemId="6"/>
-				<Socket nodeId="6230" itemId="0"/>
+				<Socket nodeId="34483" itemId="6"/>
+				<Socket nodeId="31683" itemId="6"/>
 				<Socket nodeId="60735" itemId="6"/>
 				<Socket nodeId="33631" itemId="6"/>
-				<Socket nodeId="41263" itemId="0"/>
-				<Socket nodeId="61834" itemId="6"/>
+				<Socket nodeId="54127" itemId="6"/>
 				<Socket nodeId="2491" itemId="0"/>
+				<Socket nodeId="61834" itemId="6"/>
 			</Sockets>
 		</Spec>
 	</Tree>
@@ -127,63 +156,63 @@
 	</Notes>
 	<Skills defaultGemQuality="nil" defaultGemLevel="nil" sortGemsByDPS="true">
 		<Skill mainActiveSkillCalcs="1" label="" enabled="true" slot="Body Armour" mainActiveSkill="1">
-			<Gem level="20" enableGlobal1="true" gemId="Metadata/Items/Gems/SkillGemInfernalBlow" enableGlobal2="false" quality="20" skillId="InfernalBlow" enabled="true" nameSpec="炼狱之击" skillMinion="SummonedPhantasm"/>
-			<Gem level="20" enableGlobal1="true" gemId="Metadata/Items/Gems/SupportGemMultistrike" enableGlobal2="false" quality="20" skillId="SupportMultistrike" enabled="true" nameSpec="多重打击(辅)"/>
-			<Gem level="20" enableGlobal1="true" gemId="Metadata/Items/Gems/SupportGemMeleePhysicalDamage" enableGlobal2="false" quality="20" skillId="SupportMeleePhysicalDamage" enabled="true" nameSpec="近战物理伤害(辅)"/>
-			<Gem level="20" enableGlobal1="true" gemId="Metadata/Items/Gems/SupportGemWeaponElementalDamage" enableGlobal2="false" quality="20" skillId="SupportWeaponElementalDamage" enabled="true" nameSpec="武器元素伤害(辅)"/>
-			<Gem level="20" enableGlobal1="true" gemId="Metadata/Items/Gems/SupportGemChanceToIgnite" enableGlobal2="false" quality="20" skillId="SupportChanceToIgnite" enabled="false" nameSpec="几率点燃(辅)"/>
-			<Gem level="20" enableGlobal1="true" gemId="Metadata/Items/Gems/SupportGemRage" enableGlobal2="false" quality="20" skillId="SupportRage" enabled="true" nameSpec="怒火（辅）"/>
-			<Gem level="20" enableGlobal1="true" gemId="Metadata/Items/Gems/SupportGemFortify" enableGlobal2="false" quality="20" skillId="SupportFortify" enabled="true" nameSpec="护体(辅)"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SkillGemInfernalBlow" skillId="InfernalBlow" enableGlobal1="true" enabled="true" nameSpec="炼狱之击" skillMinion="SummonedPhantasm"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemMultistrike" skillId="SupportMultistrike" enableGlobal1="true" enabled="true" nameSpec="多重打击(辅)"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemMeleePhysicalDamage" skillId="SupportMeleePhysicalDamage" enableGlobal1="true" enabled="true" nameSpec="近战物理伤害(辅)"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemWeaponElementalDamage" skillId="SupportWeaponElementalDamage" enableGlobal1="true" enabled="true" nameSpec="武器元素伤害(辅)"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemChanceToIgnite" skillId="SupportChanceToIgnite" enableGlobal1="true" enabled="false" nameSpec="几率点燃(辅)"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemRage" skillId="SupportRage" enableGlobal1="true" enabled="true" nameSpec="怒火（辅）"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemFortify" skillId="SupportFortify" enableGlobal1="true" enabled="true" nameSpec="护体(辅)"/>
 		</Skill>
 		<Skill mainActiveSkillCalcs="1" label="" enabled="true" slot="Boots" mainActiveSkill="1">
-			<Gem level="3" enableGlobal1="true" gemId="Metadata/Items/Gems/SupportGemAdditionalXP" enableGlobal2="false" quality="0" skillId="SupportAdditionalXP" enabled="true" nameSpec="启蒙(辅)"/>
-			<Gem level="20" enableGlobal1="true" gemId="Metadata/Items/Gems/HeraldOfPurity" skillMinionSkill="1" enableGlobal2="false" quality="0" skillPart="1" skillMinionSkillCalcs="1" skillId="HeraldOfPurity" enabled="true" nameSpec="纯净之捷" skillMinion="AxisEliteSoldierHeraldOfLight"/>
-			<Gem level="20" enableGlobal1="true" gemId="Metadata/Items/Gems/SkillGemHeraldOfAsh" enableGlobal2="false" quality="0" skillId="HeraldOfAsh" enabled="true" nameSpec="灰烬之捷"/>
-			<Gem level="20" enableGlobal1="true" gemId="Metadata/Items/Gems/SkillGemPrecision" enableGlobal2="false" quality="0" skillId="AccuracyAndCritsAura" enabled="true" nameSpec="精准"/>
+			<Gem enableGlobal2="false" quality="0" level="3" gemId="Metadata/Items/Gems/SupportGemAdditionalXP" skillId="SupportAdditionalXP" enableGlobal1="true" enabled="true" nameSpec="启蒙(辅)"/>
+			<Gem enableGlobal2="false" skillMinionSkillCalcs="1" quality="0" level="20" gemId="Metadata/Items/Gems/HeraldOfPurity" skillId="HeraldOfPurity" skillPart="1" skillMinionSkill="1" enableGlobal1="true" enabled="true" nameSpec="纯净之捷" skillMinion="AxisEliteSoldierHeraldOfLight"/>
+			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemHeraldOfAsh" skillId="HeraldOfAsh" enableGlobal1="true" enabled="true" nameSpec="灰烬之捷"/>
+			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemPrecision" skillId="AccuracyAndCritsAura" enableGlobal1="true" enabled="true" nameSpec="精准"/>
 		</Skill>
 		<Skill mainActiveSkillCalcs="1" label="" enabled="true" slot="Helmet" mainActiveSkill="3">
-			<Gem level="20" enableGlobal1="true" gemId="Metadata/Items/Gems/VaalAncestralWarchief" enableGlobal2="false" quality="0" skillId="VaalAncestralWarchief" enabled="true" nameSpec="瓦尔.先祖战士长" skillMinion="SummonedPhantasm"/>
-			<Gem level="20" enableGlobal1="true" gemId="Metadata/Items/Gems/SkillGemBerserk" enableGlobal2="false" quality="0" skillId="Berserk" enabled="true" nameSpec="狂怒"/>
-			<Gem level="20" enableGlobal1="true" gemId="Metadata/Items/Gems/SupportGemIncreasedDuration" enableGlobal2="false" quality="0" skillId="SupportIncreasedDuration" enabled="true" nameSpec="持续时间延长(辅)"/>
+			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/VaalAncestralWarchief" skillId="VaalAncestralWarchief" enableGlobal1="true" enabled="true" nameSpec="瓦尔.先祖战士长" skillMinion="SummonedPhantasm"/>
+			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemBerserk" skillId="Berserk" enableGlobal1="true" enabled="true" nameSpec="盛怒"/>
+			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SupportGemIncreasedDuration" skillId="SupportIncreasedDuration" enableGlobal1="true" enabled="true" nameSpec="持续时间延长(辅)"/>
 		</Skill>
 		<Skill mainActiveSkillCalcs="1" label="" enabled="true" slot="Weapon 2" mainActiveSkill="1">
-			<Gem level="20" enableGlobal1="true" gemId="Metadata/Items/Gems/SkillGemSummonIceGolem" skillMinionSkill="1" enableGlobal2="false" quality="0" skillMinionSkillCalcs="1" skillId="SummonIceGolem" enabled="true" nameSpec="召唤寒冰魔像" skillMinion="SummonedIceGolem"/>
+			<Gem enableGlobal2="false" skillMinionSkillCalcs="1" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemSummonIceGolem" skillId="SummonIceGolem" skillMinionSkill="1" enableGlobal1="true" enabled="true" nameSpec="召唤寒冰魔像" skillMinion="SummonedIceGolem"/>
 		</Skill>
 		<Skill mainActiveSkillCalcs="1" label="" enabled="true" slot="Body Armour" mainActiveSkill="1">
-			<Gem level="20" enableGlobal1="true" gemId="Metadata/Items/Gems/ConsecratedPath" enableGlobal2="false" quality="20" skillId="ConsecratedPath" enabled="true" nameSpec="奉献之路" skillMinion="SummonedPhantasm"/>
-			<Gem level="20" enableGlobal1="true" gemId="Metadata/Items/Gems/SupportGemWeaponElementalDamage" enableGlobal2="false" quality="20" skillId="SupportWeaponElementalDamage" enabled="true" nameSpec="武器元素伤害(辅)"/>
-			<Gem level="20" enableGlobal1="true" gemId="Metadata/Items/Gems/SupportGemConcentratedEffect" enableGlobal2="false" quality="20" skillId="SupportConcentratedEffect" enabled="true" nameSpec="集中效应(辅)"/>
-			<Gem level="20" enableGlobal1="true" gemId="Metadata/Items/Gems/SupportGemRage" enableGlobal2="false" quality="20" skillId="SupportRage" enabled="true" nameSpec="怒火（辅）"/>
-			<Gem level="20" enableGlobal1="true" gemId="Metadata/Items/Gems/SupportGemMeleePhysicalDamage" enableGlobal2="false" quality="20" skillId="SupportMeleePhysicalDamage" enabled="true" nameSpec="近战物理伤害(辅)"/>
-			<Gem level="20" enableGlobal1="true" gemId="Metadata/Items/Gems/SupportGemRuthless" enableGlobal2="false" quality="20" skillId="SupportRuthless" enabled="true" nameSpec="无情(辅)"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/ConsecratedPath" skillId="ConsecratedPath" enableGlobal1="true" enabled="true" nameSpec="奉献之路" skillMinion="SummonedPhantasm"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemWeaponElementalDamage" skillId="SupportWeaponElementalDamage" enableGlobal1="true" enabled="true" nameSpec="武器元素伤害(辅)"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemConcentratedEffect" skillId="SupportConcentratedEffect" enableGlobal1="true" enabled="true" nameSpec="集中效应(辅)"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemRage" skillId="SupportRage" enableGlobal1="true" enabled="true" nameSpec="怒火（辅）"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemMeleePhysicalDamage" skillId="SupportMeleePhysicalDamage" enableGlobal1="true" enabled="true" nameSpec="近战物理伤害(辅)"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemRuthless" skillId="SupportRuthless" enableGlobal1="true" enabled="true" nameSpec="无情(辅)"/>
 		</Skill>
 		<Skill mainActiveSkillCalcs="1" label="" enabled="true" mainActiveSkill="1">
-			<Gem level="20" enableGlobal1="true" gemId="Metadata/Items/Gems/SkillGemTectonicSlam" enableGlobal2="false" quality="20" skillPart="1" skillId="EnduranceChargeSlam" enabled="true" nameSpec="破釜一击" skillMinion="SummonedPhantasm"/>
-			<Gem level="20" enableGlobal1="true" gemId="Metadata/Items/Gems/SupportGemWeaponElementalDamage" enableGlobal2="false" quality="20" skillId="SupportWeaponElementalDamage" enabled="true" nameSpec="武器元素伤害(辅)"/>
-			<Gem level="20" enableGlobal1="true" gemId="Metadata/Items/Gems/SupportGemConcentratedEffect" enableGlobal2="false" quality="20" skillId="SupportConcentratedEffect" enabled="true" nameSpec="集中效应(辅)"/>
-			<Gem level="20" enableGlobal1="true" gemId="Metadata/Items/Gems/SupportGemRage" enableGlobal2="false" quality="20" skillId="SupportRage" enabled="true" nameSpec="怒火（辅）"/>
-			<Gem level="20" enableGlobal1="true" gemId="Metadata/Items/Gems/SupportGemMeleePhysicalDamage" enableGlobal2="false" quality="20" skillId="SupportMeleePhysicalDamage" enabled="true" nameSpec="近战物理伤害(辅)"/>
-			<Gem level="20" enableGlobal1="true" gemId="Metadata/Items/Gems/SupportGemMultistrike" enableGlobal2="false" quality="20" skillId="SupportMultistrike" enabled="true" nameSpec="多重打击(辅)"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SkillGemTectonicSlam" skillId="EnduranceChargeSlam" skillPart="1" enableGlobal1="true" enabled="true" nameSpec="破釜一击" skillMinion="SummonedPhantasm"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemWeaponElementalDamage" skillId="SupportWeaponElementalDamage" enableGlobal1="true" enabled="true" nameSpec="武器元素伤害(辅)"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemConcentratedEffect" skillId="SupportConcentratedEffect" enableGlobal1="true" enabled="true" nameSpec="集中效应(辅)"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemRage" skillId="SupportRage" enableGlobal1="true" enabled="true" nameSpec="怒火（辅）"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemMeleePhysicalDamage" skillId="SupportMeleePhysicalDamage" enableGlobal1="true" enabled="true" nameSpec="近战物理伤害(辅)"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemMultistrike" skillId="SupportMultistrike" enableGlobal1="true" enabled="true" nameSpec="多重打击(辅)"/>
 		</Skill>
 		<Skill mainActiveSkillCalcs="1" label="" enabled="true" slot="Gloves" mainActiveSkill="1">
-			<Gem level="1" enableGlobal1="true" gemId="Metadata/Items/Gems/SupportGemCastOnDamageTaken" enableGlobal2="false" quality="0" skillPart="1" skillId="SupportCastOnDamageTaken" enabled="true" nameSpec="受伤时施放(辅)" skillMinion="SummonedChaosGolem"/>
-			<Gem level="3" enableGlobal1="true" gemId="Metadata/Items/Gems/SkillGemBladeVortex" enableGlobal2="false" quality="0" skillPart="1" skillId="BladeVortex" enabled="true" nameSpec="飞刃风暴" skillMinion="SummonedPhantasm"/>
-			<Gem level="20" enableGlobal1="true" gemId="Metadata/Items/Gems/SupportGemChanceToIgnite" enableGlobal2="false" quality="0" skillId="SupportChanceToIgnite" enabled="true" nameSpec="几率点燃(辅)"/>
-			<Gem level="20" enableGlobal1="true" gemId="Metadata/Items/Gems/SupportGemPowerChargeOnCrit" enableGlobal2="nil" quality="0" skillId="SupportPowerChargeOnCrit" enabled="true" nameSpec="暴击获得暴击球(辅)"/>
+			<Gem enableGlobal2="false" quality="0" level="1" gemId="Metadata/Items/Gems/SupportGemCastOnDamageTaken" skillId="SupportCastOnDamageTaken" skillPart="1" enableGlobal1="true" enabled="true" nameSpec="受伤时施放(辅)" skillMinion="SummonedChaosGolem"/>
+			<Gem enableGlobal2="false" quality="0" level="3" gemId="Metadata/Items/Gems/SkillGemBladeVortex" skillId="BladeVortex" skillPart="1" enableGlobal1="true" enabled="true" nameSpec="飞刃风暴" skillMinion="SummonedPhantasm"/>
+			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SupportGemChanceToIgnite" skillId="SupportChanceToIgnite" enableGlobal1="true" enabled="true" nameSpec="几率点燃(辅)"/>
+			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SupportGemPowerChargeOnCrit" skillId="SupportPowerChargeOnCrit" enableGlobal1="true" enabled="true" nameSpec="暴击获得暴击球(辅)"/>
 		</Skill>
 		<Skill mainActiveSkillCalcs="1" label="" enabled="true" mainActiveSkill="1">
-			<Gem level="20" enableGlobal1="true" gemId="Metadata/Items/Gems/SkillGemCyclone" enableGlobal2="false" quality="20" skillPart="2" skillId="Cyclone" skillPartCalcs="2" enabled="true" nameSpec="旋风斩" skillMinion="SummonedPhantasm"/>
-			<Gem level="20" enableGlobal1="true" gemId="Metadata/Items/Gems/SupportGemMeleePhysicalDamage" enableGlobal2="false" quality="20" skillId="SupportMeleePhysicalDamage" enabled="true" nameSpec="近战物理伤害(辅)"/>
-			<Gem level="20" enableGlobal1="true" gemId="Metadata/Items/Gems/SupportGemStormBarrier" enableGlobal2="false" quality="20" skillId="SupportStormBarrier" enabled="false" nameSpec="灌能吟唱(辅)"/>
-			<Gem level="20" enableGlobal1="true" gemId="Metadata/Items/Gems/SupportGemFortify" enableGlobal2="false" quality="20" skillId="SupportFortify" enabled="true" nameSpec="护体(辅)"/>
-			<Gem level="20" enableGlobal1="true" gemId="Metadata/Items/Gems/SupportGemBrutality" enableGlobal2="false" quality="20" skillId="SupportBrutality" enabled="true" nameSpec="残暴(辅)"/>
-			<Gem level="20" enableGlobal1="true" gemId="Metadata/Items/Gems/SupportGemPulverise" enableGlobal2="false" quality="20" skillId="SupportPulverise" enabled="true" nameSpec="粉碎（辅）"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SkillGemCyclone" skillId="Cyclone" skillPart="2" enableGlobal1="true" skillPartCalcs="2" enabled="true" nameSpec="旋风斩" skillMinion="SummonedPhantasm"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemMeleePhysicalDamage" skillId="SupportMeleePhysicalDamage" enableGlobal1="true" enabled="true" nameSpec="近战物理伤害(辅)"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemStormBarrier" skillId="SupportStormBarrier" enableGlobal1="true" enabled="false" nameSpec="灌能吟唱(辅)"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemFortify" skillId="SupportFortify" enableGlobal1="true" enabled="true" nameSpec="护体(辅)"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemBrutality" skillId="SupportBrutality" enableGlobal1="true" enabled="true" nameSpec="残暴(辅)"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemPulverise" skillId="SupportPulverise" enableGlobal1="true" enabled="true" nameSpec="粉碎（辅）"/>
 		</Skill>
 		<Skill mainActiveSkillCalcs="1" label="" enabled="true" mainActiveSkill="1">
-			<Gem level="20" enableGlobal1="true" gemId="Metadata/Items/Gems/SkillGemBloodAndSand" enableGlobal2="nil" quality="0" skillId="BloodSandStance" enabled="true" nameSpec="血与沙"/>
+			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemBloodAndSand" skillId="BloodSandStance" enableGlobal1="true" enabled="true" nameSpec="血与沙"/>
 		</Skill>
-		<Skill source="Item:4:毁面者, 扣环护手" mainActiveSkillCalcs="nil" label="" enabled="true" slot="Gloves" mainActiveSkill="nil">
-			<Gem level="11" enableGlobal1="true" enableGlobal2="nil" quality="0" skillId="ElementalWeakness" enabled="true" nameSpec=""/>
+		<Skill source="Item:4:毁面者, 扣环护手" mainActiveSkillCalcs="1" label="" enabled="true" slot="Gloves" mainActiveSkill="1">
+			<Gem enableGlobal2="false" quality="0" level="11" gemId="Metadata/Items/Gems/SkillGemElementalWeakness" skillId="ElementalWeakness" enableGlobal1="true" enabled="true" nameSpec="元素要害"/>
 		</Skill>
 	</Skills>
 	<Calcs>
@@ -214,7 +243,7 @@
 		<Section collapsed="false" id="MiscDefences"/>
 	</Calcs>
 	<AboutTab/>
-	<TreeView searchStr="" zoomY="379.17631149978" showHeatMap="false" zoomLevel="4" showStatDifferences="true" zoomX="446.84771894337"/>
+	<TreeView searchStr="" zoomY="-57.511295972406" showHeatMap="false" zoomLevel="3" showStatDifferences="true" zoomX="-6.376900880525"/>
 	<Items activeItemSet="1" useSecondWeaponSet="false">
 		<Item variant="2" id="1">
 			稀 有 度: 传奇
@@ -388,7 +417,7 @@ Selected Variant: 4
 {variant:1}{range:0.5}提高 (70-100)% 药剂充能消耗
 {variant:1}药剂持续期间，近战物理总伤害额外提高 30%
 {variant:2}{range:0.5}药剂持续期间，近战物理总伤害额外提高 (30-35)%
-{variant:3,4}{range:0.5}药剂持续期间，近战物理总伤害额外提高 (20-25)%
+{variant:4,3}{range:0.5}药剂持续期间，近战物理总伤害额外提高 (20-25)%
 使用药剂时将区域内敌人击退
 			<ModRange range="0.5" id="4"/>
 			<ModRange range="0.5" id="5"/>
@@ -605,10 +634,10 @@ Selected Variant: 2
 		<Input name="useBlitzCharges" boolean="true"/>
 		<Input name="multiplierRage" number="50"/>
 		<Input name="usePowerCharges" boolean="true"/>
-		<Input name="bloodSandStance" string="BLOOD"/>
+		<Input name="conditionEnemyLowLife" boolean="true"/>
 		<Input name="conditionEnemyIgnited" boolean="true"/>
 		<Input name="conditionBeenSavageHitRecently" boolean="true"/>
-		<Input name="conditionEnemyLowLife" boolean="true"/>
+		<Input name="bloodSandStance" string="BLOOD"/>
 		<Input name="conditionBeenHitRecently" boolean="true"/>
 	</Config>
 </PathOfBuilding>
