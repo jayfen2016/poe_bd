@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PathOfBuilding>
+	<Build level="90" targetVersion="3_0" banditNormal="None" bandit="None" banditMerciless="None" className="贵族" ascendClassName="Ascendant" mainSocketGroup="2" viewMode="ITEMS" banditCruel="None">
+		<PlayerStat stat="ActiveMinionLimit" value="11"/>
+		<PlayerStat stat="AverageHit" value="0"/>
+		<PlayerStat stat="AverageDamage" value="0"/>
+		<PlayerStat stat="Speed" value="2.2"/>
+		<PlayerStat stat="Speed" value="2.2"/>
+		<PlayerStat stat="PreEffectiveCritChance" value="0"/>
+		<PlayerStat stat="CritChance" value="0"/>
+		<PlayerStat stat="CritMultiplier" value="1.5"/>
+		<PlayerStat stat="HitChance" value="100"/>
+		<PlayerStat stat="TotalDPS" value="0"/>
+		<PlayerStat stat="TotalDot" value="0"/>
+		<PlayerStat stat="WithPoisonDPS" value="0"/>
+		<PlayerStat stat="ManaCost" value="47"/>
+		<PlayerStat stat="Str" value="1142"/>
+		<PlayerStat stat="ReqStr" value="98"/>
+		<PlayerStat stat="Dex" value="79"/>
+		<PlayerStat stat="ReqDex" value="58"/>
+		<PlayerStat stat="Int" value="187"/>
+		<PlayerStat stat="ReqInt" value="155"/>
+		<PlayerStat stat="Devotion" value="0"/>
+		<PlayerStat stat="Life" value="7214"/>
+		<PlayerStat stat="Spec:LifeInc" value="224"/>
+		<PlayerStat stat="LifeUnreserved" value="7214"/>
+		<PlayerStat stat="LifeUnreservedPercent" value="100"/>
+		<PlayerStat stat="LifeRegen" value="476.124"/>
+		<PlayerStat stat="LifeLeechGainRate" value="0"/>
+		<PlayerStat stat="Mana" value="855"/>
+		<PlayerStat stat="Spec:ManaInc" value="28"/>
+		<PlayerStat stat="ManaUnreserved" value="256"/>
+		<PlayerStat stat="ManaUnreservedPercent" value="29.941520467836"/>
+		<PlayerStat stat="ManaRegen" value="20.9"/>
+		<PlayerStat stat="ManaLeechGainRate" value="0"/>
+		<PlayerStat stat="EnergyShield" value="212"/>
+		<PlayerStat stat="Spec:EnergyShieldInc" value="26"/>
+		<PlayerStat stat="EnergyShieldRegen" value="0"/>
+		<PlayerStat stat="EnergyShieldLeechGainRate" value="0"/>
+		<PlayerStat stat="Evasion" value="1077"/>
+		<PlayerStat stat="Spec:EvasionInc" value="24"/>
+		<PlayerStat stat="MeleeEvadeChance" value="1"/>
+		<PlayerStat stat="MeleeEvadeChance" value="1"/>
+		<PlayerStat stat="ProjectileEvadeChance" value="1"/>
+		<PlayerStat stat="Armour" value="1172"/>
+		<PlayerStat stat="Spec:ArmourInc" value="48"/>
+		<PlayerStat stat="PhysicalDamageReduction" value="9"/>
+		<PlayerStat stat="EffectiveMovementSpeedMod" value="1.17"/>
+		<PlayerStat stat="BlockChance" value="0"/>
+		<PlayerStat stat="SpellBlockChance" value="0"/>
+		<PlayerStat stat="AttackDodgeChance" value="0"/>
+		<PlayerStat stat="SpellDodgeChance" value="0"/>
+		<PlayerStat stat="FireResist" value="76"/>
+		<PlayerStat stat="ColdResist" value="75"/>
+		<PlayerStat stat="LightningResist" value="75"/>
+		<PlayerStat stat="ChaosResist" value="-29"/>
+		<PlayerStat stat="FireResistOverCap" value="9"/>
+		<PlayerStat stat="ColdResistOverCap" value="11"/>
+		<PlayerStat stat="LightningResistOverCap" value="21"/>
+		<PlayerStat stat="ChaosResistOverCap" value="0"/>
+		<PlayerStat stat="PowerCharges" value="0"/>
+		<PlayerStat stat="PowerChargesMax" value="3"/>
+		<PlayerStat stat="FrenzyCharges" value="0"/>
+		<PlayerStat stat="FrenzyChargesMax" value="3"/>
+		<PlayerStat stat="EnduranceCharges" value="0"/>
+		<PlayerStat stat="EnduranceChargesMax" value="3"/>
+		<PlayerStat stat="ActiveMinionLimit" value="11"/>
+		<MinionStat stat="AverageDamage" value="116242.56"/>
+		<MinionStat stat="Speed" value="1.08"/>
+		<MinionStat stat="TotalDPS" value="125541.9648"/>
+		<MinionStat stat="TotalDot" value="0"/>
+		<MinionStat stat="Life" value="9721"/>
+		<MinionStat stat="LifeRegen" value="194.42"/>
+	</Build>
+	<Import/>
+	<Tree activeSpec="1">
+		<Spec treeVersion="3_8">
+			<URL>
+				https://poe.game.qq.com/passive-skill-tree/AAAABAABABzcm6EI9Fnzjxr8S5RvGJH3MrXyZ3Hquk2swGaYrTrhguRmVLiTggdgs7687-sAwcT2V8m8n1BHfOWa4HKpRZ1mnho4-OvPfgQHYN4NfKi7ES0y0ZBVj0ZEBPrS5FGKr6yqeC-mV03j8kXr7h0USp8Wb30YakOiABhqNZL-j26qSOd34sauVcakDMJsLJzwH_Pd3tzvDhQgfIPYvUyzZ5t2rA48iby0DIRT_gpNue_9OliQESSqtz6DXzpSKPpyD0rIY7uwd-oYJy8Ql4PbFE3jamhlWAe86hBRoOZTUtAfAl_simvbRnGuPkVHFHGDzDbpXz8Es8y8PC2qxKcI2Xw=
+			</URL>
+			<Sockets>
+				<Socket nodeId="7960" itemId="0"/>
+				<Socket nodeId="32763" itemId="0"/>
+				<Socket nodeId="28475" itemId="0"/>
+				<Socket nodeId="26196" itemId="7"/>
+				<Socket nodeId="36634" itemId="0"/>
+				<Socket nodeId="34483" itemId="0"/>
+				<Socket nodeId="21984" itemId="0"/>
+				<Socket nodeId="46882" itemId="0"/>
+				<Socket nodeId="61419" itemId="7"/>
+				<Socket nodeId="41263" itemId="0"/>
+				<Socket nodeId="31683" itemId="0"/>
+				<Socket nodeId="55190" itemId="0"/>
+				<Socket nodeId="48768" itemId="0"/>
+				<Socket nodeId="61834" itemId="0"/>
+				<Socket nodeId="2491" itemId="0"/>
+				<Socket nodeId="54127" itemId="0"/>
+				<Socket nodeId="60735" itemId="0"/>
+				<Socket nodeId="33631" itemId="0"/>
+				<Socket nodeId="6230" itemId="0"/>
+				<Socket nodeId="33989" itemId="0"/>
+				<Socket nodeId="26725" itemId="8"/>
+			</Sockets>
+		</Spec>
+	</Tree>
+	<Notes>
+		
+	</Notes>
+	<Skills defaultGemQuality="nil" defaultGemLevel="nil" sortGemsByDPS="true">
+		<Skill mainActiveSkillCalcs="1" label="" enabled="true" mainActiveSkill="1">
+			<Gem enableGlobal2="false" skillMinionSkillCalcs="1" skillMinionCalcs="RaisedZombie" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemRaiseZombie" skillId="RaiseZombie" skillMinionSkill="1" enableGlobal1="true" enabled="true" nameSpec="魔卫复苏" skillMinion="RaisedZombie"/>
+		</Skill>
+		<Skill mainActiveSkillCalcs="1" label="" enabled="true" mainActiveSkill="1">
+			<Gem enableGlobal2="false" skillMinionSkillCalcs="3" skillMinionCalcs="RaisedSkeleton" quality="20" level="20" gemId="Metadata/Items/Gems/SkillGemSummonSkeletons" skillId="SummonSkeletons" skillMinionSkill="3" enableGlobal1="true" enabled="true" nameSpec="召唤魔侍" skillMinion="RaisedSkeleton"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemInfernalLegion" skillId="SupportBurningMinions" enableGlobal1="true" enabled="true" nameSpec="炎军辅助"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemMinionLife" skillId="SupportMinionLife" enableGlobal1="true" enabled="true" nameSpec="召唤生物生命(辅)"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemConcentratedEffect" skillId="SupportConcentratedEffect" enableGlobal1="true" enabled="true" nameSpec="集中效应(辅)"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemMinionDamage" skillId="SupportMinionDamage" enableGlobal1="true" enabled="true" nameSpec="召唤生物伤害(辅)"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemElementalFocus" skillId="SupportElementalFocus" enableGlobal1="true" enabled="true" nameSpec="元素集中(辅)"/>
+		</Skill>
+		<Skill source="Item:4:血脉相连, 骨制战甲" mainActiveSkillCalcs="1" label="" enabled="true" slot="Body Armour" mainActiveSkill="1">
+			<Gem enableGlobal2="false" quality="0" level="15" skillId="BloodOffering" enableGlobal1="true" enabled="true" nameSpec="血脉奉献"/>
+		</Skill>
+		<Skill mainActiveSkillCalcs="1" label="" enabled="true" mainActiveSkill="1">
+			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemFlammability" skillId="Flammability" enableGlobal1="true" enabled="true" nameSpec="易燃"/>
+			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SupportGemBlasphemy" skillId="SupportBlasphemy" enableGlobal1="true" enabled="true" nameSpec="诅咒光环(辅)"/>
+			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemElementalWeakness" skillId="ElementalWeakness" enableGlobal1="true" enabled="true" nameSpec="元素要害"/>
+		</Skill>
+		<Skill mainActiveSkillCalcs="1" label="" enabled="true" mainActiveSkill="1"/>
+	</Skills>
+	<Calcs>
+		<Input name="showMinion" boolean="true"/>
+		<Input name="skill_number" number="2"/>
+		<Input name="misc_buffMode" string="EFFECTIVE"/>
+		<Section collapsed="false" id="SkillSelect"/>
+		<Section collapsed="false" id="HitDamage"/>
+		<Section collapsed="false" id="Dot"/>
+		<Section collapsed="false" id="Speed"/>
+		<Section collapsed="false" id="Crit"/>
+		<Section collapsed="false" id="HitChance"/>
+		<Section collapsed="false" id="SkillTypeStats"/>
+		<Section collapsed="false" id="Bleed"/>
+		<Section collapsed="false" id="Impale"/>
+		<Section collapsed="false" id="Poison"/>
+		<Section collapsed="false" id="Ignite"/>
+		<Section collapsed="false" id="Decay"/>
+		<Section collapsed="false" id="LeechGain"/>
+		<Section collapsed="false" id="MiscEffects"/>
+		<Section collapsed="false" id="Attributes"/>
+		<Section collapsed="false" id="Life"/>
+		<Section collapsed="false" id="Mana"/>
+		<Section collapsed="false" id="EnergyShield"/>
+		<Section collapsed="false" id="Armour"/>
+		<Section collapsed="false" id="Evasion"/>
+		<Section collapsed="false" id="Resist"/>
+		<Section collapsed="false" id="DamageTaken"/>
+		<Section collapsed="false" id="MiscDefences"/>
+	</Calcs>
+	<AboutTab/>
+	<TreeView searchStr="" zoomY="-34.934774630371" showHeatMap="false" zoomLevel="2" showStatDifferences="true" zoomX="99.3487365022"/>
+	<Items activeItemSet="1" useSecondWeaponSet="false">
+		<Item variant="2" id="1">
+			稀 有 度: 传奇
+马雷格罗的染血透镜
+复合刺盾
+版本: 3.0.0以前
+版本: 当前
+Selected Variant: 2
+品质: 20
+插槽: G-G-G
+等级需求: 45
+固定基底词缀: 2
+{variant:1}{range:0.5}反射 (51-70) 物理伤害给近战攻击者
+{variant:2}2% 几率躲避法术击中
+{range:0.5}攻击速度提高 (10-15)%
+{range:0.537}最大生命提高 (10-20)%
+获得 -50% 火焰、冰霜、闪电抗性
+范围效果扩大 10%
+周围盟友在你死亡时，会回复等同你最大生命 2% 的生命
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.537" id="4"/>
+		</Item>
+		<Item id="2">
+			稀 有 度: 传奇
+叶兰德尔的拥抱
+远古之祭
+品质: 20
+插槽: B-B-B
+等级需求: 35
+固定基底词缀: 1
+火焰、冰霜、闪电伤害提高 18%
+{range:0.5}+(20-30) 全属性
+{range:0.5}召唤生物的伤害提高 (30-40)%
+异灵魔侍被击中时让敌人受到【灰烬缠身】
+{range:1}异灵魔侍每秒将其最大生命的 (15-30)% 转化为火焰伤害
+异灵魔侍获得【火之化身】
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="1" id="5"/>
+		</Item>
+		<Item id="3">
+			稀 有 度: 传奇
+结魂之环
+月光石戒指
+等级需求: 20
+固定基底词缀: 1
+{range:0.5}+(15-25) 最大能量护盾
+{range:0.5}(10-15) 每秒生命回复
+{range:0.5}魔力回复速度提高 (20-40)%
+召唤生物的最大生命提高 15%
+召唤生物的范围效果扩大 10%
+当你的召唤生物死亡时，承受 350 点物理伤害
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+		</Item>
+		<Item id="4">
+			稀 有 度: 传奇
+血脉相连
+骨制战甲
+品质: 20
+插槽: G-G-G-G-G-G
+等级需求: 35
+固定基底词缀: 0
+获得 15 级的的主动技能【血脉奉献】
+{range:0.5}该装备的闪避与能量护盾提高 (100-120)%
+{range:0.854}最大生命提高 (15-25)%
+{range:0.5}召唤生物的最大生命提高 (20-130)%
+每秒回复 1% 生命
+{range:0.5}召唤生物有额外 (6-10)% 躲避击中几率
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.854" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="6"/>
+		</Item>
+		<Item id="5">
+			稀 有 度: 传奇
+突围者
+重革腰带
+等级需求: 44
+固定基底词缀: 1
+{range:0.5}+(25-35) 力量
+{range:0.5}最大能量护盾提高 (6-10)%
+{range:0.817}最大生命提高 (6-10)%
+{range:0.5}+(17-23)% 混沌抗性
+攻击击中时，召唤生物有 5% 几率嘲讽敌人
+你的召唤生物死亡时产生腐蚀地面，每秒造成等同它们 20% 最大生命的混沌伤害
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.817" id="3"/>
+			<ModRange range="0.5" id="4"/>
+		</Item>
+		<Item id="6">
+			稀 有 度: 传奇
+男爵
+护面盔
+品质: 20
+插槽: R-R-R-R
+等级需求: 26
+固定基底词缀: 0
+此物品上装备的【召唤生物技能石】等级 +2
+{range:0.866}+(20-40) 力量
+召唤生物的最大生命提高 20%
+你一半的力量属性将添加至你的召唤生物身上
+每 300 点力量可使魔卫召唤上限额外提高 1 个
+当力量超过 1000 时，魔卫造成伤害的 2% 将会转化为给你的生命偷取
+			<ModRange range="0.866" id="2"/>
+		</Item>
+		<Item id="7">
+			稀 有 度: 传奇
+充分训练
+赤红珠宝
+范围: 大
+固定基底词缀: 0
+{range:0.78}+(16-24) 力量
+将范围内天赋所给予的智慧转换成力量
+			<ModRange range="0.78" id="1"/>
+		</Item>
+		<Item id="8">
+			稀 有 度: 传奇
+筋骨强化
+赤红珠宝
+固定基底词缀: 0
+{range:0.5}敏捷提高 (4-6)%
+{range:1}力量提高 (4-6)%
+{range:0.5}智慧降低 (10-15)%
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="1" id="2"/>
+			<ModRange range="0.5" id="3"/>
+		</Item>
+		<Item variant="2" id="9">
+			稀 有 度: 传奇
+阿尔贝隆的征途
+战士之靴
+版本: 3.0.0以前
+版本: 当前
+Selected Variant: 2
+品质: 20
+插槽: B-B-B-B
+等级需求: 49
+固定基底词缀: 0
+攻击附加 1 - 80 基础混沌伤害
+{range:0.5}+(180-220) 护甲
+{range:0.5}+(9-12)% 混沌抗性
+移动速度提高 20%
+{variant:1}+2 魔侍数量上限
+{variant:2}+1 魔侍数量上限
+{range:0.659}力量提高 (15-18)%
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.659" id="7"/>
+		</Item>
+		<Item id="10">
+			稀 有 度: 传奇
+均衡之符
+黑曜护身符
+等级需求: 20
+固定基底词缀: 1
+{range:0.5}+(10-16) 全属性
+{range:0.89}+(80-100) 全属性
+承受攻击造成的物理伤害 -4
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.89" id="2"/>
+		</Item>
+		<Item id="11">
+			稀 有 度: 稀有
+New Item
+巨人护手
+工艺: true
+前缀: {range:0.986}IncreasedLife7
+前缀: None
+前缀: None
+后缀: {range:1}FireResist8
+后缀: {range:0.859}Strength8
+后缀: {range:0.549}LightningResist6
+品质: 20
+插槽: R-R-R-R
+等级需求: 69
+固定基底词缀: 0
++49 力量
++79 最大生命
++48% 火焰抗性
++39% 闪电抗性
+		</Item>
+		<Item id="12">
+			稀 有 度: 稀有
+New Item
+Two-Stone Ring (Cold/Lightning)
+工艺: true
+前缀: {range:0.239}IncreasedLife7
+前缀: None
+前缀: None
+后缀: {range:0.239}Strength9
+后缀: {range:1}ColdResist4
+后缀: {range:0.187}AllResistances4
+品质: 0
+等级需求: 65
+固定基底词缀: 1
+{range:0.5}+(12-16)% 冰霜与闪电抗性
++52 力量
++72 最大生命
++12% 所有元素抗性
++29% 冰霜抗性
+			<ModRange range="0.5" id="1"/>
+		</Item>
+		<Item id="13">
+			稀 有 度: 稀有
+New Item
+深渊腰带
+工艺: true
+前缀: {range:0.155}IncreasedLife9
+前缀: None
+前缀: None
+后缀: {range:1}FireResist4
+后缀: {range:0.049}Strength10
+后缀: {range:1}LightningResist4
+品质: 0
+插槽: A
+等级需求: 68
+固定基底词缀: 1
+拥有 1 个深渊插槽
++56 力量
++91 最大生命
++29% 火焰抗性
++29% 闪电抗性
+		</Item>
+		<Slot name="Gloves" itemId="11"/>
+		<Slot name="Weapon 1" itemId="2"/>
+		<Slot name="Weapon 2" itemId="1"/>
+		<Slot name="Body Armour" itemId="4"/>
+		<Slot name="Ring 2" itemId="12"/>
+		<Slot name="Boots" itemId="9"/>
+		<Slot name="Ring 1" itemId="12"/>
+		<Slot name="Helmet" itemId="6"/>
+		<Slot name="Belt" itemId="13"/>
+		<ItemSet useSecondWeaponSet="false" id="1">
+			<Slot name="Gloves" itemId="11"/>
+			<Slot name="Weapon 1" itemId="2"/>
+			<Slot name="Weapon 2Swap Abyssal Socket 2" itemId="0"/>
+			<Slot name="Belt Abyssal Socket 2" itemId="0"/>
+			<Slot name="Flask 3" itemId="0"/>
+			<Slot name="Body Armour Abyssal Socket 2" itemId="0"/>
+			<Slot name="Amulet" itemId="0"/>
+			<Slot name="Flask 1" itemId="0"/>
+			<Slot name="Weapon 2Swap Abyssal Socket 1" itemId="0"/>
+			<Slot name="Flask 5" itemId="0"/>
+			<Slot name="Belt Abyssal Socket 1" itemId="0"/>
+			<Slot name="Flask 2" itemId="0"/>
+			<Slot name="Helmet Abyssal Socket 2" itemId="0"/>
+			<Slot name="Weapon 2 Swap" itemId="0"/>
+			<Slot name="Weapon 1 Abyssal Socket 1" itemId="0"/>
+			<Slot name="Weapon 2" itemId="1"/>
+			<Slot name="Body Armour" itemId="4"/>
+			<Slot name="Flask 4" itemId="0"/>
+			<Slot name="Weapon 1 Abyssal Socket 2" itemId="0"/>
+			<Slot name="Weapon 2 Abyssal Socket 2" itemId="0"/>
+			<Slot name="Weapon 1 Swap" itemId="0"/>
+			<Slot name="Ring 2" itemId="12"/>
+			<Slot name="Boots Abyssal Socket 2" itemId="0"/>
+			<Slot name="Gloves Abyssal Socket 2" itemId="0"/>
+			<Slot name="Body Armour Abyssal Socket 1" itemId="0"/>
+			<Slot name="Gloves Abyssal Socket 1" itemId="0"/>
+			<Slot name="Helmet Abyssal Socket 1" itemId="0"/>
+			<Slot name="Weapon 2 Abyssal Socket 1" itemId="0"/>
+			<Slot name="Boots" itemId="9"/>
+			<Slot name="Weapon 1Swap Abyssal Socket 1" itemId="0"/>
+			<Slot name="Ring 1" itemId="12"/>
+			<Slot name="Weapon 1Swap Abyssal Socket 2" itemId="0"/>
+			<Slot name="Helmet" itemId="6"/>
+			<Slot name="Boots Abyssal Socket 1" itemId="0"/>
+			<Slot name="Belt" itemId="13"/>
+		</ItemSet>
+	</Items>
+	<Config>
+		<Input name="conditionEnemyIgnited" boolean="true"/>
+		<Input name="conditionEnemyCoveredInAsh" boolean="true"/>
+		<Input name="enemyFireResist" number="-50"/>
+	</Config>
+</PathOfBuilding>

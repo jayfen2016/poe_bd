@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
-	<Build level="90" targetVersion="3_0" banditNormal="None" bandit="None" banditMerciless="None" className="暗影刺客" ascendClassName="Trickster" mainSocketGroup="1" viewMode="TREE" banditCruel="None">
+	<Build level="90" targetVersion="3_0" banditNormal="None" bandit="None" banditMerciless="None" className="暗影刺客" ascendClassName="Trickster" mainSocketGroup="1" viewMode="SKILLS" banditCruel="None">
 		<PlayerStat stat="AverageHit" value="64239.318"/>
 		<PlayerStat stat="AverageDamage" value="64239.318"/>
 		<PlayerStat stat="Speed" value="3.3571428571429"/>
@@ -70,7 +70,7 @@
 	<Tree activeSpec="1">
 		<Spec treeVersion="3_8">
 			<URL>
-				https://poe.game.qq.com/passive-skill-tree/AAAABAYCAFb6m6EdFBZvDdHxbFnztzAZ2I19tNHC7OOfjb8WQGKsGGr316Oj8NWio6Ej44RsjIV9lPGnCBa_bWx2giaVVcYTbfrSDO1WSCaId9f4l4w2lSBauSP27-txhZeF1CMzbE2S2rlxeQ5IEmlRR7vdLR9Ms7VIfOWVLhccNunxiklRJjrEzq8YYeLYJAQHGjgwfAcef8adqn8rh3bP3Wegg9udri6UEd0kqjpYWAfQH1Awcg82PZBVj0YgbmaeEZasmDOjFAnjaosOkUc09_v1Jy9jQxvIBbVVS7TFeC_lGdo7PLbIDMHztDghsEp9gLM=
+				https://poe.game.qq.com/passive-skill-tree/AAAABAYCAFb6m6EdFBZvDdHxbFnztzAZ2I19tNGU8Ra_FkCjo_DVoqOhI-OEbIyFfacIdoJxeW1stDj31yaVVcbC7DNsDO3aO2KsE234lxhqlSBauVVL7-txhZeFVkgmiE2S2rljQw5IjDZRR7vdLR9Ms7VIfOUj9jT3NunxipFHYeLjaq8YM6OVLhQJrJgRljB8Jjp_xp2qZp4aOM_dZ6AEBy6Uj0adrhHdJKo6WFgH0B9QMHIPNj2QVX8rIG6D2xJph3YXHAce2CSLDsTOSVH79Scv1CMbyHfXBbXjn7TFeC_lGY2_PLbIDMHz-tIhsEp9gLM=
 			</URL>
 			<Sockets>
 				<Socket nodeId="7960" itemId="0"/>
@@ -82,18 +82,18 @@
 				<Socket nodeId="21984" itemId="0"/>
 				<Socket nodeId="46882" itemId="0"/>
 				<Socket nodeId="61419" itemId="12"/>
-				<Socket nodeId="41263" itemId="0"/>
+				<Socket nodeId="54127" itemId="0"/>
 				<Socket nodeId="31683" itemId="0"/>
 				<Socket nodeId="55190" itemId="0"/>
 				<Socket nodeId="48768" itemId="0"/>
-				<Socket nodeId="61834" itemId="0"/>
-				<Socket nodeId="2491" itemId="0"/>
-				<Socket nodeId="54127" itemId="0"/>
+				<Socket nodeId="26725" itemId="0"/>
+				<Socket nodeId="33989" itemId="0"/>
+				<Socket nodeId="6230" itemId="0"/>
 				<Socket nodeId="60735" itemId="0"/>
 				<Socket nodeId="33631" itemId="0"/>
-				<Socket nodeId="6230" itemId="0"/>
-				<Socket nodeId="33989" itemId="0"/>
-				<Socket nodeId="26725" itemId="0"/>
+				<Socket nodeId="41263" itemId="0"/>
+				<Socket nodeId="61834" itemId="0"/>
+				<Socket nodeId="2491" itemId="0"/>
 			</Sockets>
 		</Spec>
 	</Tree>
@@ -165,7 +165,7 @@
 		<Section collapsed="false" id="MiscDefences"/>
 	</Calcs>
 	<AboutTab/>
-	<TreeView searchStr="灵巧" zoomY="-59.286765945624" showHeatMap="false" zoomLevel="0" showStatDifferences="true" zoomX="-435.60896042525"/>
+	<TreeView searchStr="灵巧" zoomY="-52.008821079482" showHeatMap="false" zoomLevel="0" showStatDifferences="true" zoomX="-671.49528617133"/>
 	<Items activeItemSet="1" useSecondWeaponSet="false">
 		<Item id="1">
 			稀 有 度: 传奇
@@ -560,10 +560,10 @@ New Item
 		<Input name="playerHasElementalEquilibrium" boolean="true"/>
 		<Input name="enemyIsBoss" string="NONE"/>
 		<Input name="conditionEnemyMoving" boolean="true"/>
-		<Input name="conditionKilledAffectedByDoT" boolean="true"/>
+		<Input name="usePowerCharges" boolean="true"/>
 		<Input name="conditionEnemyIgnited" boolean="true"/>
 		<Input name="conditionUsedMovementSkillRecently" boolean="true"/>
-		<Input name="usePowerCharges" boolean="true"/>
+		<Input name="conditionKilledAffectedByDoT" boolean="true"/>
 		<Input name="enemyConditionHitByColdDamage" boolean="true"/>
 	</Config>
 </PathOfBuilding>
