@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
-	<Build level="90" targetVersion="3_0" banditNormal="None" bandit="Alira" banditMerciless="None" className="暗影刺客" ascendClassName="Assassin" mainSocketGroup="2" viewMode="ITEMS" banditCruel="None">
-		<PlayerStat stat="AverageHit" value="254577.69332086"/>
-		<PlayerStat stat="AverageDamage" value="254577.69332086"/>
+	<Build level="90" targetVersion="3_0" banditNormal="None" bandit="Alira" banditMerciless="None" className="暗影刺客" ascendClassName="Assassin" mainSocketGroup="2" viewMode="SKILLS" banditCruel="None">
+		<PlayerStat stat="AverageHit" value="277378.39861555"/>
+		<PlayerStat stat="AverageDamage" value="277378.39861555"/>
 		<PlayerStat stat="Speed" value="5.5833333333333"/>
 		<PlayerStat stat="Speed" value="5.5833333333333"/>
 		<PlayerStat stat="PreEffectiveCritChance" value="61.6"/>
 		<PlayerStat stat="CritChance" value="85.2544"/>
 		<PlayerStat stat="CritMultiplier" value="5.15"/>
 		<PlayerStat stat="HitChance" value="100"/>
-		<PlayerStat stat="TotalDPS" value="1421392.1210415"/>
+		<PlayerStat stat="TotalDPS" value="1548696.0589368"/>
 		<PlayerStat stat="TotalDot" value="0"/>
-		<PlayerStat stat="WithPoisonDPS" value="1421392.1210415"/>
-		<PlayerStat stat="ManaCost" value="119"/>
+		<PlayerStat stat="WithPoisonDPS" value="1548696.0589368"/>
+		<PlayerStat stat="ManaCost" value="122"/>
 		<PlayerStat stat="Str" value="109"/>
 		<PlayerStat stat="ReqStr" value="155"/>
 		<PlayerStat stat="Dex" value="183"/>
@@ -28,8 +28,8 @@
 		<PlayerStat stat="LifeLeechGainRate" value="0"/>
 		<PlayerStat stat="Mana" value="904"/>
 		<PlayerStat stat="Spec:ManaInc" value="28"/>
-		<PlayerStat stat="ManaUnreserved" value="81"/>
-		<PlayerStat stat="ManaUnreservedPercent" value="8.9601769911504"/>
+		<PlayerStat stat="ManaUnreserved" value="75"/>
+		<PlayerStat stat="ManaUnreservedPercent" value="8.2964601769912"/>
 		<PlayerStat stat="ManaRegen" value="41.8"/>
 		<PlayerStat stat="ManaLeechGainRate" value="0"/>
 		<PlayerStat stat="EnergyShield" value="1330"/>
@@ -68,7 +68,7 @@
 	<Tree activeSpec="1">
 		<Spec treeVersion="3_8">
 			<URL>
-				https://poe.game.qq.com/passive-skill-tree/AAAABAYBAHX9qM8I9A3RyBSNfUlRvOpqQ6IAotk31IRvEJLdqPDVYqwWv-OEtvqOZONq2YbAZm1sMHHDCSaVVcY6Qg_EwuwsnB0U_965k_AflSAOSLTFUUeJ09WmaoyMNk2SH0EEs3yDIzZVSy0fTLO1SCP2rrMFQkGW8Yr1b2NDhTI7fOdUlS5h4o_66_UwfEWdf8adqgQHBx7tP3BuOliCm7jKrv-D27xvEZZLeFMQES1QMDY9sNiPRiBucFIrCh9Mz90y0dD1-tIyMtte1EJTUtQjJP0byAW1jb9FR6cI96Z9sPIdbIzB8xZvoqPr7prg
+				https://poe.game.qq.com/passive-skill-tree/AAAABAYBAHX9otkI9A3RyBSNfajPvOpqQ6IAhG831EGWEJLZhvDVoqMWb-OEtvqOZB0UMHHAZm1sDkjDCSaVVcY6Qg_EwuwsnP_eUUe5k_AflSC0xRa_YqyJ09Wmaoz1b02SH0EEs3yDIzZVSy0fTLO1SCP2rrMFQklR8YpjQzt83aiFMgcelS760o_66_UwfEWdf8adqoKbg9vtP3BuOlgRlrjKrv9TELxvS3jjajY9ES2w2DLRUDCPRiBucFJh4h9MKwrP3dD1BAcyMtte1EJTUtQjJP0byIw2BbXnVEVHpwj3po2_8h3B832wbIzr7prg
 			</URL>
 			<Sockets>
 				<Socket nodeId="7960" itemId="0"/>
@@ -76,22 +76,22 @@
 				<Socket nodeId="28475" itemId="0"/>
 				<Socket nodeId="26196" itemId="0"/>
 				<Socket nodeId="36634" itemId="0"/>
-				<Socket nodeId="33989" itemId="0"/>
+				<Socket nodeId="34483" itemId="0"/>
 				<Socket nodeId="21984" itemId="0"/>
 				<Socket nodeId="46882" itemId="0"/>
 				<Socket nodeId="61419" itemId="0"/>
-				<Socket nodeId="41263" itemId="0"/>
-				<Socket nodeId="6230" itemId="0"/>
+				<Socket nodeId="54127" itemId="0"/>
+				<Socket nodeId="31683" itemId="0"/>
 				<Socket nodeId="55190" itemId="0"/>
 				<Socket nodeId="48768" itemId="0"/>
 				<Socket nodeId="26725" itemId="0"/>
-				<Socket nodeId="31683" itemId="0"/>
-				<Socket nodeId="34483" itemId="0"/>
+				<Socket nodeId="33989" itemId="0"/>
+				<Socket nodeId="6230" itemId="0"/>
 				<Socket nodeId="60735" itemId="2"/>
 				<Socket nodeId="33631" itemId="0"/>
-				<Socket nodeId="54127" itemId="0"/>
-				<Socket nodeId="2491" itemId="0"/>
+				<Socket nodeId="41263" itemId="0"/>
 				<Socket nodeId="61834" itemId="7"/>
+				<Socket nodeId="2491" itemId="0"/>
 			</Sockets>
 		</Spec>
 	</Tree>
@@ -108,12 +108,13 @@
 			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SupportGemArcaneSurge" skillId="SupportArcaneSurge" enableGlobal1="true" enabled="true" nameSpec="秘术增强(辅)"/>
 		</Skill>
 		<Skill mainActiveSkillCalcs="1" label="" enabled="true" slot="Body Armour" mainActiveSkill="1">
-			<Gem enableGlobal2="false" quality="20" level="21" gemId="Metadata/Items/Gems/SkillGemEtherealKnives" skillId="EtherealKnives" enableGlobal1="true" enabled="true" nameSpec="虚空匕首" skillMinion="SummonedPhantasm"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SkillGemEtherealKnives" skillId="EtherealKnives" enableGlobal1="true" enabled="true" nameSpec="虚空匕首" skillMinion="SummonedPhantasm"/>
 			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemBrutality" skillId="SupportBrutality" enableGlobal1="true" enabled="true" nameSpec="残暴(辅)"/>
 			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemMulticast" skillId="SupportMulticast" enableGlobal1="true" enabled="true" nameSpec="施法回响(辅)"/>
 			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemControlledDestruction" skillId="SupportControlledDestruction" enableGlobal1="true" enabled="true" nameSpec="精准破坏(辅)"/>
 			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemFork" skillId="SupportFork" enableGlobal1="true" enabled="true" nameSpec="分裂(辅)"/>
-			<Gem enableGlobal2="false" quality="0" level="4" gemId="Metadata/Items/Gems/SupportGemAdditionalLevel" skillId="SupportAdditionalLevel" enableGlobal1="true" enabled="true" nameSpec="赋予(辅)"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemSlowerProjectiles" skillId="SupportSlowerProjectiles" enableGlobal1="true" enabled="true" nameSpec="投射物减速(辅)"/>
+			<Gem enableGlobal2="nil" quality="0" level="20" gemId="Metadata/Items/Gems/SupportGemPowerChargeOnCrit" skillId="SupportPowerChargeOnCrit" enableGlobal1="true" enabled="false" nameSpec="暴击获得暴击球(辅)"/>
 		</Skill>
 		<Skill mainActiveSkillCalcs="1" label="" enabled="true" slot="Helmet" mainActiveSkill="1">
 			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemFleshAndStone" skillId="BloodSandArmour" enableGlobal1="true" enabled="true" nameSpec="血肉与岩石"/>
@@ -130,7 +131,9 @@
 			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SupportGemHandcastAnticipation" skillId="SupportHandcastAnticipation" enableGlobal1="true" enabled="true" nameSpec="释出（辅）"/>
 			<Gem enableGlobal2="false" quality="0" level="4" gemId="Metadata/Items/Gems/SupportGemAdditionalLevel" skillId="SupportAdditionalLevel" enableGlobal1="true" enabled="true" nameSpec="赋予(辅)"/>
 		</Skill>
-		<Skill mainActiveSkillCalcs="1" label="" enabled="true" mainActiveSkill="1"/>
+		<Skill mainActiveSkillCalcs="1" label="" enabled="true" mainActiveSkill="1">
+			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemFireNovaMine" skillId="MortarBarrageMine" enableGlobal1="true" enabled="true" nameSpec="火屑地雷"/>
+		</Skill>
 		<Skill source="Item:3:塑界之印, 蛋白石戒指" mainActiveSkillCalcs="nil" label="" enabled="true" slot="Ring 1" mainActiveSkill="nil">
 			<Gem enableGlobal2="nil" quality="0" level="20" skillId="召唤异动奇点" enableGlobal1="true" enabled="true" nameSpec=""/>
 		</Skill>
@@ -163,7 +166,7 @@
 		<Section collapsed="false" id="MiscDefences"/>
 	</Calcs>
 	<AboutTab/>
-	<TreeView searchStr="能量护盾偷取" zoomY="30.308914054164" showHeatMap="false" zoomLevel="3" showStatDifferences="true" zoomX="-652.79640186408"/>
+	<TreeView searchStr="能量护盾偷取" zoomY="-57.111195379987" showHeatMap="false" zoomLevel="0" showStatDifferences="true" zoomX="-183.5506387245"/>
 	<Items activeItemSet="1" useSecondWeaponSet="false">
 		<Item id="1">
 			稀 有 度: 传奇
@@ -477,9 +480,9 @@ New Item
 	<Config>
 		<Input name="buffElusive" boolean="true"/>
 		<Input name="usePowerCharges" boolean="true"/>
-		<Input name="enemyIsBoss" string="SHAPER"/>
+		<Input name="enemyIsBoss" string="NONE"/>
 		<Input name="critChanceLucky" boolean="true"/>
-		<Input name="feedingFrenzyFeedingFrenzyActive" boolean="true"/>
 		<Input name="bloodSandStance" string="BLOOD"/>
+		<Input name="feedingFrenzyFeedingFrenzyActive" boolean="true"/>
 	</Config>
 </PathOfBuilding>
