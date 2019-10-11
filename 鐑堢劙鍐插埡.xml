@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
-	<Build level="90" targetVersion="3_0" banditNormal="None" bandit="None" banditMerciless="None" className="暗影刺客" ascendClassName="Trickster" mainSocketGroup="1" viewMode="SKILLS" banditCruel="None">
-		<PlayerStat stat="AverageHit" value="64239.318"/>
-		<PlayerStat stat="AverageDamage" value="64239.318"/>
+	<Build level="90" targetVersion="3_0" banditNormal="None" bandit="None" banditMerciless="None" className="暗影刺客" ascendClassName="Trickster" mainSocketGroup="1" viewMode="ITEMS" banditCruel="None">
+		<PlayerStat stat="AverageHit" value="74502.285"/>
+		<PlayerStat stat="AverageDamage" value="74502.285"/>
 		<PlayerStat stat="Speed" value="3.3571428571429"/>
 		<PlayerStat stat="Speed" value="3.3571428571429"/>
-		<PlayerStat stat="PreEffectiveCritChance" value="30"/>
-		<PlayerStat stat="CritChance" value="30"/>
+		<PlayerStat stat="PreEffectiveCritChance" value="33"/>
+		<PlayerStat stat="CritChance" value="33"/>
 		<PlayerStat stat="CritMultiplier" value="1"/>
 		<PlayerStat stat="HitChance" value="100"/>
-		<PlayerStat stat="TotalDPS" value="215660.56757143"/>
-		<PlayerStat stat="TotalDot" value="1012462.20787"/>
-		<PlayerStat stat="IgniteDPS" value="239853.2508625"/>
-		<PlayerStat stat="WithPoisonDPS" value="1228122.7754414"/>
+		<PlayerStat stat="TotalDPS" value="250114.81392857"/>
+		<PlayerStat stat="TotalDot" value="1105795.2806955"/>
+		<PlayerStat stat="IgniteDPS" value="261963.9282425"/>
+		<PlayerStat stat="WithPoisonDPS" value="1355910.0946241"/>
 		<PlayerStat stat="Cooldown" value="0.6993006993007"/>
 		<PlayerStat stat="ManaCost" value="0"/>
 		<PlayerStat stat="Str" value="84"/>
@@ -70,7 +70,7 @@
 	<Tree activeSpec="1">
 		<Spec treeVersion="3_8">
 			<URL>
-				https://poe.game.qq.com/passive-skill-tree/AAAABAYCAFb6m6EdFBZvDdHxbFnztzAZ2I19tNGU8Ra_FkCjo_DVoqOhI-OEbIyFfacIdoJxeW1stDj31yaVVcbC7DNsDO3aO2KsE234lxhqlSBauVVL7-txhZeFVkgmiE2S2rljQw5IjDZRR7vdLR9Ms7VIfOUj9jT3NunxipFHYeLjaq8YM6OVLhQJrJgRljB8Jjp_xp2qZp4aOM_dZ6AEBy6Uj0adrhHdJKo6WFgH0B9QMHIPNj2QVX8rIG6D2xJph3YXHAce2CSLDsTOSVH79Scv1CMbyHfXBbXjn7TFeC_lGY2_PLbIDMHz-tIhsEp9gLM=
+				https://poe.game.qq.com/passive-skill-tree/AAAABAYCAFb6m6FxeRZvDdHxbFnztzAZ2I19tNGU8Ra_FkCjo_DVoqN2guOEbIy0OJFHNPcdFG1s-tKhIyaVVcaFfWHiwuyNv1ZIGGr4lyaIlSBaueOf7-txhZeFM2wTbU2S2rmnCA5I1CNRR7vdLR9Ms7VII_ZVS9o7NunxiklRxM4Rlq8Y2CSVLhQJBx4XHDB8rJh_xp2qh3YaOM_dZ6AEBxJpg9sulBHdJKrQH1gHfytQMHIPNj2QVY9GIG46WONqna4zo2aeJjqLDnzljDb79ScvY0MbyHfXBbUM7bTFeC_lGWKsPLbIDMHz99chsEp9gLM=
 			</URL>
 			<Sockets>
 				<Socket nodeId="7960" itemId="0"/>
@@ -78,22 +78,22 @@
 				<Socket nodeId="28475" itemId="0"/>
 				<Socket nodeId="26196" itemId="0"/>
 				<Socket nodeId="36634" itemId="0"/>
-				<Socket nodeId="34483" itemId="0"/>
+				<Socket nodeId="33989" itemId="0"/>
 				<Socket nodeId="21984" itemId="0"/>
 				<Socket nodeId="46882" itemId="0"/>
 				<Socket nodeId="61419" itemId="12"/>
 				<Socket nodeId="54127" itemId="0"/>
-				<Socket nodeId="31683" itemId="0"/>
+				<Socket nodeId="6230" itemId="0"/>
 				<Socket nodeId="55190" itemId="0"/>
 				<Socket nodeId="48768" itemId="0"/>
-				<Socket nodeId="26725" itemId="0"/>
-				<Socket nodeId="33989" itemId="0"/>
-				<Socket nodeId="6230" itemId="0"/>
+				<Socket nodeId="2491" itemId="0"/>
+				<Socket nodeId="61834" itemId="0"/>
+				<Socket nodeId="41263" itemId="0"/>
 				<Socket nodeId="60735" itemId="0"/>
 				<Socket nodeId="33631" itemId="0"/>
-				<Socket nodeId="41263" itemId="0"/>
-				<Socket nodeId="61834" itemId="0"/>
-				<Socket nodeId="2491" itemId="0"/>
+				<Socket nodeId="31683" itemId="0"/>
+				<Socket nodeId="34483" itemId="0"/>
+				<Socket nodeId="26725" itemId="0"/>
 			</Sockets>
 		</Spec>
 	</Tree>
@@ -107,7 +107,8 @@
 			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemRapidDecay" skillId="SupportRapidDecay" enableGlobal1="true" enabled="true" nameSpec="极速腐化(辅)"/>
 			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemPowerChargeOnCrit" skillId="SupportPowerChargeOnCrit" enableGlobal1="true" enabled="true" nameSpec="暴击获得暴击球(辅)"/>
 			<Gem enableGlobal2="false" quality="20" level="4" gemId="Metadata/Items/Gems/SupportGemAdditionalLevel" skillId="SupportAdditionalLevel" enableGlobal1="true" enabled="true" nameSpec="赋予(辅)"/>
-			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemEfficacy" skillId="SupportEfficacy" enableGlobal1="true" enabled="true" nameSpec="效能(辅)"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemEfficacy" skillId="SupportEfficacy" enableGlobal1="true" enabled="false" nameSpec="效能(辅)"/>
+			<Gem enableGlobal2="nil" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemReducedMana" skillId="SupportReducedMana" enableGlobal1="true" enabled="true" nameSpec="启迪辅助"/>
 		</Skill>
 		<Skill mainActiveSkillCalcs="1" label="" enabled="true" slot="Helmet" mainActiveSkill="1">
 			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SkillGemFlammability" skillId="Flammability" enableGlobal1="true" enabled="true" nameSpec="易燃"/>
@@ -137,7 +138,7 @@
 		</Skill>
 	</Skills>
 	<Calcs>
-		<Input name="showMinion" boolean="true"/>
+		<Input name="showMinion" boolean="false"/>
 		<Input name="skill_number" number="3"/>
 		<Input name="misc_buffMode" string="EFFECTIVE"/>
 		<Section collapsed="false" id="SkillSelect"/>
@@ -165,7 +166,7 @@
 		<Section collapsed="false" id="MiscDefences"/>
 	</Calcs>
 	<AboutTab/>
-	<TreeView searchStr="灵巧" zoomY="-52.008821079482" showHeatMap="false" zoomLevel="0" showStatDifferences="true" zoomX="-671.49528617133"/>
+	<TreeView searchStr="灵巧" zoomY="276.76330378753" showHeatMap="false" zoomLevel="4" showStatDifferences="true" zoomX="-64.266345133188"/>
 	<Items activeItemSet="1" useSecondWeaponSet="false">
 		<Item id="1">
 			稀 有 度: 传奇
@@ -560,10 +561,11 @@ New Item
 		<Input name="playerHasElementalEquilibrium" boolean="true"/>
 		<Input name="enemyIsBoss" string="NONE"/>
 		<Input name="conditionEnemyMoving" boolean="true"/>
-		<Input name="usePowerCharges" boolean="true"/>
+		<Input name="conditionKilledAffectedByDoT" boolean="true"/>
+		<Input name="useInspirationCharges" boolean="true"/>
 		<Input name="conditionEnemyIgnited" boolean="true"/>
 		<Input name="conditionUsedMovementSkillRecently" boolean="true"/>
-		<Input name="conditionKilledAffectedByDoT" boolean="true"/>
+		<Input name="usePowerCharges" boolean="true"/>
 		<Input name="enemyConditionHitByColdDamage" boolean="true"/>
 	</Config>
 </PathOfBuilding>
