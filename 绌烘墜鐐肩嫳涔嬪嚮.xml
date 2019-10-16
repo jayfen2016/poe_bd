@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
-	<Build level="90" targetVersion="3_0" banditNormal="None" bandit="Alira" banditMerciless="None" className="野蛮人" ascendClassName="Berserker" mainSocketGroup="5" viewMode="TREE" banditCruel="None">
-		<PlayerStat stat="AverageDamage" value="2612615.9002641"/>
-		<PlayerStat stat="Speed" value="3.36"/>
-		<PlayerStat stat="Speed" value="3.36"/>
+	<Build level="90" targetVersion="3_0" banditNormal="None" bandit="Alira" banditMerciless="None" className="野蛮人" ascendClassName="Berserker" mainSocketGroup="8" viewMode="SKILLS" banditCruel="None">
+		<PlayerStat stat="AverageDamage" value="0"/>
+		<PlayerStat stat="Speed" value="10.728"/>
+		<PlayerStat stat="Speed" value="10.728"/>
 		<PlayerStat stat="PreEffectiveCritChance" value="44.45"/>
 		<PlayerStat stat="CritChance" value="65.68487625"/>
 		<PlayerStat stat="CritMultiplier" value="4.95"/>
 		<PlayerStat stat="HitChance" value="95"/>
-		<PlayerStat stat="TotalDPS" value="8778389.4248873"/>
+		<PlayerStat stat="TotalDPS" value="0"/>
 		<PlayerStat stat="TotalDot" value="0"/>
-		<PlayerStat stat="IgniteDPS" value="2426.4894046079"/>
-		<PlayerStat stat="WithPoisonDPS" value="8778389.4248873"/>
-		<PlayerStat stat="ManaCost" value="36"/>
+		<PlayerStat stat="WithPoisonDPS" value="0"/>
+		<PlayerStat stat="AreaOfEffectRadius" value="19"/>
+		<PlayerStat stat="ManaCost" value="10"/>
 		<PlayerStat stat="Str" value="345"/>
 		<PlayerStat stat="ReqStr" value="180"/>
 		<PlayerStat stat="Dex" value="157"/>
@@ -25,13 +25,13 @@
 		<PlayerStat stat="LifeUnreserved" value="6845"/>
 		<PlayerStat stat="LifeUnreservedPercent" value="100"/>
 		<PlayerStat stat="LifeRegen" value="-95.83"/>
-		<PlayerStat stat="LifeLeechGainRate" value="1369"/>
+		<PlayerStat stat="LifeLeechGainRate" value="0"/>
 		<PlayerStat stat="Mana" value="693"/>
 		<PlayerStat stat="Spec:ManaInc" value="0"/>
 		<PlayerStat stat="ManaUnreserved" value="133"/>
 		<PlayerStat stat="ManaUnreservedPercent" value="19.191919191919"/>
 		<PlayerStat stat="ManaRegen" value="17.1"/>
-		<PlayerStat stat="ManaLeechGainRate" value="138.6"/>
+		<PlayerStat stat="ManaLeechGainRate" value="0"/>
 		<PlayerStat stat="EnergyShield" value="10"/>
 		<PlayerStat stat="Spec:EnergyShieldInc" value="10"/>
 		<PlayerStat stat="EnergyShieldRegen" value="0"/>
@@ -68,7 +68,7 @@
 	<Tree activeSpec="3">
 		<Spec treeVersion="3_6">
 			<URL>
-				https://poe.game.qq.com/passive-skill-tree/AAAABAABAHX9WfMdFIRvFm9kr42_veY1km6qjX3vesLsxq73Mha_plc31JhvjYGfPv6PYqxKyDwtbIwV_ayqeBlVhW1smhc64SaVo4qC5Lc-ZlSmrzD4d-VF9PAfkn3irb68lG_nVNN-GY4-z-8OUUcEsxQgiq9VS9YHijgJ2VBHI_Znm5OQIFlh4uNqcqlwUuRVrj7E9gBeMHzBfAgu_goaOJ2q7T8t0nvDb1ftg__eTZI62JARm421SINfgptmnnIPNj2QVaXLkoDlz_rSogCMNuRRykaXIbXy1EInLx3CJP3ndK-NBbU9PrTFidODzE3j7g7BoNi98kV7biHQ3CM=
+				https://poe.game.qq.com/passive-skill-tree/AAAABAABAHX9CdkdFCHQFm8Es73mWfPYvcGgjX3veu4Owuz3Mha_g8w31InTjYG0xf6PYqw9PiaVbqoV_a-NeBlVhW1s53Q64cauo4qYb7c-ZlSmrzD4d-VF9PAfPC3irb68jb_nVB3CJy8-z-8OUUcUILXylyFVS9YHijhkr1BHI_Znm5OQjDaiAPrScqnlz5KArj7E9gBeCC7BfDB8_gpmnp2qgpsaOO0_b1eDX7VITZKQETrYm43_3u2De8Mt0nIPNj2QVaXL5FVwUmHi42ogWeRRykaKr0rI1EIZjtN-JP2aF6yqBbWSfZ8-guSmV03jlG9sjDWS8kV7boRv3CM=
 			</URL>
 			<Sockets>
 				<Socket nodeId="7960" itemId="0"/>
@@ -76,53 +76,25 @@
 				<Socket nodeId="28475" itemId="6"/>
 				<Socket nodeId="26196" itemId="6"/>
 				<Socket nodeId="36634" itemId="0"/>
-				<Socket nodeId="34483" itemId="6"/>
+				<Socket nodeId="33989" itemId="0"/>
 				<Socket nodeId="21984" itemId="0"/>
 				<Socket nodeId="46882" itemId="0"/>
 				<Socket nodeId="61419" itemId="6"/>
 				<Socket nodeId="54127" itemId="6"/>
-				<Socket nodeId="31683" itemId="6"/>
+				<Socket nodeId="6230" itemId="0"/>
 				<Socket nodeId="55190" itemId="0"/>
 				<Socket nodeId="48768" itemId="0"/>
-				<Socket nodeId="26725" itemId="6"/>
-				<Socket nodeId="33989" itemId="0"/>
-				<Socket nodeId="6230" itemId="0"/>
+				<Socket nodeId="2491" itemId="0"/>
+				<Socket nodeId="61834" itemId="6"/>
+				<Socket nodeId="41263" itemId="0"/>
 				<Socket nodeId="60735" itemId="6"/>
 				<Socket nodeId="33631" itemId="6"/>
-				<Socket nodeId="41263" itemId="0"/>
-				<Socket nodeId="61834" itemId="6"/>
-				<Socket nodeId="2491" itemId="0"/>
+				<Socket nodeId="31683" itemId="6"/>
+				<Socket nodeId="34483" itemId="6"/>
+				<Socket nodeId="26725" itemId="6"/>
 			</Sockets>
 		</Spec>
 		<Spec treeVersion="3_7">
-			<URL>
-				https://poe.game.qq.com/passive-skill-tree/AAAABAECACpNHRQUTRZvWfPg2PxLlG8UIBiRaGW18g-rIZA1ksT2_o9irH1b-F9sjBX9ggduqsBmbWynbTrhxq7ZfDpStz5mVErIMPibtYTF8B_z3V-wjM9fP4nTX9ATBJhX7w7KSgSzjDa8n_ZI1geKOPcyUEfDOmebdqw26eoQFHFyqQ48g8xkr3flFr9YY_4K2L1RTIKbnarjaho4-OvPfvrS5c_qGFVLOtgkqj38g1-Sfayqcg82PZBVxtgki3BSYeI_J29XZp7kUSaVrEdF9GjyJy_4uZhv5FWvjTz-8kG0xa2NpldN4zwtxFiuPvJF8uaiANwj
-			</URL>
-			<Sockets>
-				<Socket nodeId="7960" itemId="6"/>
-				<Socket nodeId="32763" itemId="0"/>
-				<Socket nodeId="28475" itemId="6"/>
-				<Socket nodeId="26196" itemId="6"/>
-				<Socket nodeId="36634" itemId="6"/>
-				<Socket nodeId="33989" itemId="6"/>
-				<Socket nodeId="21984" itemId="0"/>
-				<Socket nodeId="46882" itemId="0"/>
-				<Socket nodeId="61419" itemId="6"/>
-				<Socket nodeId="54127" itemId="6"/>
-				<Socket nodeId="6230" itemId="0"/>
-				<Socket nodeId="55190" itemId="0"/>
-				<Socket nodeId="48768" itemId="0"/>
-				<Socket nodeId="2491" itemId="0"/>
-				<Socket nodeId="61834" itemId="6"/>
-				<Socket nodeId="41263" itemId="0"/>
-				<Socket nodeId="60735" itemId="6"/>
-				<Socket nodeId="33631" itemId="6"/>
-				<Socket nodeId="31683" itemId="6"/>
-				<Socket nodeId="34483" itemId="6"/>
-				<Socket nodeId="26725" itemId="3"/>
-			</Sockets>
-		</Spec>
-		<Spec treeVersion="3_8">
 			<URL>
 				https://poe.game.qq.com/passive-skill-tree/AAAABAECACpNHRQUTRZvWfNnm_xLlG-iABiRaGW18vcy8kU1kq4-_o9irH1bjDZuqhX9PC0Es8BmbWynbTrhxq6mVzpStz5mVErIMPibtYTF8B_z3a2NjM9fP4nTtMVf0Dz-7w6vjRQg-F-8n_ZI1geKOJhvUEcPq-DYdqw26eoQFHFyqQ48aPJF9HflJpVYY9i9Zp7-Cm9Xnao_Jxo4gpvPfmHicFLqGMbYOtgkqj38g1-Sfayqcg82PZBVVUski-XP42r60vjrUUzkURa_rEdkr4PMJy_4uWyM5FXKShME8kGYV1-w2XxN44IHxFjE9iGQ8ubDOtwj
 			</URL>
@@ -148,6 +120,34 @@
 				<Socket nodeId="54127" itemId="6"/>
 				<Socket nodeId="2491" itemId="0"/>
 				<Socket nodeId="61834" itemId="6"/>
+			</Sockets>
+		</Spec>
+		<Spec treeVersion="3_8">
+			<URL>
+				https://poe.game.qq.com/passive-skill-tree/AAAABAECACpNHRQUTRZvWfPg2PxLlG_DOhiR9zIPq2hlIZA1ksT2_o9irH1bPC1uqhX9ggeuPsBmbWynbTrhxq7ZfJhvtz5mVErIMPibtYTF8B_z3V-wjM9fP4nTmFdf0BME7w7KSgSzjDa8n_ZI1geKOGyMUEeiAGebdqw26eoQFHFyqQ48g8xkr3flFr9YY9i9UUz-CvjrZp760ho4gptvV-Nq5c_qGFVLOtgkqj38g1-Sfayqcg82PZBVxtgki3BSPydh4s9-narkUSaVrEdF9GjyJy_4ufhf5FWvjTz-8kG0xa2NpldN4xQgxFg6UvJF8ua18twj
+			</URL>
+			<Sockets>
+				<Socket nodeId="7960" itemId="6"/>
+				<Socket nodeId="32763" itemId="0"/>
+				<Socket nodeId="28475" itemId="6"/>
+				<Socket nodeId="26196" itemId="6"/>
+				<Socket nodeId="36634" itemId="6"/>
+				<Socket nodeId="34483" itemId="6"/>
+				<Socket nodeId="21984" itemId="0"/>
+				<Socket nodeId="46882" itemId="0"/>
+				<Socket nodeId="61419" itemId="6"/>
+				<Socket nodeId="41263" itemId="0"/>
+				<Socket nodeId="31683" itemId="6"/>
+				<Socket nodeId="55190" itemId="0"/>
+				<Socket nodeId="48768" itemId="0"/>
+				<Socket nodeId="61834" itemId="6"/>
+				<Socket nodeId="2491" itemId="0"/>
+				<Socket nodeId="54127" itemId="6"/>
+				<Socket nodeId="60735" itemId="6"/>
+				<Socket nodeId="33631" itemId="6"/>
+				<Socket nodeId="6230" itemId="0"/>
+				<Socket nodeId="33989" itemId="6"/>
+				<Socket nodeId="26725" itemId="3"/>
 			</Sockets>
 		</Spec>
 	</Tree>
@@ -200,10 +200,10 @@
 			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SupportGemChanceToIgnite" skillId="SupportChanceToIgnite" enableGlobal1="true" enabled="true" nameSpec="几率点燃(辅)"/>
 			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SupportGemPowerChargeOnCrit" skillId="SupportPowerChargeOnCrit" enableGlobal1="true" enabled="true" nameSpec="暴击获得暴击球(辅)"/>
 		</Skill>
-		<Skill mainActiveSkillCalcs="1" label="" enabled="true" mainActiveSkill="1">
+		<Skill mainActiveSkillCalcs="1" label="" enabled="true" slot="Body Armour" mainActiveSkill="1">
 			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SkillGemCyclone" skillId="Cyclone" skillPart="2" enableGlobal1="true" skillPartCalcs="2" enabled="true" nameSpec="旋风斩" skillMinion="SummonedPhantasm"/>
 			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemMeleePhysicalDamage" skillId="SupportMeleePhysicalDamage" enableGlobal1="true" enabled="true" nameSpec="近战物理伤害(辅)"/>
-			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemStormBarrier" skillId="SupportStormBarrier" enableGlobal1="true" enabled="false" nameSpec="灌能吟唱(辅)"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemStormBarrier" skillId="SupportStormBarrier" enableGlobal1="true" enabled="true" nameSpec="灌能吟唱(辅)"/>
 			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemFortify" skillId="SupportFortify" enableGlobal1="true" enabled="true" nameSpec="护体(辅)"/>
 			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemBrutality" skillId="SupportBrutality" enableGlobal1="true" enabled="true" nameSpec="残暴(辅)"/>
 			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemPulverise" skillId="SupportPulverise" enableGlobal1="true" enabled="true" nameSpec="粉碎（辅）"/>
@@ -243,7 +243,7 @@
 		<Section collapsed="false" id="MiscDefences"/>
 	</Calcs>
 	<AboutTab/>
-	<TreeView searchStr="" zoomY="-57.511295972406" showHeatMap="false" zoomLevel="3" showStatDifferences="true" zoomX="-6.376900880525"/>
+	<TreeView searchStr="" zoomY="-102.48203320591" showHeatMap="false" zoomLevel="0" showStatDifferences="true" zoomX="-132.21938089175"/>
 	<Items activeItemSet="1" useSecondWeaponSet="false">
 		<Item variant="2" id="1">
 			稀 有 度: 传奇
@@ -417,7 +417,7 @@ Selected Variant: 4
 {variant:1}{range:0.5}提高 (70-100)% 药剂充能消耗
 {variant:1}药剂持续期间，近战物理总伤害额外提高 30%
 {variant:2}{range:0.5}药剂持续期间，近战物理总伤害额外提高 (30-35)%
-{variant:4,3}{range:0.5}药剂持续期间，近战物理总伤害额外提高 (20-25)%
+{variant:3,4}{range:0.5}药剂持续期间，近战物理总伤害额外提高 (20-25)%
 使用药剂时将区域内敌人击退
 			<ModRange range="0.5" id="4"/>
 			<ModRange range="0.5" id="5"/>
@@ -634,10 +634,10 @@ Selected Variant: 2
 		<Input name="useBlitzCharges" boolean="true"/>
 		<Input name="multiplierRage" number="50"/>
 		<Input name="usePowerCharges" boolean="true"/>
-		<Input name="conditionEnemyLowLife" boolean="true"/>
+		<Input name="bloodSandStance" string="BLOOD"/>
 		<Input name="conditionEnemyIgnited" boolean="true"/>
 		<Input name="conditionBeenSavageHitRecently" boolean="true"/>
-		<Input name="bloodSandStance" string="BLOOD"/>
+		<Input name="conditionEnemyLowLife" boolean="true"/>
 		<Input name="conditionBeenHitRecently" boolean="true"/>
 	</Config>
 </PathOfBuilding>
