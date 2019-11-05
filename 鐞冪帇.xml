@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
 	<Build level="90" targetVersion="3_0" banditNormal="None" bandit="Alira" banditMerciless="None" className="决斗者" ascendClassName="Slayer" mainSocketGroup="4" viewMode="ITEMS" banditCruel="None">
-		<PlayerStat stat="AverageHit" value="58141.510715579"/>
-		<PlayerStat stat="AverageDamage" value="58141.510715579"/>
-		<PlayerStat stat="Speed" value="9.24"/>
-		<PlayerStat stat="Speed" value="9.24"/>
-		<PlayerStat stat="HitSpeed" value="4.7625"/>
-		<PlayerStat stat="PreEffectiveCritChance" value="60.522"/>
-		<PlayerStat stat="CritChance" value="84.41487516"/>
-		<PlayerStat stat="CritMultiplier" value="3.93"/>
+		<PlayerStat stat="AverageHit" value="62992.176738199"/>
+		<PlayerStat stat="AverageDamage" value="62992.176738199"/>
+		<PlayerStat stat="Speed" value="8.88"/>
+		<PlayerStat stat="Speed" value="8.88"/>
+		<PlayerStat stat="HitSpeed" value="4.65"/>
+		<PlayerStat stat="PreEffectiveCritChance" value="52.92"/>
+		<PlayerStat stat="CritChance" value="77.834736"/>
+		<PlayerStat stat="CritMultiplier" value="4.55"/>
 		<PlayerStat stat="HitChance" value="100"/>
-		<PlayerStat stat="TotalDPS" value="276898.94478295"/>
+		<PlayerStat stat="TotalDPS" value="292913.62183263"/>
 		<PlayerStat stat="TotalDot" value="0"/>
-		<PlayerStat stat="WithPoisonDPS" value="276898.94478295"/>
+		<PlayerStat stat="WithPoisonDPS" value="292913.62183263"/>
 		<PlayerStat stat="AreaOfEffectRadius" value="13"/>
 		<PlayerStat stat="ManaCost" value="19"/>
 		<PlayerStat stat="Str" value="143"/>
 		<PlayerStat stat="ReqStr" value="155"/>
-		<PlayerStat stat="Dex" value="213"/>
+		<PlayerStat stat="Dex" value="203"/>
 		<PlayerStat stat="ReqDex" value="111"/>
-		<PlayerStat stat="Int" value="344"/>
+		<PlayerStat stat="Int" value="334"/>
 		<PlayerStat stat="ReqInt" value="245"/>
 		<PlayerStat stat="Devotion" value="0"/>
-		<PlayerStat stat="Life" value="5420"/>
+		<PlayerStat stat="Life" value="5523"/>
 		<PlayerStat stat="Spec:LifeInc" value="211"/>
-		<PlayerStat stat="LifeUnreserved" value="5420"/>
+		<PlayerStat stat="LifeUnreserved" value="5523"/>
 		<PlayerStat stat="LifeUnreservedPercent" value="100"/>
 		<PlayerStat stat="LifeRegen" value="0"/>
-		<PlayerStat stat="LifeLeechGainRate" value="2168"/>
-		<PlayerStat stat="Mana" value="1153"/>
+		<PlayerStat stat="LifeLeechGainRate" value="2209.2"/>
+		<PlayerStat stat="Mana" value="1147"/>
 		<PlayerStat stat="Spec:ManaInc" value="28"/>
-		<PlayerStat stat="ManaUnreserved" value="288"/>
-		<PlayerStat stat="ManaUnreservedPercent" value="24.978317432784"/>
-		<PlayerStat stat="ManaRegen" value="66.1"/>
+		<PlayerStat stat="ManaUnreserved" value="286"/>
+		<PlayerStat stat="ManaUnreservedPercent" value="24.934612031386"/>
+		<PlayerStat stat="ManaRegen" value="65.8"/>
 		<PlayerStat stat="ManaLeechGainRate" value="0"/>
-		<PlayerStat stat="EnergyShield" value="634"/>
+		<PlayerStat stat="EnergyShield" value="627"/>
 		<PlayerStat stat="Spec:EnergyShieldInc" value="0"/>
 		<PlayerStat stat="EnergyShieldRegen" value="0"/>
 		<PlayerStat stat="EnergyShieldLeechGainRate" value="0"/>
-		<PlayerStat stat="Evasion" value="1125"/>
+		<PlayerStat stat="Evasion" value="1113"/>
 		<PlayerStat stat="Spec:EvasionInc" value="48"/>
 		<PlayerStat stat="MeleeEvadeChance" value="2"/>
 		<PlayerStat stat="MeleeEvadeChance" value="2"/>
@@ -70,29 +70,29 @@
 	<Tree activeSpec="1">
 		<Spec treeVersion="3_8">
 			<URL>
-				https://poe.game.qq.com/passive-skill-tree/AAAABAQBABzc96aboSpNHRSOZAj0DdG2-lnzjxqGs5Rvkye86mpDFr9uqhEPFkA1kiL0_o9irPfX44RsjA_EIuJN46Q5W6864SaVVcZKyLc-ZlQsnLiT9WGCxyzpO3wbyLKAoqOhL7XyJy8Wb6U1-KEnnw5IEZZVS2HijDa9Np2q217dDcadmuDxikI6vqc_JxUgRZ1HfoPbvoqPRoa0rJh_xmaeGbQaOM_dbRk6WD-yuMotgzHvJKpH4jbpES0qOHIPNj2QVVAw_gpwUvrSMlibLeNq-einCMKObAtOKlNSY0PYvYWnidNQQoV9JC2mVyj6UzV8gwDu8kVBh-vuZU0=
+				https://poe.game.qq.com/passive-skill-tree/AAAABAQBABzcm6EqTR0UCPQN0VnzjxqGs5MnlG-FfbzqakMs6RZvEQ8WQDWS42oi4mKs99fjhJstMlj1YWwLTeP3po5kOuEmlVXGLJwPxCL0Ssi4k702gsdmVFuvoqOygBvIoS87fNi9Jy-lNW6qEZYOSCefVUu2-ow2_o-kOdtePyfGnZrg8YpCOr6nrJgVIGHiR346WL6KGbSGtP4Kf8Zmnt0NGjjP3Y9GbRk_srjKLYMx7ySqR-I26REtKjhyDzY9kFVQMIPbcFL60p2qRZ1sjHyDwo6nCLXyU1JjQ_ihhadOKonTtz5BhyQtplco-lM1UEIA7vJF-ejr7mVN
 			</URL>
 			<Sockets>
 				<Socket nodeId="7960" itemId="0"/>
 				<Socket nodeId="32763" itemId="0"/>
 				<Socket nodeId="28475" itemId="0"/>
-				<Socket nodeId="26196" itemId="6"/>
-				<Socket nodeId="36634" itemId="6"/>
-				<Socket nodeId="34483" itemId="6"/>
+				<Socket nodeId="26196" itemId="3"/>
+				<Socket nodeId="36634" itemId="3"/>
+				<Socket nodeId="33989" itemId="0"/>
 				<Socket nodeId="21984" itemId="0"/>
 				<Socket nodeId="46882" itemId="0"/>
 				<Socket nodeId="61419" itemId="0"/>
-				<Socket nodeId="41263" itemId="0"/>
-				<Socket nodeId="31683" itemId="0"/>
+				<Socket nodeId="54127" itemId="0"/>
+				<Socket nodeId="6230" itemId="0"/>
 				<Socket nodeId="55190" itemId="0"/>
 				<Socket nodeId="48768" itemId="0"/>
-				<Socket nodeId="61834" itemId="0"/>
 				<Socket nodeId="2491" itemId="0"/>
-				<Socket nodeId="54127" itemId="0"/>
+				<Socket nodeId="61834" itemId="0"/>
+				<Socket nodeId="41263" itemId="6"/>
 				<Socket nodeId="60735" itemId="0"/>
 				<Socket nodeId="33631" itemId="0"/>
-				<Socket nodeId="6230" itemId="0"/>
-				<Socket nodeId="33989" itemId="0"/>
+				<Socket nodeId="31683" itemId="0"/>
+				<Socket nodeId="34483" itemId="3"/>
 				<Socket nodeId="26725" itemId="0"/>
 			</Sockets>
 		</Spec>
@@ -136,11 +136,12 @@
 			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemImmortalCall" skillId="ImmortalCall" enableGlobal1="true" enabled="true" nameSpec="不朽怒嚎"/>
 		</Skill>
 		<Skill mainActiveSkillCalcs="1" label="" enabled="true" mainActiveSkill="1">
-			<Gem enableGlobal2="false" skillMinionSkillCalcs="1" skillMinionCalcs="SummonedIceGolem" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemSummonIceGolem" skillId="SummonIceGolem" skillMinionSkill="1" enableGlobal1="true" enabled="true" nameSpec="召唤寒冰魔像" skillMinion="SummonedIceGolem"/>
+			<Gem enableGlobal2="nil" skillMinionSkillCalcs="1" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemSummonLightningGolem" skillId="SummonLightningGolem" skillMinionSkill="1" enableGlobal1="true" enabled="true" nameSpec="召唤闪电魔像" skillMinion="SummonedLightningGolem"/>
 		</Skill>
 		<Skill source="Item:7:塑界之印, 蛋白石戒指" mainActiveSkillCalcs="nil" label="" enabled="true" slot="Ring 1" mainActiveSkill="nil">
 			<Gem enableGlobal2="nil" quality="0" level="20" skillId="召唤异动奇点" enableGlobal1="true" enabled="true" nameSpec=""/>
 		</Skill>
+		<Skill mainActiveSkillCalcs="nil" label="" enabled="true" mainActiveSkill="nil"/>
 	</Skills>
 	<Calcs>
 		<Input name="misc_buffMode" string="EFFECTIVE"/>
@@ -170,7 +171,7 @@
 		<Section collapsed="false" id="MiscDefences"/>
 	</Calcs>
 	<AboutTab/>
-	<TreeView searchStr="" zoomY="180.81849066215" showHeatMap="false" zoomLevel="3" showStatDifferences="true" zoomX="160.35716845993"/>
+	<TreeView searchStr="" zoomY="-13.27206794315" showHeatMap="false" zoomLevel="4" showStatDifferences="true" zoomX="-36.782898750194"/>
 	<Items activeItemSet="1" useSecondWeaponSet="false">
 		<Item id="1">
 			稀 有 度: 传奇
@@ -226,7 +227,7 @@ Selected Variant: 2
 插槽: G-G-G-G
 等级需求: 67
 固定基底词缀: 1
-{range:0.5}法术获得 +(0.5-0.8)% 基础暴击率
++1 狂怒球数量上限
 {range:0.5}该装备的护甲与闪避提高 (90-110)%
 {range:1}每个狂怒球可使火焰、冰霜、闪电伤害提高 (4-7)%
 {range:1}每个耐力球可使物理伤害提高 (4-7)%
@@ -234,7 +235,6 @@ Selected Variant: 2
 {range:0.5}击中时有 10% 几率偷取暴击，狂怒和耐力球
 {variant:1}{range:0.5}耐力球，狂怒球，以及暴击球的持续时间缩短 (10-30)%
 已腐化
-			<ModRange range="0.5" id="1"/>
 			<ModRange range="0.5" id="2"/>
 			<ModRange range="1" id="3"/>
 			<ModRange range="1" id="4"/>
@@ -373,6 +373,22 @@ New Item
 			<ModRange range="0.866" id="2"/>
 			<ModRange range="0.5" id="4"/>
 		</Item>
+		<Item id="3">
+			稀 有 度: 稀有
+New Item
+钴蓝珠宝
+工艺: true
+前缀: {range:0.5}PercentIncreasedLifeJewel
+前缀: {range:0.5}ColdCritMultiplier
+后缀: {range:0.5}CriticalStrikeMultiplierJewel
+后缀: None
+品质: 0
+等级需求: 0
+固定基底词缀: 0
++11% 攻击和法术暴击伤害加成
++17% 冰霜技能暴击伤害加成
+最大生命提高 6%
+		</Item>
 		<Slot name="Gloves" itemId="4"/>
 		<Slot name="Weapon 1" itemId="2"/>
 		<Slot name="Amulet" itemId="1"/>
@@ -423,18 +439,15 @@ New Item
 		</ItemSet>
 	</Items>
 	<Config>
-		<Input name="overrideEnduranceCharges" number="9"/>
 		<Input name="useFrenzyCharges" boolean="true"/>
 		<Input name="enemyIsBoss" string="SHAPER"/>
 		<Input name="critChanceLucky" boolean="true"/>
 		<Input name="useEnduranceCharges" boolean="true"/>
-		<Input name="overrideFrenzyCharges" number="9"/>
-		<Input name="conditionCritRecently" boolean="true"/>
+		<Input name="infusedChannellingInfusion" boolean="true"/>
 		<Input name="usePowerCharges" boolean="true"/>
+		<Input name="conditionCritRecently" boolean="true"/>
 		<Input name="useInspirationCharges" boolean="true"/>
-		<Input name="overridePowerCharges" number="9"/>
 		<Input name="conditionKilledRecently" boolean="true"/>
 		<Input name="winterOrbStages" number="10"/>
-		<Input name="infusedChannellingInfusion" boolean="true"/>
 	</Config>
 </PathOfBuilding>
