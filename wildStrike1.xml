@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
-	<Build level="90" targetVersion="3_0" banditNormal="None" bandit="Alira" banditMerciless="None" className="暗影刺客" ascendClassName="Assassin" mainSocketGroup="1" viewMode="TREE" banditCruel="None">
-		<PlayerStat stat="AverageDamage" value="311734.31223211"/>
+	<Build level="90" targetVersion="3_0" banditNormal="None" bandit="Alira" banditMerciless="None" className="暗影刺客" ascendClassName="Assassin" mainSocketGroup="1" viewMode="CONFIG" banditCruel="None">
+		<PlayerStat stat="AverageDamage" value="333295.28515822"/>
 		<PlayerStat stat="Speed" value="5.0976"/>
 		<PlayerStat stat="Speed" value="5.0976"/>
 		<PlayerStat stat="PreEffectiveCritChance" value="55.58"/>
 		<PlayerStat stat="CritChance" value="55.58"/>
 		<PlayerStat stat="CritMultiplier" value="4.73"/>
 		<PlayerStat stat="HitChance" value="100"/>
-		<PlayerStat stat="TotalDPS" value="1589096.8300344"/>
+		<PlayerStat stat="TotalDPS" value="1699006.0456225"/>
 		<PlayerStat stat="TotalDot" value="0"/>
-		<PlayerStat stat="IgniteDPS" value="23131.496989649"/>
-		<PlayerStat stat="WithPoisonDPS" value="1589096.8300344"/>
+		<PlayerStat stat="IgniteDPS" value="24757.926001846"/>
+		<PlayerStat stat="WithPoisonDPS" value="1699006.0456225"/>
 		<PlayerStat stat="ManaCost" value="29"/>
 		<PlayerStat stat="Str" value="154"/>
 		<PlayerStat stat="ReqStr" value="191"/>
 		<PlayerStat stat="Dex" value="253"/>
 		<PlayerStat stat="ReqDex" value="113"/>
 		<PlayerStat stat="Int" value="68"/>
-		<PlayerStat stat="ReqInt" value="111"/>
+		<PlayerStat stat="ReqInt" value="155"/>
 		<PlayerStat stat="Devotion" value="0"/>
 		<PlayerStat stat="Life" value="6124"/>
 		<PlayerStat stat="Spec:LifeInc" value="157"/>
@@ -68,7 +68,7 @@
 	<Tree activeSpec="1">
 		<Spec treeVersion="3_8">
 			<URL>
-				https://poe.game.qq.com/passive-skill-tree/AAAABAYBAFb6df2ozxRNdKDZhsv1jX3UUvv1GJGU8dNvZU031IRvEJIGINyMYqyCB-56bIy0ODpShmBtbHh6wQcmlUMxOkIj08LsGlXlGb02-Jfh702SducGoudUqSfcvbTF-hjwxNl8VUtjFyM2h2qMNjhTtUgj9huqF9wOPITvFHG-p92odO3tP0d-134NjamUMHxTEJMPnarawYd2hNlwbgUtLlOaahIw6dq8b2egj2BhISo4MbA2PVbJfyuI7XBSYeJLeOcPW6_jnxa_MjJM_9RCjb_UIyT9vJ931wW18kEwcU4q_96J05cI_EtRRzboIq9KfXrv
+				https://poe.game.qq.com/passive-skill-tree/AAAABAYBAFb6df2ozxRNdKDZhsv1jX3UUo2_GJGU8dNveu831Ep9EJIGIO56Yqw26FFHbIy0OPxLggeJ021seHrBByaVQzE6QiPTwuwaVf_evTb4l-HvTip25zBx5RnnVNy9BqJ31_DEvJ8k_YZgIzaHaow2OFO1SCP21EJlTQ48MjIUcb6n3agWv-OfR35br-cPqZQwfITZkw-dqmHih3btP3BuBS0uU5pqEjDp2rxvZ6BWySo4YSExsDY9j2B_K4jtcFJTEEt4137awQ2NdO0X3Ez_-_UbqtQjVUv6GAW18kG0xakn2XxNkpcIOlJjF9yMIq-Eb4Tv
 			</URL>
 			<Sockets>
 				<Socket nodeId="7960" itemId="0"/>
@@ -76,22 +76,22 @@
 				<Socket nodeId="28475" itemId="0"/>
 				<Socket nodeId="26196" itemId="0"/>
 				<Socket nodeId="36634" itemId="0"/>
-				<Socket nodeId="33989" itemId="0"/>
+				<Socket nodeId="34483" itemId="0"/>
 				<Socket nodeId="21984" itemId="0"/>
 				<Socket nodeId="46882" itemId="0"/>
 				<Socket nodeId="61419" itemId="0"/>
 				<Socket nodeId="41263" itemId="0"/>
-				<Socket nodeId="6230" itemId="0"/>
+				<Socket nodeId="31683" itemId="0"/>
 				<Socket nodeId="55190" itemId="0"/>
 				<Socket nodeId="48768" itemId="0"/>
-				<Socket nodeId="26725" itemId="0"/>
-				<Socket nodeId="31683" itemId="0"/>
-				<Socket nodeId="34483" itemId="0"/>
+				<Socket nodeId="61834" itemId="0"/>
+				<Socket nodeId="2491" itemId="0"/>
+				<Socket nodeId="54127" itemId="12"/>
 				<Socket nodeId="60735" itemId="13"/>
 				<Socket nodeId="33631" itemId="0"/>
-				<Socket nodeId="54127" itemId="12"/>
-				<Socket nodeId="2491" itemId="0"/>
-				<Socket nodeId="61834" itemId="0"/>
+				<Socket nodeId="6230" itemId="0"/>
+				<Socket nodeId="33989" itemId="0"/>
+				<Socket nodeId="26725" itemId="0"/>
 			</Sockets>
 		</Spec>
 	</Tree>
@@ -105,15 +105,14 @@
 			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemMeleePhysicalDamage" skillId="SupportMeleePhysicalDamage" enableGlobal1="true" enabled="true" nameSpec="近战物理伤害(辅)"/>
 			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemMultistrike" skillId="SupportMultistrike" enableGlobal1="true" enabled="true" nameSpec="多重打击(辅)"/>
 			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemFortify" skillId="SupportFortify" enableGlobal1="true" enabled="true" nameSpec="护体(辅)"/>
-			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemFirePenetration" skillId="SupportFirePenetration" enableGlobal1="true" enabled="false" nameSpec="火焰穿透(辅)"/>
-			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemChanceToIgnite" skillId="SupportChanceToIgnite" enableGlobal1="true" enabled="true" nameSpec="几率点燃(辅)"/>
+			<Gem enableGlobal2="nil" quality="0" level="20" gemId="Metadata/Items/Gems/SupportGemChanceToIgnite" skillId="SupportChanceToIgnite" enableGlobal1="true" enabled="true" nameSpec="几率点燃(辅)"/>
 		</Skill>
 		<Skill mainActiveSkillCalcs="1" label="" enabled="true" slot="Helmet" mainActiveSkill="1">
 			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemPrecision" skillId="AccuracyAndCritsAura" enableGlobal1="true" enabled="true" nameSpec="精准"/>
 			<Gem enableGlobal2="false" skillMinionSkillCalcs="1" quality="0" level="20" gemId="Metadata/Items/Gems/HeraldOfPurity" skillId="HeraldOfPurity" skillMinionSkill="1" enableGlobal1="true" enabled="true" nameSpec="纯净之捷" skillMinion="AxisEliteSoldierHeraldOfLight"/>
-			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemFlammability" skillId="Flammability" enableGlobal1="true" enabled="true" nameSpec="易燃"/>
 			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SupportGemBlasphemy" skillId="SupportBlasphemy" enableGlobal1="true" enabled="true" nameSpec="诅咒光环(辅)"/>
 			<Gem enableGlobal2="false" quality="0" level="3" gemId="Metadata/Items/Gems/SupportGemAdditionalXP" skillId="SupportAdditionalXP" enableGlobal1="true" enabled="true" nameSpec="启蒙(辅)"/>
+			<Gem enableGlobal2="nil" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemElementalWeakness" skillId="ElementalWeakness" enableGlobal1="true" enabled="true" nameSpec="元素要害"/>
 		</Skill>
 		<Skill mainActiveSkillCalcs="1" label="" enabled="true" mainActiveSkill="1">
 			<Gem enableGlobal2="false" skillMinionSkillCalcs="1" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemSummonLightningGolem" skillId="SummonLightningGolem" skillMinionSkill="1" enableGlobal1="true" enabled="true" nameSpec="召唤闪电魔像" skillMinion="SummonedLightningGolem"/>
@@ -152,7 +151,7 @@
 		<Section collapsed="false" id="MiscDefences"/>
 	</Calcs>
 	<AboutTab/>
-	<TreeView searchStr="" zoomY="-653.24496932938" showHeatMap="false" zoomLevel="8" showStatDifferences="true" zoomX="-2180.7445506272"/>
+	<TreeView searchStr="" zoomY="-138.55030116663" showHeatMap="false" zoomLevel="0" showStatDifferences="true" zoomX="-838.20292917473"/>
 	<Items activeItemSet="1" useSecondWeaponSet="false">
 		<Item id="1">
 			稀 有 度: 传奇
@@ -424,7 +423,7 @@ Selected Variant: 4
 {variant:1}{range:0.5}提高 (70-100)% 药剂充能消耗
 {variant:1}药剂持续期间，近战物理总伤害额外提高 30%
 {variant:2}{range:0.5}药剂持续期间，近战物理总伤害额外提高 (30-35)%
-{variant:4,3}{range:0.5}药剂持续期间，近战物理总伤害额外提高 (20-25)%
+{variant:3,4}{range:0.5}药剂持续期间，近战物理总伤害额外提高 (20-25)%
 使用药剂时将区域内敌人击退
 			<ModRange range="0.5" id="4"/>
 			<ModRange range="0.5" id="5"/>
@@ -516,11 +515,13 @@ Selected Variant: 2
 	<Config>
 		<Input name="buffElusive" boolean="true"/>
 		<Input name="conditionCritRecently" boolean="true"/>
-		<Input name="multiplierRage" number="50"/>
 		<Input name="enemyIsBoss" string="SHAPER"/>
 		<Input name="physicsRandomElement" string="Fire"/>
-		<Input name="multistrikeIndex" string="1"/>
 		<Input name="usePowerCharges" boolean="true"/>
+		<Input name="multiplierRage" number="50"/>
+		<Input name="baseShockEffect" number="10"/>
 		<Input name="conditionEnemyIgnited" boolean="true"/>
+		<Input name="conditionEnemyShocked" boolean="true"/>
+		<Input name="multistrikeIndex" string="1"/>
 	</Config>
 </PathOfBuilding>
