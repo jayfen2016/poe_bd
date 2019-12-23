@@ -73,7 +73,7 @@
 	<Tree activeSpec="1">
 		<Spec treeVersion="3_9">
 			<URL>
-				https://poe.game.qq.com/passive-skill-tree/AAAABAYDALIoCNQHYwj0jxpCLGwIvOrQ9bb6jmQe8Pb8wwl71yL0uZPyHe_rPL0Es1VLjDbbXq6zBUJJUYUyRv6geb6K_UpFnX_Gdm-3dQQHxopzbREtMtGPRnBS-tJHBp3ZY0PJBqf4pvjr7oPxI18dFBZvJ4Pb56IAFkDw1WKsbAvLvYV9wcViT1XG9p8RwthUUELwH4nT8uF8g0yzQZbxijbp7BiU8Y_66_UT3zcXZp6TJ9AfJpUfWzJx0NDAZkVHJKoc3GpDoENfKvD5cFFtGS3EIG6D2-vkUDBTMeNqLJz-s1NSpzRqGzpYnap-sJrg96YGd1M1bIyhL7TFpwgsRmHi
+				https://poe.game.qq.com/passive-skill-tree/AAAABAYDALIoCNQHYwj0jxpCLGwIvOrQ9WyMjmQe8Pb8wwl71yL0uZPyHe_roS8Es1VLjDbbXq6zBUKa4IUyRv6geb6K_UpFnX_Gnaq3dQQHxopfKhPfMtFQMHBSYeJHBp3ZY0PJBqf4pvjr7pMng_EjXx0UFm8ng9vnogAWQKcIYqxsC8u9hX3BxWJPVcb2nxHC2FRQQvAfidPy4XyDTLNBlgZ3j_rr9bb6g9vxikVHOlgmlWpDHNzsGCSqlPFzbR9bNxf-s3BRZp4txCBu-tKPRtAf8PkRLVMx6-TQ0MBmMnFTUqc0ahugQ3ZvfrC0xW0Z96ZJUVM142osnDy9NuksRvDV
 			</URL>
 			<Sockets>
 				<Socket nodeId="7960" itemId="0"/>
@@ -85,18 +85,18 @@
 				<Socket nodeId="21984" itemId="0"/>
 				<Socket nodeId="46882" itemId="0"/>
 				<Socket nodeId="61419" itemId="14"/>
-				<Socket nodeId="54127" itemId="0"/>
+				<Socket nodeId="41263" itemId="2"/>
 				<Socket nodeId="6230" itemId="0"/>
 				<Socket nodeId="55190" itemId="0"/>
 				<Socket nodeId="48768" itemId="0"/>
-				<Socket nodeId="2491" itemId="0"/>
-				<Socket nodeId="61834" itemId="14"/>
-				<Socket nodeId="41263" itemId="2"/>
+				<Socket nodeId="26725" itemId="0"/>
+				<Socket nodeId="31683" itemId="0"/>
+				<Socket nodeId="34483" itemId="0"/>
 				<Socket nodeId="60735" itemId="0"/>
 				<Socket nodeId="33631" itemId="0"/>
-				<Socket nodeId="34483" itemId="0"/>
-				<Socket nodeId="31683" itemId="0"/>
-				<Socket nodeId="26725" itemId="0"/>
+				<Socket nodeId="54127" itemId="0"/>
+				<Socket nodeId="2491" itemId="0"/>
+				<Socket nodeId="61834" itemId="14"/>
 			</Sockets>
 		</Spec>
 	</Tree>
@@ -105,50 +105,50 @@
 	</Notes>
 	<Skills defaultGemQuality="nil" defaultGemLevel="nil" showSupportGemTypes="ALL" sortGemsByDPS="true">
 		<Skill mainActiveSkillCalcs="1" label="" enabled="true" mainActiveSkill="1">
-			<Gem enableGlobal2="nil" skillMineCount="0" quality="20" level="20" gemId="Metadata/Items/Gems/SkillGemArc" skillId="Arc" enableGlobal1="true" enabled="true" nameSpec="电弧" skillMinion="SummonedPhantasm"/>
-			<Gem enableGlobal2="nil" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemRemoteMine" skillId="SupportRemoteMine" enableGlobal1="true" enabled="true" nameSpec="链爆地雷（辅）"/>
-			<Gem enableGlobal2="nil" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemTrapAndMineDamage" skillId="SupportTrapAndMineDamage" enableGlobal1="true" enabled="true" nameSpec="陷阱及地雷伤害(辅)"/>
-			<Gem enableGlobal2="nil" quality="20" level="5" gemId="Metadata/Items/Gems/SupportGemAddedLightningDamagePlus" skillId="SupportAddedLightningDamagePlus" enableGlobal1="true" enabled="true" nameSpec="附加闪电伤害（强辅）"/>
-			<Gem enableGlobal2="nil" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemLightningPenetration" skillId="SupportLightningPenetration" enableGlobal1="true" enabled="true" nameSpec="闪电穿透(辅)"/>
-			<Gem enableGlobal2="nil" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemControlledDestruction" skillId="SupportControlledDestruction" enableGlobal1="true" enabled="true" nameSpec="精准破坏(辅)"/>
+			<Gem enableGlobal2="false" skillMineCount="0" quality="20" level="20" gemId="Metadata/Items/Gems/SkillGemArc" skillId="Arc" enableGlobal1="true" enabled="true" nameSpec="电弧" skillMinion="SummonedPhantasm"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemRemoteMine" skillId="SupportRemoteMine" enableGlobal1="true" enabled="true" nameSpec="链爆地雷（辅）"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemTrapAndMineDamage" skillId="SupportTrapAndMineDamage" enableGlobal1="true" enabled="true" nameSpec="陷阱及地雷伤害(辅)"/>
+			<Gem enableGlobal2="false" quality="20" level="5" gemId="Metadata/Items/Gems/SupportGemAddedLightningDamagePlus" skillId="SupportAddedLightningDamagePlus" enableGlobal1="true" enabled="true" nameSpec="附加闪电伤害（强辅）"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemLightningPenetration" skillId="SupportLightningPenetration" enableGlobal1="true" enabled="true" nameSpec="闪电穿透(辅)"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemControlledDestruction" skillId="SupportControlledDestruction" enableGlobal1="true" enabled="true" nameSpec="精准破坏(辅)"/>
 		</Skill>
-		<Skill mainActiveSkillCalcs="nil" label="" enabled="true" mainActiveSkill="nil">
-			<Gem enableGlobal2="nil" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemSummonSkitterbots" skillId="Skitterbots" enableGlobal1="true" enabled="true" nameSpec="召唤飞掠者" skillMinion="SummonedPhantasm"/>
+		<Skill mainActiveSkillCalcs="1" label="" enabled="true" mainActiveSkill="1">
+			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemSummonSkitterbots" skillId="Skitterbots" enableGlobal1="true" enabled="true" nameSpec="召唤飞掠者" skillMinion="SummonedPhantasm"/>
 		</Skill>
-		<Skill mainActiveSkillCalcs="nil" label="" enabled="true" mainActiveSkill="nil">
-			<Gem enableGlobal2="nil" skillMinionSkillCalcs="1" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemSummonFlameGolem" skillId="SummonFireGolem" skillMinionSkill="1" enableGlobal1="true" enabled="true" nameSpec="召唤烈焰魔像" skillMinion="SummonedFlameGolem"/>
+		<Skill mainActiveSkillCalcs="1" label="" enabled="true" mainActiveSkill="1">
+			<Gem enableGlobal2="false" skillMinionSkillCalcs="1" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemSummonFlameGolem" skillId="SummonFireGolem" skillMinionSkill="1" enableGlobal1="true" enabled="true" nameSpec="召唤烈焰魔像" skillMinion="SummonedFlameGolem"/>
 		</Skill>
 	</Skills>
 	<Calcs>
-		<Input name="skill_number" number="1"/>
 		<Input name="misc_buffMode" string="EFFECTIVE"/>
-		<Section collapsed="nil" id="SkillSelect"/>
-		<Section collapsed="nil" id="HitDamage"/>
-		<Section collapsed="nil" id="Dot"/>
-		<Section collapsed="nil" id="Speed"/>
-		<Section collapsed="nil" id="Crit"/>
-		<Section collapsed="nil" id="HitChance"/>
-		<Section collapsed="nil" id="SkillTypeStats"/>
-		<Section collapsed="nil" id="Bleed"/>
-		<Section collapsed="nil" id="Impale"/>
-		<Section collapsed="nil" id="Poison"/>
-		<Section collapsed="nil" id="Ignite"/>
-		<Section collapsed="nil" id="Decay"/>
-		<Section collapsed="nil" id="LeechGain"/>
-		<Section collapsed="nil" id="MiscEffects"/>
-		<Section collapsed="nil" id="Attributes"/>
-		<Section collapsed="nil" id="Life"/>
-		<Section collapsed="nil" id="Mana"/>
-		<Section collapsed="nil" id="EnergyShield"/>
-		<Section collapsed="nil" id="Armour"/>
-		<Section collapsed="nil" id="Evasion"/>
-		<Section collapsed="nil" id="Resist"/>
-		<Section collapsed="nil" id="DamageTaken"/>
-		<Section collapsed="nil" id="MiscDefences"/>
+		<Input name="skill_number" number="1"/>
+		<Section collapsed="false" id="SkillSelect"/>
+		<Section collapsed="false" id="HitDamage"/>
+		<Section collapsed="false" id="Dot"/>
+		<Section collapsed="false" id="Speed"/>
+		<Section collapsed="false" id="Crit"/>
+		<Section collapsed="false" id="HitChance"/>
+		<Section collapsed="false" id="SkillTypeStats"/>
+		<Section collapsed="false" id="Bleed"/>
+		<Section collapsed="false" id="Impale"/>
+		<Section collapsed="false" id="Poison"/>
+		<Section collapsed="false" id="Ignite"/>
+		<Section collapsed="false" id="Decay"/>
+		<Section collapsed="false" id="LeechGain"/>
+		<Section collapsed="false" id="MiscEffects"/>
+		<Section collapsed="false" id="Attributes"/>
+		<Section collapsed="false" id="Life"/>
+		<Section collapsed="false" id="Mana"/>
+		<Section collapsed="false" id="EnergyShield"/>
+		<Section collapsed="false" id="Armour"/>
+		<Section collapsed="false" id="Evasion"/>
+		<Section collapsed="false" id="Resist"/>
+		<Section collapsed="false" id="DamageTaken"/>
+		<Section collapsed="false" id="MiscDefences"/>
 	</Calcs>
 	<AboutTab/>
-	<TreeView searchStr="" zoomY="-151.21485478739" showHeatMap="nil" zoomLevel="0" showStatDifferences="true" zoomX="-771.41769119032"/>
-	<Items activeItemSet="1" useSecondWeaponSet="nil">
+	<TreeView searchStr="" zoomY="192.98471240887" showHeatMap="false" zoomLevel="3" showStatDifferences="true" zoomX="-445.85267778428"/>
+	<Items activeItemSet="1" useSecondWeaponSet="false">
 		<Item id="1">
 			稀 有 度: 传奇
 德瑞的恶念
@@ -171,7 +171,6 @@
 			稀 有 度: 传奇
 好战的信仰（威纳留斯）
 永恒珠宝
-League: 战乱之殇
 版本: 图腾伤害
 版本: 烙印伤害
 版本: 吟唱技能伤害
@@ -318,11 +317,11 @@ Selected Variant: 4
 {variant:1,2,3}{range:0.5}该装备的闪避与能量护盾提高 (110-150)%
 {variant:4}{range:0.5}该装备的闪避与能量护盾提高 (300-400)%
 {variant:1,2}{range:0.5}+(90-110) 最大魔力
-{variant:3,4}{range:0.5}+(100-150) 最大魔力
+{variant:4,3}{range:0.5}+(100-150) 最大魔力
 {variant:1,2}{range:0.5}魔力回复速度提高 (40-50)%
 {variant:1}被击中时, 10% 的伤害优先从魔力扣除
-{variant:3,4}10% 的伤害优先从魔力扣除
-{variant:3,4}每秒 1% 魔力回复
+{variant:4,3}10% 的伤害优先从魔力扣除
+{variant:4,3}每秒 1% 魔力回复
 心灵升华
 			<ModRange range="0.5" id="1"/>
 			<ModRange range="0.5" id="2"/>
@@ -762,7 +761,7 @@ New Item
 		<Slot name="Ring 1" itemId="9"/>
 		<Slot name="Helmet" itemId="12"/>
 		<Slot name="Belt" itemId="6"/>
-		<ItemSet useSecondWeaponSet="nil" id="1">
+		<ItemSet useSecondWeaponSet="false" id="1">
 			<Slot name="Gloves" itemId="10"/>
 			<Slot name="Weapon 1" itemId="4"/>
 			<Slot name="Weapon 2Swap Abyssal Socket 2" itemId="0"/>
@@ -805,11 +804,11 @@ New Item
 		<Input name="conditionEnemyChilled" boolean="true"/>
 		<Input name="enemyIsBoss" string="SHAPER"/>
 		<Input name="critChanceLucky" boolean="true"/>
-		<Input name="multiplierMineDetonatedRecently" number="10"/>
-		<Input name="conditionEnemyIgnited" boolean="true"/>
-		<Input name="conditionUsedMovementSkillRecently" boolean="true"/>
 		<Input name="conditionKilledAffectedByDoT" boolean="true"/>
-		<Input name="conditionEnemyShocked" boolean="true"/>
 		<Input name="usePowerCharges" boolean="true"/>
+		<Input name="conditionUsedMovementSkillRecently" boolean="true"/>
+		<Input name="multiplierMineDetonatedRecently" number="10"/>
+		<Input name="conditionEnemyShocked" boolean="true"/>
+		<Input name="conditionEnemyIgnited" boolean="true"/>
 	</Config>
 </PathOfBuilding>
