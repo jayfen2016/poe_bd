@@ -31,14 +31,14 @@
 		<PlayerStat stat="LifeLeechGainRate" value="0"/>
 		<PlayerStat stat="Mana" value="1009"/>
 		<PlayerStat stat="Spec:ManaInc" value="28"/>
-		<PlayerStat stat="ManaUnreserved" value="252"/>
-		<PlayerStat stat="ManaUnreservedPercent" value="24.975222993062"/>
+		<PlayerStat stat="ManaUnreserved" value="-11"/>
+		<PlayerStat stat="ManaUnreservedPercent" value="-1.0901883052527"/>
 		<PlayerStat stat="ManaRegen" value="65.8"/>
 		<PlayerStat stat="ManaLeechGainRate" value="0"/>
-		<PlayerStat stat="EnergyShield" value="2835"/>
+		<PlayerStat stat="EnergyShield" value="5865"/>
 		<PlayerStat stat="Spec:EnergyShieldInc" value="201"/>
 		<PlayerStat stat="EnergyShieldRegen" value="0"/>
-		<PlayerStat stat="EnergyShieldLeechGainRate" value="283.5"/>
+		<PlayerStat stat="EnergyShieldLeechGainRate" value="586.5"/>
 		<PlayerStat stat="Evasion" value="536"/>
 		<PlayerStat stat="Spec:EvasionInc" value="55"/>
 		<PlayerStat stat="MeleeEvadeChance" value="0"/>
@@ -52,8 +52,8 @@
 		<PlayerStat stat="SpellBlockChance" value="0"/>
 		<PlayerStat stat="AttackDodgeChance" value="0"/>
 		<PlayerStat stat="SpellDodgeChance" value="0"/>
-		<PlayerStat stat="FireResist" value="12"/>
-		<PlayerStat stat="ColdResist" value="22"/>
+		<PlayerStat stat="FireResist" value="26"/>
+		<PlayerStat stat="ColdResist" value="36"/>
 		<PlayerStat stat="LightningResist" value="-28"/>
 		<PlayerStat stat="ChaosResist" value="100"/>
 		<PlayerStat stat="FireResistOverCap" value="0"/>
@@ -71,7 +71,7 @@
 	<Tree activeSpec="1">
 		<Spec treeVersion="3_9">
 			<URL>
-				https://poe.game.qq.com/passive-skill-tree/AAAABAMBABzcenCboR0UbRkN0RZApcSPGvfXEFiJ09-KvOpqQxFQO3zZWxhqJC30KKcIoqNsC9D1tvqFfacrKgsOSAj06QLDCYw2VcbjhA_EIvQsnLiT74i5k_IdfbBObdteUXShL9WmGyUFQjJYH0GP-n6htzHxigQHjHZLrtLFfOWus0mxQZaRB0I6Qnr60uwY18-VLrkCvorr9aQFrJh_xmaeEZaD28_dnDI6WI9GuMoHHjHvDXxca1gHUw5p2PDVSVEaSFAwIG5wUisKTLOO6Sy_XqXDbXzwjmSYU_k3Y0OESBvIKU-ePBNxXfJ4L_emKPqvm1iupplXyevukyc=
+				https://poe.game.qq.com/passive-skill-tree/AAAABAMBABzcenCboR0UUXQI9A3RGGptGY8aV8mJ09-KvOpqQxFQr5sqCxZAJC14L6cIoqNsC9D1tvqFfacrXfIOSKXE6QLDCSlPVcb31w_EIvQsnLiT74i5k_IdhEhObYw2-TehL9WmGyXbXo5kH0GRB36hvopepSy_jHZLrtLFfOWuswVCQZbxikI6QnqD2-wY18-VLrkCj_q3MUyzrJh_xmaeKwq4ys_dIG4EB1AwpAUaSDHvDXxca1gHUw5p2ElR8NUHHo9GnDJwUvrSOliO6RGW6_XDbXzwSbGYUzt8Y0N9sBvIEFiePBNx2Vv0KPemKPrjhFiuppkyWOvukyc=
 			</URL>
 			<Sockets>
 				<Socket nodeId="7960" itemId="0"/>
@@ -79,29 +79,29 @@
 				<Socket nodeId="28475" itemId="0"/>
 				<Socket nodeId="26196" itemId="0"/>
 				<Socket nodeId="36634" itemId="0"/>
-				<Socket nodeId="33989" itemId="0"/>
+				<Socket nodeId="34483" itemId="0"/>
 				<Socket nodeId="21984" itemId="0"/>
 				<Socket nodeId="46882" itemId="0"/>
 				<Socket nodeId="61419" itemId="0"/>
 				<Socket nodeId="41263" itemId="0"/>
-				<Socket nodeId="6230" itemId="0"/>
+				<Socket nodeId="31683" itemId="0"/>
 				<Socket nodeId="55190" itemId="0"/>
 				<Socket nodeId="48768" itemId="0"/>
-				<Socket nodeId="26725" itemId="0"/>
-				<Socket nodeId="31683" itemId="0"/>
-				<Socket nodeId="34483" itemId="0"/>
+				<Socket nodeId="61834" itemId="0"/>
+				<Socket nodeId="2491" itemId="0"/>
+				<Socket nodeId="54127" itemId="0"/>
 				<Socket nodeId="60735" itemId="0"/>
 				<Socket nodeId="33631" itemId="0"/>
-				<Socket nodeId="54127" itemId="0"/>
-				<Socket nodeId="2491" itemId="0"/>
-				<Socket nodeId="61834" itemId="0"/>
+				<Socket nodeId="6230" itemId="0"/>
+				<Socket nodeId="33989" itemId="0"/>
+				<Socket nodeId="26725" itemId="0"/>
 			</Sockets>
 		</Spec>
 	</Tree>
 	<Notes>
 		
 	</Notes>
-	<Skills defaultGemQuality="nil" defaultGemLevel="nil" sortGemsByDPS="true">
+	<Skills defaultGemQuality="nil" defaultGemLevel="nil" showSupportGemTypes="ALL" sortGemsByDPS="true">
 		<Skill mainActiveSkillCalcs="1" label="" enabled="true" slot="Weapon 1" mainActiveSkill="1">
 			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SkillGemWinterOrb" skillId="FrostFury" skillPart="1" enableGlobal1="true" skillPartCalcs="1" enabled="true" nameSpec="寒冬宝珠" skillMinion="SummonedPhantasm"/>
 			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemGreaterMultipleProjectiles" skillId="SupportGreaterMultipleProjectiles" enableGlobal1="true" enabled="true" nameSpec="高阶多重投射(辅)"/>
@@ -115,11 +115,13 @@
 			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemProjectileWeakness" skillId="ProjectileWeakness" enableGlobal1="true" enabled="true" nameSpec="投射物要害"/>
 			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemFlammability" skillId="Flammability" enableGlobal1="true" enabled="true" nameSpec="易燃"/>
 			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemElementalWeakness" skillId="ElementalWeakness" enableGlobal1="true" enabled="true" nameSpec="元素要害"/>
-			<Gem enableGlobal2="nil" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemVulnerability" skillId="Despair" enableGlobal1="true" enabled="true" nameSpec="绝望"/>
+			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemVulnerability" skillId="Despair" enableGlobal1="true" enabled="true" nameSpec="绝望"/>
 		</Skill>
 		<Skill mainActiveSkillCalcs="1" label="" enabled="true" mainActiveSkill="1">
 			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemSpellDamageAura" skillId="SpellDamageAura" enableGlobal1="true" enabled="true" nameSpec="奋锐光环"/>
 			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemHeraldOfAsh" skillId="HeraldOfAsh" enableGlobal1="true" enabled="true" nameSpec="灰烬之捷"/>
+			<Gem enableGlobal2="nil" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemDiscipline" skillId="Discipline" enableGlobal1="true" enabled="true" nameSpec="纪律"/>
+			<Gem enableGlobal2="nil" quality="0" level="3" gemId="Metadata/Items/Gems/SupportGemAdditionalXP" skillId="SupportAdditionalXP" enableGlobal1="true" enabled="true" nameSpec="启蒙(辅)"/>
 		</Skill>
 		<Skill mainActiveSkillCalcs="1" label="" enabled="true" mainActiveSkill="1"/>
 	</Skills>
@@ -151,7 +153,7 @@
 		<Section collapsed="false" id="MiscDefences"/>
 	</Calcs>
 	<AboutTab/>
-	<TreeView searchStr="" zoomY="839.30550952263" showHeatMap="false" zoomLevel="6" showStatDifferences="true" zoomX="-38.575121786003"/>
+	<TreeView searchStr="" zoomY="323.80982433683" showHeatMap="false" zoomLevel="2" showStatDifferences="true" zoomX="-316.4612662934"/>
 	<Items activeItemSet="1" useSecondWeaponSet="false">
 		<Item variant="2" id="1">
 			稀 有 度: 传奇
@@ -357,13 +359,118 @@ New Item
 获得额外混沌伤害，其数值等同于非混沌伤害的 16%
 已腐化
 		</Item>
+		<Item variant="3" id="11">
+			稀 有 度: 传奇
+安赛娜丝的安抚之语
+丝绸手套
+League: 战乱之殇
+版本: 2.6.0以前
+版本: 3.7.0以前
+版本: 当前
+Selected Variant: 3
+品质: 20
+插槽: B-B-B-B
+等级需求: 25
+固定基底词缀: 1
+{range:0.5}+(20-30) 智慧
+{variant:1,2}{range:0.5}+(20-30) 最大生命
+{variant:1,2}{range:0.5}+(20-30) 最大魔力
+{variant:1}击中敌人时，用【时空锁链】诅咒敌人
+{variant:2,3}击中敌人时，用 10 级的【时空锁链】诅咒敌人
+{variant:3}{range:0.5}+(60-80) 最大生命
+{variant:3}{range:0.5}+(60-80) 最大魔力
+{variant:3}你施放的非光环类诅咒不会因垂死的敌人而移除
+{variant:3}灵枢附近的敌人受到【诅咒】影响时致盲
+{variant:3}灵枢附近被击败的敌人被【诅咒】引爆，则造成等同它们 3% 生命的物理伤害
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+		</Item>
+		<Item id="12">
+			稀 有 度: 稀有
+New Item
+术士长靴
+工艺: true
+前缀: {range:0.285}LocalIncreasedEnergyShield7
+前缀: {range:0.285}LocalIncreasedEnergyShieldPercent7_
+前缀: None
+后缀: None
+后缀: None
+后缀: None
+品质: 20
+插槽: B-B-B-B
+等级需求: 67
+固定基底词缀: 0
++42 最大能量护盾
+该装备的能量护盾提高 94%
+		</Item>
+		<Item id="13">
+			稀 有 度: 稀有
+New Item
+Two-Stone Ring (Fire/Cold)
+工艺: true
+前缀: {range:0.838}IncreasedEnergyShield10
+前缀: None
+前缀: None
+后缀: None
+后缀: None
+后缀: None
+品质: 0
+等级需求: 54
+固定基底词缀: 1
+{range:0.5}+(12-16)% 火焰与冰霜抗性
++42 最大能量护盾
+			<ModRange range="0.5" id="1"/>
+		</Item>
+		<Item id="14">
+			稀 有 度: 稀有
+New Item
+水晶腰带
+工艺: true
+前缀: {range:0.437}IncreasedEnergyShield11
+前缀: None
+前缀: None
+后缀: None
+后缀: None
+后缀: None
+品质: 0
+等级需求: 79
+固定基底词缀: 1
+{range:0.5}+(60-80) 最大能量护盾
++45 最大能量护盾
+			<ModRange range="0.5" id="1"/>
+		</Item>
+		<Item id="15">
+			稀 有 度: 稀有
+New Item
+术士手套
+工艺: true
+前缀: {range:0.458}LocalIncreasedEnergyShield7
+前缀: {range:0.408}LocalIncreasedEnergyShieldPercent7_
+前缀: None
+后缀: None
+后缀: None
+后缀: None
+品质: 20
+插槽: B-B-B-B
+等级需求: 69
+固定基底词缀: 0
++44 最大能量护盾
+该装备的能量护盾提高 95%
+		</Item>
+		<Slot name="Gloves" itemId="15"/>
 		<Slot name="Weapon 1" itemId="8"/>
 		<Slot name="Amulet" itemId="10"/>
 		<Slot name="Body Armour" itemId="9"/>
 		<Slot name="Ring 2" itemId="7"/>
+		<Slot name="Boots" itemId="12"/>
+		<Slot name="Ring 1" itemId="13"/>
 		<Slot name="Helmet" itemId="5"/>
+		<Slot name="Belt" itemId="14"/>
 		<ItemSet useSecondWeaponSet="false" id="1">
-			<Slot name="Gloves" itemId="0"/>
+			<Slot name="Gloves" itemId="15"/>
 			<Slot name="Weapon 1" itemId="8"/>
 			<Slot name="Weapon 2Swap Abyssal Socket 2" itemId="0"/>
 			<Slot name="Belt Abyssal Socket 2" itemId="0"/>
@@ -391,13 +498,13 @@ New Item
 			<Slot name="Gloves Abyssal Socket 1" itemId="0"/>
 			<Slot name="Helmet Abyssal Socket 1" itemId="0"/>
 			<Slot name="Weapon 2 Abyssal Socket 1" itemId="0"/>
-			<Slot name="Boots" itemId="0"/>
+			<Slot name="Boots" itemId="12"/>
 			<Slot name="Weapon 1Swap Abyssal Socket 1" itemId="0"/>
-			<Slot name="Ring 1" itemId="0"/>
+			<Slot name="Ring 1" itemId="13"/>
 			<Slot name="Weapon 1Swap Abyssal Socket 2" itemId="0"/>
 			<Slot name="Helmet" itemId="5"/>
 			<Slot name="Boots Abyssal Socket 1" itemId="0"/>
-			<Slot name="Belt" itemId="0"/>
+			<Slot name="Belt" itemId="14"/>
 		</ItemSet>
 	</Items>
 	<Config>
