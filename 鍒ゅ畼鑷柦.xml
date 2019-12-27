@@ -1,56 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
-	<Build level="90" targetVersion="3_0" banditNormal="None" bandit="Alira" banditMerciless="None" className="圣堂武僧" ascendClassName="Inquisitor" mainSocketGroup="2" viewMode="TREE" banditCruel="None">
-		<PlayerStat stat="AverageHit" value="46250.549622092"/>
-		<PlayerStat stat="AverageDamage" value="46250.549622092"/>
+	<Build level="90" targetVersion="3_0" banditNormal="None" bandit="Alira" banditMerciless="None" className="圣堂武僧" ascendClassName="Inquisitor" mainSocketGroup="2" viewMode="SKILLS" banditCruel="None">
+		<PlayerStat stat="AverageHit" value="17879.142081937"/>
+		<PlayerStat stat="AverageDamage" value="17879.142081937"/>
 		<PlayerStat stat="Speed" value="4.8933333333333"/>
 		<PlayerStat stat="Speed" value="4.8933333333333"/>
-		<PlayerStat stat="PreEffectiveCritChance" value="43.86"/>
-		<PlayerStat stat="CritChance" value="68.483004"/>
-		<PlayerStat stat="CritMultiplier" value="4.94"/>
+		<PlayerStat stat="PreEffectiveCritChance" value="32.25"/>
+		<PlayerStat stat="CritChance" value="54.099375"/>
+		<PlayerStat stat="CritMultiplier" value="4.4"/>
 		<PlayerStat stat="HitChance" value="100"/>
-		<PlayerStat stat="TotalDPS" value="226319.35615077"/>
+		<PlayerStat stat="TotalDPS" value="87488.601920947"/>
 		<PlayerStat stat="TotalDot" value="0"/>
-		<PlayerStat stat="WithPoisonDPS" value="226319.35615077"/>
+		<PlayerStat stat="WithPoisonDPS" value="87488.601920947"/>
 		<PlayerStat stat="AreaOfEffectRadius" value="22"/>
-		<PlayerStat stat="ManaCost" value="91"/>
+		<PlayerStat stat="ManaCost" value="136"/>
 		<PlayerStat stat="Str" value="93"/>
-		<PlayerStat stat="ReqStr" value="0"/>
+		<PlayerStat stat="ReqStr" value="84"/>
 		<PlayerStat stat="Dex" value="74"/>
 		<PlayerStat stat="ReqDex" value="83"/>
-		<PlayerStat stat="Int" value="353"/>
-		<PlayerStat stat="ReqInt" value="159"/>
+		<PlayerStat stat="Int" value="333"/>
+		<PlayerStat stat="ReqInt" value="145"/>
 		<PlayerStat stat="Devotion" value="30"/>
 		<PlayerStat stat="Life" value="4660"/>
 		<PlayerStat stat="Spec:LifeInc" value="152"/>
 		<PlayerStat stat="LifeUnreserved" value="4660"/>
 		<PlayerStat stat="LifeUnreservedPercent" value="100"/>
 		<PlayerStat stat="LifeRegen" value="37.28"/>
-		<PlayerStat stat="LifeLeechGainRate" value="0"/>
-		<PlayerStat stat="Mana" value="4630"/>
-		<PlayerStat stat="Spec:ManaInc" value="199"/>
-		<PlayerStat stat="ManaUnreserved" value="4630"/>
+		<PlayerStat stat="LifeLeechGainRate" value="174.97720384189"/>
+		<PlayerStat stat="Mana" value="5353"/>
+		<PlayerStat stat="Spec:ManaInc" value="176"/>
+		<PlayerStat stat="ManaUnreserved" value="5353"/>
 		<PlayerStat stat="ManaUnreservedPercent" value="100"/>
-		<PlayerStat stat="ManaRegen" value="484.9"/>
+		<PlayerStat stat="ManaRegen" value="476.5"/>
 		<PlayerStat stat="ManaLeechGainRate" value="0"/>
-		<PlayerStat stat="TotalDegen" value="300"/>
-		<PlayerStat stat="NetLifeRegen" value="-142.72"/>
-		<PlayerStat stat="NetManaRegen" value="364.9"/>
 		<PlayerStat stat="EnergyShield" value="0"/>
-		<PlayerStat stat="Spec:EnergyShieldInc" value="25"/>
+		<PlayerStat stat="Spec:EnergyShieldInc" value="42"/>
 		<PlayerStat stat="EnergyShieldRegen" value="0"/>
 		<PlayerStat stat="EnergyShieldLeechGainRate" value="0"/>
-		<PlayerStat stat="Evasion" value="1030"/>
-		<PlayerStat stat="Spec:EvasionInc" value="0"/>
-		<PlayerStat stat="MeleeEvadeChance" value="1"/>
-		<PlayerStat stat="MeleeEvadeChance" value="1"/>
-		<PlayerStat stat="ProjectileEvadeChance" value="1"/>
+		<PlayerStat stat="Evasion" value="1281"/>
+		<PlayerStat stat="Spec:EvasionInc" value="28"/>
+		<PlayerStat stat="MeleeEvadeChance" value="3"/>
+		<PlayerStat stat="MeleeEvadeChance" value="3"/>
+		<PlayerStat stat="ProjectileEvadeChance" value="3"/>
 		<PlayerStat stat="Armour" value="0"/>
 		<PlayerStat stat="Spec:ArmourInc" value="0"/>
 		<PlayerStat stat="PhysicalDamageReduction" value="0"/>
-		<PlayerStat stat="EffectiveMovementSpeedMod" value="1.28"/>
-		<PlayerStat stat="BlockChance" value="22"/>
-		<PlayerStat stat="SpellBlockChance" value="18"/>
+		<PlayerStat stat="EffectiveMovementSpeedMod" value="1.31"/>
+		<PlayerStat stat="BlockChance" value="18"/>
+		<PlayerStat stat="SpellBlockChance" value="6"/>
 		<PlayerStat stat="AttackDodgeChance" value="0"/>
 		<PlayerStat stat="SpellDodgeChance" value="0"/>
 		<PlayerStat stat="FireResist" value="-20"/>
@@ -72,7 +69,7 @@
 	<Tree activeSpec="2">
 		<Spec treeVersion="3_8">
 			<URL>
-				https://poe.game.qq.com/passive-skill-tree/AAAABAYCABzcB2MI9A3RSVGPGsCcrJeTJyeDvOqycBa_lPGRR6Kjy725k_DVL51sC9D1bIy0OGNDidPAZt_zfIPDCSaVVcZFRw_EIvQsnDD48h34l_Af44RauWob7-uhL9WmKlPQH1NSH0EEsw5IMFtVS9o7jDZMs4Pb216uswVCmuDxirQMytOFMkb-OliVLuvkj_rr9RbzBx5_xp2qEZYaOIKbJjwEBzY9uMqu_zrYCSDGil8qYeIRLf6zMtGQVVAwIG5wUjJxH0wzo20Zz92LDkWdvor79Tt8pzQbyGKsQZYqC13y5Rmn-CcvogAdg2SdakPr7oCz
+				https://poe.game.qq.com/passive-skill-tree/AAAABAYCABzcB2MI9A3RSVGPGsCcrJeTJ6KjvOpqQxa_lPEwW0GWkUf4l_DVL51sC9D1y720OCcvY0PAZt_zfIPDCSaVVcZFRw_EIvQsnDD48B-5k_Id44RauWob7-uhL9WmKlPQH1NSH0EEsw5ItAxVS9o7jDZMswQH216uswVCmuDximSdytOFMkb-bRmVLuvkj_rr9RbzBx5_xp2qEZYaOIKbJjyD2zY9uMqu_zrYCSDGil8qYeIRLf6zMtGQVVAwIG5wUjJxH0wzozpYz92LDkWdvor79Tt8pzQbyKIAKgtd8onT5Rmn-GyMYqwdgyeDsnDr7oCz
 			</URL>
 			<Sockets>
 				<Socket nodeId="7960" itemId="0"/>
@@ -100,7 +97,7 @@
 		</Spec>
 		<Spec treeVersion="3_9">
 			<URL>
-				https://poe.game.qq.com/passive-skill-tree/AAAABAUBABzcEFgHYx0UCPQN0VH7jxong6yXvOpqQ6IAa6zNFhZAmuAvne1hbAvQ9WyMjmTjhLJwwGaFfR8YwwkmlVXGYqzw1SL0LJyhLyoLuZPyHWNDy72MNu_ridPVpipTG8ice9AfBLMOSPndVUs26QxSTLMwW9terrMFQklR8Yq0DMrThTJG_pJulS6dqo_66_VFnX_GZp4W820Zz90CloPbYeJ2Ea7_MtEkqhGWXyr60hEt_rM2PVAwj0YmPHBS42qouQQHvFYHHuvkvoo6WNJ8U1KnNHyDahuvjfAfN0dd8kVH96ZBlrb6pwgdgxZvwJzr7pMn
+				https://poe.game.qq.com/passive-skill-tree/AAAABAUBABzcEFgHYx0UFm8N0c0Wjxong6yXvOpqQ6IAFkCa4EGW7WFsC-OEtvqFfVH7wJzAZqcIHxjDCSaVVcbw1S-dIvQsnKEvy725k_Afa6wqCw5I7-uJ09WmYqwMUpx7G8gEs3yD-d1VSzbpjDZMs9Af216uswVCSVHxijBbj_qFMkb-km6VLhGWvorr9RbzRZ1_xp2qOlgHHs_dApZtGQQHdhGu_yY8JKph4l8qUDARLf6zMtErCo9G42pwUvrSMnE2PbxWqLnr5IPbZp7SfFNSpzR9sGobr41sjDdHRUdd8vemY0PyHY5kHYPQ9Qj06-6TJw==
 			</URL>
 			<Sockets>
 				<Socket nodeId="7960" itemId="25"/>
@@ -134,13 +131,13 @@
 		<Skill mainActiveSkillCalcs="1" label="" enabled="true" mainActiveSkill="1">
 			<Gem enableGlobal2="false" skillMinionSkillCalcs="1" skillMinionCalcs="SummonedLightningGolem" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemSummonLightningGolem" skillId="SummonLightningGolem" skillMinionSkill="1" enableGlobal1="true" enabled="true" nameSpec="召唤闪电魔像" skillMinion="SummonedLightningGolem"/>
 		</Skill>
-		<Skill mainActiveSkillCalcs="1" label="" enabled="true" slot="Body Armour" mainActiveSkill="1">
+		<Skill mainActiveSkillCalcs="1" label="" enabled="true" slot="Weapon 1" mainActiveSkill="1">
 			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemMulticast" skillId="SupportMulticast" enableGlobal1="true" enabled="true" nameSpec="施法回响(辅)"/>
 			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SkillGemBallLightning" skillId="BallLightning" enableGlobal1="true" enabled="true" nameSpec="天雷之珠" skillMinion="SummonedPhantasm"/>
-			<Gem enableGlobal2="nil" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemArcaneSurge" skillId="SupportArcaneSurge" enableGlobal1="true" enabled="true" nameSpec="秘术增强(辅)"/>
-			<Gem enableGlobal2="nil" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemControlledDestruction" skillId="SupportControlledDestruction" enableGlobal1="true" enabled="true" nameSpec="精准破坏(辅)"/>
-			<Gem enableGlobal2="nil" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemSlowerProjectiles" skillId="SupportSlowerProjectiles" enableGlobal1="true" enabled="true" nameSpec="投射物减速(辅)"/>
-			<Gem enableGlobal2="nil" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemPowerChargeOnCrit" skillId="SupportPowerChargeOnCrit" enableGlobal1="true" enabled="true" nameSpec="暴击获得暴击球(辅)"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemArcaneSurge" skillId="SupportArcaneSurge" enableGlobal1="true" enabled="true" nameSpec="秘术增强(辅)"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemControlledDestruction" skillId="SupportControlledDestruction" enableGlobal1="true" enabled="true" nameSpec="精准破坏(辅)"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemSlowerProjectiles" skillId="SupportSlowerProjectiles" enableGlobal1="true" enabled="true" nameSpec="投射物减速(辅)"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemPowerChargeOnCrit" skillId="SupportPowerChargeOnCrit" enableGlobal1="true" enabled="true" nameSpec="暴击获得暴击球(辅)"/>
 		</Skill>
 		<Skill mainActiveSkillCalcs="1" label="" enabled="true" mainActiveSkill="1"/>
 		<Skill source="Item:12:塑界之印, 蛋白石戒指" mainActiveSkillCalcs="nil" label="" enabled="true" slot="Ring 1" mainActiveSkill="nil">
@@ -149,7 +146,7 @@
 	</Skills>
 	<Calcs>
 		<Input name="misc_buffMode" string="EFFECTIVE"/>
-		<Input name="skill_number" number="1"/>
+		<Input name="skill_number" number="2"/>
 		<Section collapsed="false" id="SkillSelect"/>
 		<Section collapsed="false" id="HitDamage"/>
 		<Section collapsed="false" id="Dot"/>
@@ -175,7 +172,7 @@
 		<Section collapsed="false" id="MiscDefences"/>
 	</Calcs>
 	<AboutTab/>
-	<TreeView searchStr="" zoomY="354.06681819959" showHeatMap="false" zoomLevel="5" showStatDifferences="true" zoomX="22.944466141977"/>
+	<TreeView searchStr="" zoomY="179.51654041638" showHeatMap="false" zoomLevel="3" showStatDifferences="true" zoomX="-57.012814150371"/>
 	<Items activeItemSet="1" useSecondWeaponSet="false">
 		<Item id="1">
 			稀 有 度: 传奇
@@ -234,11 +231,11 @@ Selected Variant: 4
 {variant:1,2,3}{range:0.5}该装备的闪避与能量护盾提高 (110-150)%
 {variant:4}{range:0.5}该装备的闪避与能量护盾提高 (300-400)%
 {variant:1,2}{range:0.5}+(90-110) 最大魔力
-{variant:4,3}{range:0.878}+(100-150) 最大魔力
+{variant:3,4}{range:0.878}+(100-150) 最大魔力
 {variant:1,2}{range:0.5}魔力回复速度提高 (40-50)%
 {variant:1}被击中时, 10% 的伤害优先从魔力扣除
-{variant:4,3}10% 的伤害优先从魔力扣除
-{variant:4,3}每秒 1% 魔力回复
+{variant:3,4}10% 的伤害优先从魔力扣除
+{variant:3,4}每秒 1% 魔力回复
 心灵升华
 			<ModRange range="0.5" id="1"/>
 			<ModRange range="0.5" id="2"/>
@@ -694,6 +691,7 @@ Two-Stone Ring (Fire/Cold)
 +67 最大生命
 +60 最大魔力
 +47% 闪电抗性
+{custom}闪电伤害的 0.2% 转化为生命偷取
 			<ModRange range="0.5" id="1"/>
 		</Item>
 		<Item id="14">
@@ -837,8 +835,8 @@ Selected Variant: 12
 {variant:6,7,8,10,9}对周围敌人，攻击和法术暴击率提高 50%
 {variant:1,6}【雷霆】不保留魔力
 {variant:2,7}【清晰】不保留魔力
-{variant:3,8}【纪律】不保留魔力
-{variant:4,9}【元素净化】不保留魔力
+{variant:8,3}【纪律】不保留魔力
+{variant:9,4}【元素净化】不保留魔力
 {variant:5,10}【闪电净化】不保留魔力
 {variant:11}【怨毒光环】不保留魔力
 {variant:12}【奋锐光环】不保留魔力
@@ -874,8 +872,8 @@ Selected Variant: 6
 {variant:6,7,8,10,9}对周围敌人，攻击和法术暴击率提高 50%
 {variant:1,6}【雷霆】不保留魔力
 {variant:2,7}【清晰】不保留魔力
-{variant:3,8}【纪律】不保留魔力
-{variant:4,9}【元素净化】不保留魔力
+{variant:8,3}【纪律】不保留魔力
+{variant:9,4}【元素净化】不保留魔力
 {variant:5,10}【闪电净化】不保留魔力
 {variant:11}【怨毒光环】不保留魔力
 {variant:12}【奋锐光环】不保留魔力
@@ -932,7 +930,6 @@ New Item
 			稀 有 度: 传奇
 好战的信仰（威纳留斯）
 永恒珠宝
-League: 战乱之殇
 版本: 图腾伤害
 版本: 烙印伤害
 版本: 吟唱技能伤害
@@ -975,11 +972,57 @@ Selected Alt Variant: 15
 史实
 			<ModRange range="0.5" id="16"/>
 		</Item>
+		<Item variant="3" id="26">
+			稀 有 度: 传奇
+西方雷霆圣杖
+帝国长杖
+版本: 2.6.0以前
+版本: 3.8.0以前
+版本: 当前
+Selected Variant: 3
+品质: 20
+插槽: B-B-B-B-B-B
+等级需求: 66
+固定基底词缀: 2
+{variant:1}12% 攻击格挡率
+{variant:2,3}18% 攻击格挡率
+{variant:1}此物品上装备的【闪电技能石】等级 +1
+{variant:2}此物品上装备的【闪电技能石】等级 +2
+{variant:3}所有物品上装备的【闪电技能石】等级 +2
+{range:0.5}+(80-120) 智慧
+{range:0.5}闪电伤害提高 (30-50)%
+{range:0.805}法术附加 (5-15) - (100-140) 闪电伤害
+力量需求提高 40%
+伤害穿透 20% 闪电抗性
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+			<ModRange range="0.805" id="8"/>
+		</Item>
+		<Item variant="3" id="27">
+			稀 有 度: 传奇
+誓约
+审判长杖
+League: 战乱之殇
+版本: 2.6.0以前
+版本: 3.7.0以前
+版本: 当前
+Selected Variant: 3
+品质: 20
+插槽: B-B-B-B-B-B
+等级需求: 68
+固定基底词缀: 2
+{variant:1}12% 攻击格挡率
+{variant:2,3}18% 攻击格挡率
+{variant:1,2}此物品上的技能石受到 30 级的 施法回响 辅助
+{variant:3}此物品上的技能石受到 30 级的【高等施法回响】辅助
+{range:0.5}法术伤害提高 (120-160)%
+最大魔力提高 100%
+			<ModRange range="0.5" id="5"/>
+		</Item>
 		<Slot name="Gloves" itemId="14"/>
-		<Slot name="Weapon 1" itemId="10"/>
+		<Slot name="Weapon 1" itemId="27"/>
 		<Slot name="Amulet" itemId="6"/>
 		<Slot name="Belt Abyssal Socket 1" itemId="17"/>
-		<Slot name="Weapon 2" itemId="1"/>
 		<Slot name="Body Armour" itemId="5"/>
 		<Slot name="Ring 2" itemId="13"/>
 		<Slot name="Boots" itemId="22"/>
@@ -988,7 +1031,7 @@ Selected Alt Variant: 15
 		<Slot name="Belt" itemId="15"/>
 		<ItemSet useSecondWeaponSet="false" id="1">
 			<Slot name="Gloves" itemId="14"/>
-			<Slot name="Weapon 1" itemId="10"/>
+			<Slot name="Weapon 1" itemId="27"/>
 			<Slot name="Weapon 2Swap Abyssal Socket 2" itemId="0"/>
 			<Slot name="Belt Abyssal Socket 2" itemId="0"/>
 			<Slot name="Flask 3" itemId="0"/>
@@ -1002,7 +1045,7 @@ Selected Alt Variant: 15
 			<Slot name="Helmet Abyssal Socket 2" itemId="0"/>
 			<Slot name="Weapon 2 Swap" itemId="0"/>
 			<Slot name="Weapon 1 Abyssal Socket 1" itemId="0"/>
-			<Slot name="Weapon 2" itemId="1"/>
+			<Slot name="Weapon 2" itemId="0"/>
 			<Slot name="Body Armour" itemId="5"/>
 			<Slot name="Flask 4" itemId="0"/>
 			<Slot name="Weapon 1 Abyssal Socket 2" itemId="0"/>
@@ -1028,14 +1071,15 @@ Selected Alt Variant: 15
 		<Input name="conditionCastSpellRecently" boolean="true"/>
 		<Input name="enemyIsBoss" string="SHAPER"/>
 		<Input name="critChanceLucky" boolean="true"/>
-		<Input name="usePowerCharges" boolean="true"/>
-		<Input name="conditionCriticalStrike" boolean="true"/>
 		<Input name="useInspirationCharges" boolean="true"/>
+		<Input name="conditionCriticalStrike" boolean="true"/>
+		<Input name="usePowerCharges" boolean="true"/>
 		<Input name="conditionAttackedRecently" boolean="true"/>
 		<Input name="conditionKilledAffectedByDoT" boolean="true"/>
+		<Input name="spellEchoCount" string="0"/>
 		<Input name="baseShockEffect" number="10"/>
-		<Input name="waveOfConvictionExposureType" number="0"/>
 		<Input name="conditionUsedMovementSkillRecently" boolean="true"/>
+		<Input name="waveOfConvictionExposureType" number="0"/>
 		<Input name="conditionEnemyShocked" boolean="true"/>
 		<Input name="conditionCritRecently" boolean="true"/>
 	</Config>
