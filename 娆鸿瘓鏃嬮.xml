@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
-	<Build level="90" targetVersion="3_0" banditNormal="None" bandit="Alira" banditMerciless="None" className="暗影刺客" ascendClassName="Trickster" mainSocketGroup="1" viewMode="SKILLS" banditCruel="None">
+	<Build level="90" targetVersion="3_0" banditNormal="None" bandit="Alira" banditMerciless="None" className="暗影刺客" ascendClassName="Trickster" mainSocketGroup="1" viewMode="TREE" banditCruel="None">
 		<PlayerStat stat="AverageDamage" value="107074.79044434"/>
 		<PlayerStat stat="Speed" value="8.976"/>
 		<PlayerStat stat="Speed" value="8.976"/>
@@ -68,7 +68,7 @@
 	<Tree activeSpec="2">
 		<Spec treeVersion="3_8">
 			<URL>
-				https://poe.game.qq.com/passive-skill-tree/AAAABAYCAAdjCPT5pN1IkydsCN2MvOrQ0Ba_6-7y5su9waB35fDVYqxsC8BmbIwV_bJweBlVhd_z9vyJ0yaVVcYBCWobIvQsnCpTUEITBPAftMVauY2B7-uhL9YH8uHgErjZH0EEs3yD5FVVSzz-jDZMs9AfogCNGa0zSVGRRzBbytOFMtvnlPFw1Jrgj_q-ioPbRZ1_xpf0bRmXlYKbb1cEBxGW6-QgbqXLPV-WeF8qMtERLf6zNj0qC1AwCSBwUmHiH0ydqkcGtAyLDvGKakOYU1NSpzR-rxvIXfIOSEVHUlM7DTy9Y0MZ1xEP2V8sRoCz
+				https://poe.game.qq.com/passive-skill-tree/AAAABAYCAAdjCPTdSNDQgLNsCN2MvOqycKIALEbZX2yMwaBVhfDVYqxsC2NDy70V_Ty9eBnAZt_z9vyhLyaVVcYBCSpTIvQsnEVHUEITBPAfDkhauV3y7-uJ0xvI8uHgErjZH0EEs3yDfq9VSzz-jDZMs6c0Fr8wW60zSVGRR40ZytOFMmpD8YqLDrQMj_q-ip2qRZ1_xpf0BAeXlYKbb1eD22Hi6-QJIFAwKguWeF8qNj0RLf6zMtE9X6XLIG5wUhGWH0xtGUcGmuBw1JTx2-eYU1NS0B_kVdYH-aS0xVJTOw1qG3fljYEZ1xEP8ubr7pMn
 			</URL>
 			<Sockets>
 				<Socket nodeId="7960" itemId="0"/>
@@ -80,23 +80,23 @@
 				<Socket nodeId="21984" itemId="0"/>
 				<Socket nodeId="46882" itemId="0"/>
 				<Socket nodeId="61419" itemId="12"/>
-				<Socket nodeId="41263" itemId="3"/>
+				<Socket nodeId="54127" itemId="0"/>
 				<Socket nodeId="31683" itemId="0"/>
 				<Socket nodeId="55190" itemId="0"/>
 				<Socket nodeId="48768" itemId="0"/>
-				<Socket nodeId="61834" itemId="12"/>
-				<Socket nodeId="2491" itemId="0"/>
-				<Socket nodeId="54127" itemId="0"/>
+				<Socket nodeId="26725" itemId="0"/>
+				<Socket nodeId="33989" itemId="0"/>
+				<Socket nodeId="6230" itemId="0"/>
 				<Socket nodeId="60735" itemId="0"/>
 				<Socket nodeId="33631" itemId="0"/>
-				<Socket nodeId="6230" itemId="0"/>
-				<Socket nodeId="33989" itemId="0"/>
-				<Socket nodeId="26725" itemId="0"/>
+				<Socket nodeId="41263" itemId="3"/>
+				<Socket nodeId="61834" itemId="12"/>
+				<Socket nodeId="2491" itemId="0"/>
 			</Sockets>
 		</Spec>
 		<Spec treeVersion="3_9">
 			<URL>
-				https://poe.game.qq.com/passive-skill-tree/AAAABAYCAAdjPP6TJwj03UgsRvLme9cng6EvbAjdjLzqakOiAI2By70nL8GgPV_w1aKjbAsWv2yMFf20xXgZwGbf8_b8PL0mlVXGAQkPxCL0LJww-FBCEwTwH9o7WrlqG-_ridN-r_Lh4BLQH1NSBLN8g40ZVUvWB4w2TLOdqtDQ6-StM0lR8YowWwQHhTJG_gzylS5FnY_6Gjjb5wcef8aX9BGWl5WWdG9XbRmD27jKIG462KXLlnhfKjpYES3-szLRkFVQMAkgcFJh4oKbM6NHBqc0iw6-ipFHmuA7fGND5FWU8WKsRUdSUzsNd-VTNbaGGdcRD9lf6-6Asw==
+				https://poe.game.qq.com/passive-skill-tree/AAAABAYCAAdj2juAswj03Ujr7tlfbIwng4nTbAjdjLzq0NAWv7aGd-XBoCaV8NWio2wLPV_LvRX9RUd4GcBm3_P2_GKse9dVxgEJD8Qi9CycMPhQQhME8B-U8Vq55FXv6zy9Y0Py4eASO3ya4ASzfIORR1VL1geMNkyzvoqLDqc0rTNJUfGKjRkHHoUyRv4M8pUul_SP-oKbYeJFnX_GnaptGRo4lnRvVwQHCSC4ylAwOtiD25Z4Xyo6WBEt_rMy0ZBVpctwUhGWl5Uzo0cG2-fr5DBbakONgVNS0B9-r2obPP6iALTFUlM7DaEvUzUnLxnXEQ_y5ixGkyc=
 			</URL>
 			<Sockets>
 				<Socket nodeId="7960" itemId="0"/>
@@ -104,22 +104,22 @@
 				<Socket nodeId="28475" itemId="0"/>
 				<Socket nodeId="26196" itemId="0"/>
 				<Socket nodeId="36634" itemId="0"/>
-				<Socket nodeId="34483" itemId="0"/>
+				<Socket nodeId="33989" itemId="0"/>
 				<Socket nodeId="21984" itemId="0"/>
 				<Socket nodeId="46882" itemId="0"/>
 				<Socket nodeId="61419" itemId="21"/>
 				<Socket nodeId="54127" itemId="0"/>
-				<Socket nodeId="31683" itemId="0"/>
+				<Socket nodeId="6230" itemId="0"/>
 				<Socket nodeId="55190" itemId="0"/>
 				<Socket nodeId="48768" itemId="0"/>
-				<Socket nodeId="26725" itemId="0"/>
-				<Socket nodeId="33989" itemId="0"/>
-				<Socket nodeId="6230" itemId="0"/>
+				<Socket nodeId="2491" itemId="0"/>
+				<Socket nodeId="61834" itemId="3"/>
+				<Socket nodeId="41263" itemId="23"/>
 				<Socket nodeId="60735" itemId="0"/>
 				<Socket nodeId="33631" itemId="0"/>
-				<Socket nodeId="41263" itemId="23"/>
-				<Socket nodeId="61834" itemId="3"/>
-				<Socket nodeId="2491" itemId="0"/>
+				<Socket nodeId="31683" itemId="0"/>
+				<Socket nodeId="34483" itemId="0"/>
+				<Socket nodeId="26725" itemId="0"/>
 			</Sockets>
 		</Spec>
 	</Tree>
@@ -183,7 +183,7 @@
 		<Section collapsed="false" id="MiscDefences"/>
 	</Calcs>
 	<AboutTab/>
-	<TreeView searchStr="" zoomY="141.43793190347" showHeatMap="false" zoomLevel="4" showStatDifferences="true" zoomX="-361.32622385211"/>
+	<TreeView searchStr="" zoomY="55.455971229262" showHeatMap="false" zoomLevel="2" showStatDifferences="true" zoomX="-508.96265545285"/>
 	<Items activeItemSet="1" useSecondWeaponSet="false">
 		<Item id="1">
 			稀 有 度: 传奇
@@ -216,11 +216,11 @@ Selected Variant: 4
 {variant:1,2,3}{range:0.5}该装备的闪避与能量护盾提高 (110-150)%
 {variant:4}{range:0.866}该装备的闪避与能量护盾提高 (300-400)%
 {variant:1,2}{range:0.5}+(90-110) 最大魔力
-{variant:4,3}{range:0.854}+(100-150) 最大魔力
+{variant:3,4}{range:0.854}+(100-150) 最大魔力
 {variant:1,2}{range:0.5}魔力回复速度提高 (40-50)%
 {variant:1}被击中时, 10% 的伤害优先从魔力扣除
-{variant:4,3}10% 的伤害优先从魔力扣除
-{variant:4,3}每秒 1% 魔力回复
+{variant:3,4}10% 的伤害优先从魔力扣除
+{variant:3,4}每秒 1% 魔力回复
 心灵升华
 			<ModRange range="0.5" id="1"/>
 			<ModRange range="0.866" id="2"/>
@@ -933,13 +933,13 @@ Selected Alt Variant: 15
 		<Input name="critChanceLucky" boolean="true"/>
 		<Input name="ghostShroudCount" number="0"/>
 		<Input name="bloodSandStance" string="BLOOD"/>
-		<Input name="infusedChannellingInfusion" boolean="true"/>
-		<Input name="usePowerCharges" boolean="true"/>
 		<Input name="buffOnslaught" boolean="true"/>
+		<Input name="usePowerCharges" boolean="true"/>
+		<Input name="useFrenzyCharges" boolean="true"/>
 		<Input name="baseShockEffect" number="10"/>
 		<Input name="conditionUsedMovementSkillRecently" boolean="true"/>
 		<Input name="enemyIsBoss" string="SHAPER"/>
 		<Input name="conditionEnemyShocked" boolean="true"/>
-		<Input name="useFrenzyCharges" boolean="true"/>
+		<Input name="infusedChannellingInfusion" boolean="true"/>
 	</Config>
 </PathOfBuilding>
