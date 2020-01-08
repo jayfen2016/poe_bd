@@ -19,8 +19,8 @@
 		<PlayerStat stat="ReqStr" value="155"/>
 		<PlayerStat stat="Dex" value="44"/>
 		<PlayerStat stat="ReqDex" value="98"/>
-		<PlayerStat stat="Int" value="313"/>
-		<PlayerStat stat="ReqInt" value="180"/>
+		<PlayerStat stat="Int" value="323"/>
+		<PlayerStat stat="ReqInt" value="188"/>
 		<PlayerStat stat="Devotion" value="0"/>
 		<PlayerStat stat="Life" value="1504"/>
 		<PlayerStat stat="Spec:LifeInc" value="25"/>
@@ -28,27 +28,27 @@
 		<PlayerStat stat="LifeUnreservedPercent" value="4.9867021276596"/>
 		<PlayerStat stat="LifeRegen" value="0"/>
 		<PlayerStat stat="LifeLeechGainRate" value="0"/>
-		<PlayerStat stat="Mana" value="2969"/>
+		<PlayerStat stat="Mana" value="2982"/>
 		<PlayerStat stat="Spec:ManaInc" value="151"/>
-		<PlayerStat stat="ManaUnreserved" value="266"/>
-		<PlayerStat stat="ManaUnreservedPercent" value="8.9592455372179"/>
-		<PlayerStat stat="ManaRegen" value="112"/>
+		<PlayerStat stat="ManaUnreserved" value="268"/>
+		<PlayerStat stat="ManaUnreservedPercent" value="8.9872568745808"/>
+		<PlayerStat stat="ManaRegen" value="112.5"/>
 		<PlayerStat stat="ManaLeechGainRate" value="0"/>
-		<PlayerStat stat="EnergyShield" value="7720"/>
-		<PlayerStat stat="Spec:EnergyShieldInc" value="234"/>
-		<PlayerStat stat="EnergyShieldRegen" value="270.2"/>
+		<PlayerStat stat="EnergyShield" value="7676"/>
+		<PlayerStat stat="Spec:EnergyShieldInc" value="229"/>
+		<PlayerStat stat="EnergyShieldRegen" value="230.28"/>
 		<PlayerStat stat="EnergyShieldLeechGainRate" value="0"/>
 		<PlayerStat stat="Evasion" value="352"/>
 		<PlayerStat stat="Spec:EvasionInc" value="0"/>
 		<PlayerStat stat="MeleeEvadeChance" value="0"/>
 		<PlayerStat stat="MeleeEvadeChance" value="0"/>
 		<PlayerStat stat="ProjectileEvadeChance" value="0"/>
-		<PlayerStat stat="Armour" value="53064"/>
-		<PlayerStat stat="Spec:ArmourInc" value="214"/>
-		<PlayerStat stat="PhysicalDamageReduction" value="35"/>
+		<PlayerStat stat="Armour" value="35809"/>
+		<PlayerStat stat="Spec:ArmourInc" value="200"/>
+		<PlayerStat stat="PhysicalDamageReduction" value="26"/>
 		<PlayerStat stat="EffectiveMovementSpeedMod" value="1.39"/>
-		<PlayerStat stat="BlockChance" value="75"/>
-		<PlayerStat stat="SpellBlockChance" value="75"/>
+		<PlayerStat stat="BlockChance" value="74"/>
+		<PlayerStat stat="SpellBlockChance" value="74"/>
 		<PlayerStat stat="AttackDodgeChance" value="0"/>
 		<PlayerStat stat="SpellDodgeChance" value="0"/>
 		<PlayerStat stat="FireResist" value="64"/>
@@ -66,11 +66,11 @@
 		<PlayerStat stat="EnduranceCharges" value="0"/>
 		<PlayerStat stat="EnduranceChargesMax" value="3"/>
 		<PlayerStat stat="ActiveMinionLimit" value="20"/>
-		<MinionStat stat="AverageDamage" value="36837.2959625"/>
+		<MinionStat stat="AverageDamage" value="37738.85335"/>
 		<MinionStat stat="Speed" value="3"/>
-		<MinionStat stat="TotalDPS" value="110511.8878875"/>
+		<MinionStat stat="TotalDPS" value="113216.56005"/>
 		<MinionStat stat="TotalDot" value="0"/>
-		<MinionStat stat="WithPoisonDPS" value="142682.2078875"/>
+		<MinionStat stat="WithPoisonDPS" value="146174.80005"/>
 		<MinionStat stat="Life" value="10869"/>
 		<MinionStat stat="LifeRegen" value="217.38"/>
 		<MinionStat stat="LifeLeechGainRate" value="0"/>
@@ -79,7 +79,7 @@
 	<Tree activeSpec="2">
 		<Spec treeVersion="3_6">
 			<URL>
-				https://poe.game.qq.com/passive-skill-tree/AAAABAUDABzcEFiXLR0USp8I9E8EUfuSK48aVeCvm7zqakPvfO-8HwLNFvDV6rqA4KcIvKrBxacrUWDAZkPIHxgRUDbFVcZJT-kCWFosnLiTGnJFR3y7KlNXyVZI7-uhL_NfGyXjVmq7PQ9rrD1f-d0nqaUYYpVMs7Jw12rzBvfBaPKJvLQMytMVUOwYhTLYJHxLj_o1uVIptzGoNZf0OliXlZZ0BjkEB4PbSVFncaDmDXwQUV8qms-PRv6zMtErmi_WfmybMPrScU2MdmaebRnr5H_GvopDYzwFUrJLrmob0B-ePPuq2VtSU9t6KPo3R7doe9fQ0Ovukyc=
+				https://poe.game.qq.com/passive-skill-tree/AAAABAUDABzcEFiXLR0USp8I9E8EUfuSK48aVeCvm7zqakMRUO-8aPLvfPDV6rqA4NDQe9fBxacrUWDAZjdHHxhWSDbFVcZSU1haLJy4k9lb-6oqU9AfV8lLru_roS_zXxslUrLjVj0Pa6w9X_ndJ6mlGGKVTLNDY9dq8wa-ih8Ciby0DMrTFVDsGH_G2CS3MY_6NblSKW0ZqDWX9Gael5WWdAY5fEuMdnFNZ3GbMA18fmxfKi_WMtH-s5rPK5qg5o9GEFH60klRg9sEBzpY6-SFMkPI98E8BWq7SU9qG7yqnjx8u0VHGnLbeij66QK3aM0WpwiycOvukyc=
 			</URL>
 			<Sockets>
 				<Socket nodeId="7960" itemId="0"/>
@@ -91,23 +91,23 @@
 				<Socket nodeId="21984" itemId="6"/>
 				<Socket nodeId="46882" itemId="0"/>
 				<Socket nodeId="61419" itemId="0"/>
-				<Socket nodeId="54127" itemId="0"/>
+				<Socket nodeId="41263" itemId="0"/>
 				<Socket nodeId="6230" itemId="0"/>
 				<Socket nodeId="55190" itemId="0"/>
 				<Socket nodeId="48768" itemId="0"/>
-				<Socket nodeId="2491" itemId="0"/>
-				<Socket nodeId="61834" itemId="0"/>
-				<Socket nodeId="41263" itemId="0"/>
+				<Socket nodeId="26725" itemId="0"/>
+				<Socket nodeId="34483" itemId="0"/>
+				<Socket nodeId="31683" itemId="0"/>
 				<Socket nodeId="60735" itemId="0"/>
 				<Socket nodeId="33631" itemId="0"/>
-				<Socket nodeId="31683" itemId="0"/>
-				<Socket nodeId="34483" itemId="0"/>
-				<Socket nodeId="26725" itemId="0"/>
+				<Socket nodeId="54127" itemId="0"/>
+				<Socket nodeId="2491" itemId="0"/>
+				<Socket nodeId="61834" itemId="0"/>
 			</Sockets>
 		</Spec>
 		<Spec treeVersion="3_9">
 			<URL>
-				https://poe.game.qq.com/passive-skill-tree/AAAABAUDABzcly1Z848aN4Nnceq6gOCnKzdmwGY2xWZUuJOtSO_rHU9XyUlP12q9gh8ChTJG_tgkZp4EB4tlKpgNfCSaXyoy0ZhNj0YRjvrS98Fquyj6wfPr7q70Q8gdFEqfTwSSK-DdQWm8qhBRnEqnCBcvkDOm64CklG8aHevkxori9wFv8B-VIFWpi3o0CiymqqkRUHLFbRli9OyKpRiMdkyzvkke2nGyCSxo8pswogAEs4hAQ2M6xjW5ibyoNZe0oOZqAXFNTLkv2rcxXGtyD6yqms9-bKasL9ZV1sNtZOfQH4RIahtr2548RUcaci0f
+				https://poe.game.qq.com/passive-skill-tree/AAAABAUDABzcrvSXLR0USp8zh08EkiuPGpRvvKoQUXGynEotH0PIrUhnceq6gOAXLwFva9uQMzdmwGam64Ck4vc2xRodgsfQH2ZUZOe4kx2-A-7wH5Ugw21Vqe_rVdYv1qasqqmaz3LFHU9XyWL0SU-lGIx2TLPGilxrvYIfAom8tzEv2oUyRv6IQNgkTLkEszW5agGg5qg1Zp6XtDrGQ2NxTQQHogCbMItlKpgNfCSaXypo8gkscg8y0ZhNj0Ye2hGO-tK-SeyKbRkRUOvkWfM0CvfBi3pqu4RIahusqp48RUcaciymKPrg3UFpwfOnCKcr6-43gw==
 			</URL>
 			<Sockets>
 				<Socket nodeId="7960" itemId="25"/>
@@ -115,22 +115,22 @@
 				<Socket nodeId="28475" itemId="0"/>
 				<Socket nodeId="26196" itemId="1"/>
 				<Socket nodeId="36634" itemId="25"/>
-				<Socket nodeId="33989" itemId="0"/>
+				<Socket nodeId="34483" itemId="0"/>
 				<Socket nodeId="21984" itemId="6"/>
 				<Socket nodeId="46882" itemId="0"/>
 				<Socket nodeId="61419" itemId="1"/>
 				<Socket nodeId="41263" itemId="32"/>
-				<Socket nodeId="6230" itemId="0"/>
+				<Socket nodeId="31683" itemId="0"/>
 				<Socket nodeId="55190" itemId="0"/>
 				<Socket nodeId="48768" itemId="0"/>
-				<Socket nodeId="26725" itemId="0"/>
-				<Socket nodeId="34483" itemId="0"/>
-				<Socket nodeId="31683" itemId="0"/>
+				<Socket nodeId="61834" itemId="0"/>
+				<Socket nodeId="2491" itemId="0"/>
+				<Socket nodeId="54127" itemId="0"/>
 				<Socket nodeId="60735" itemId="0"/>
 				<Socket nodeId="33631" itemId="0"/>
-				<Socket nodeId="54127" itemId="0"/>
-				<Socket nodeId="2491" itemId="0"/>
-				<Socket nodeId="61834" itemId="0"/>
+				<Socket nodeId="6230" itemId="0"/>
+				<Socket nodeId="33989" itemId="0"/>
+				<Socket nodeId="26725" itemId="0"/>
 			</Sockets>
 		</Spec>
 	</Tree>
@@ -139,37 +139,46 @@
 	</Notes>
 	<Skills defaultGemQuality="nil" defaultGemLevel="nil" showSupportGemTypes="ALL" sortGemsByDPS="true">
 		<Skill mainActiveSkillCalcs="1" label="" enabled="true" slot="Body Armour" mainActiveSkill="1">
-			<Gem enableGlobal2="nil" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemHatred" skillId="Hatred" enableGlobal1="true" enabled="true" nameSpec="憎恨"/>
-			<Gem enableGlobal2="nil" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemWarBanner" skillId="BloodstainedBanner" enableGlobal1="true" enabled="true" nameSpec="战旗"/>
-			<Gem enableGlobal2="nil" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemPrecision" skillId="AccuracyAndCritsAura" enableGlobal1="true" enabled="true" nameSpec="精准"/>
-			<Gem enableGlobal2="nil" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemFleshAndStone" skillId="BloodSandArmour" enableGlobal1="true" enabled="true" nameSpec="血肉与岩石"/>
-			<Gem enableGlobal2="nil" quality="0" level="20" gemId="Metadata/Items/Gems/SupportGemMaim" skillId="SupportMaim" enableGlobal1="true" enabled="true" nameSpec="瘫痪(辅)"/>
-			<Gem enableGlobal2="nil" quality="0" level="20" gemId="Metadata/Items/Gems/SupportGemGenerosity" skillId="SupportGenerosity" enableGlobal1="true" enabled="true" nameSpec="和善(辅)"/>
+			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemHatred" skillId="Hatred" enableGlobal1="true" enabled="true" nameSpec="憎恨"/>
+			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemWarBanner" skillId="BloodstainedBanner" enableGlobal1="true" enabled="true" nameSpec="战旗"/>
+			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemPrecision" skillId="AccuracyAndCritsAura" enableGlobal1="true" enabled="true" nameSpec="精准"/>
+			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemFleshAndStone" skillId="BloodSandArmour" enableGlobal1="true" enabled="true" nameSpec="血肉与岩石"/>
+			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SupportGemMaim" skillId="SupportMaim" enableGlobal1="true" enabled="true" nameSpec="瘫痪(辅)"/>
+			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SupportGemGenerosity" skillId="SupportGenerosity" enableGlobal1="true" enabled="true" nameSpec="和善(辅)"/>
 		</Skill>
 		<Skill mainActiveSkillCalcs="1" label="" enabled="true" slot="Weapon 2" mainActiveSkill="1">
 			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SupportGemBloodMagic" skillId="SupportBloodMagic" enableGlobal1="true" enabled="true" nameSpec="血魔法(辅)"/>
 			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemDetermination" skillId="Determination" enableGlobal1="true" enabled="true" nameSpec="坚定"/>
 		</Skill>
-		<Skill mainActiveSkillCalcs="1" label="" enabled="true" slot="Helmet" mainActiveSkill="1">
+		<Skill mainActiveSkillCalcs="1" label="" enabled="true" slot="Boots" mainActiveSkill="1">
 			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemTempestShield" skillId="TempestShield" enableGlobal1="true" enabled="true" nameSpec="暴风之盾" skillMinion="SummonedPhantasm"/>
 			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SupportGemIncreasedDuration" skillId="SupportIncreasedDuration" enableGlobal1="true" enabled="true" nameSpec="持续时间延长(辅)"/>
 			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SupportGemEfficacy" skillId="SupportEfficacy" enableGlobal1="true" enabled="true" nameSpec="效能(辅)"/>
 		</Skill>
 		<Skill mainActiveSkillCalcs="1" label="" enabled="true" slot="Weapon 1" mainActiveSkill="1">
-			<Gem enableGlobal2="nil" skillMinionSkillCalcs="1" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemMinionDamage" skillId="SupportMinionDamage" skillMinionSkill="1" enableGlobal1="true" enabled="true" nameSpec="召唤生物伤害(辅)" skillMinion="SummonedCarrionGolem"/>
-			<Gem enableGlobal2="nil" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemMeleePhysicalDamage" skillId="SupportMeleePhysicalDamage" enableGlobal1="true" enabled="true" nameSpec="近战物理伤害(辅)"/>
-			<Gem enableGlobal2="nil" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemMultistrike" skillId="SupportMultistrike" enableGlobal1="true" enabled="true" nameSpec="多重打击(辅)"/>
+			<Gem enableGlobal2="false" skillMinionSkillCalcs="1" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemMinionDamage" skillId="SupportMinionDamage" skillMinionSkill="1" enableGlobal1="true" enabled="true" nameSpec="召唤生物伤害(辅)" skillMinion="SummonedCarrionGolem"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemMeleePhysicalDamage" skillId="SupportMeleePhysicalDamage" enableGlobal1="true" enabled="true" nameSpec="近战物理伤害(辅)"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemMultistrike" skillId="SupportMultistrike" enableGlobal1="true" enabled="true" nameSpec="多重打击(辅)"/>
 		</Skill>
 		<Skill source="Item:33:阿拉卡力之牙, 兽血短匕" mainActiveSkillCalcs="1" label="" enabled="true" slot="Weapon 1" mainActiveSkill="1">
-			<Gem enableGlobal2="nil" skillMinionSkillCalcs="1" skillMinionCalcs="SpiderMinion" quality="0" level="1" skillId="TriggeredSummonSpider" skillMinionSkill="1" enableGlobal1="true" enabled="true" nameSpec="" skillMinion="SpiderMinion"/>
-			<Gem enableGlobal2="nil" skillMinionSkillCalcs="1" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemMinionDamage" skillId="SupportMinionDamage" skillMinionSkill="1" enableGlobal1="true" enabled="true" nameSpec="召唤生物伤害(辅)" skillMinion="SummonedCarrionGolem"/>
-			<Gem enableGlobal2="nil" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemMeleePhysicalDamage" skillId="SupportMeleePhysicalDamage" enableGlobal1="true" enabled="true" nameSpec="近战物理伤害(辅)"/>
-			<Gem enableGlobal2="nil" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemMultistrike" skillId="SupportMultistrike" enableGlobal1="true" enabled="true" nameSpec="多重打击(辅)"/>
+			<Gem enableGlobal2="false" skillMinionSkillCalcs="1" skillMinionCalcs="SpiderMinion" quality="0" level="1" skillId="TriggeredSummonSpider" skillMinionSkill="1" enableGlobal1="true" enabled="true" nameSpec="召唤毒蛛" skillMinion="SpiderMinion"/>
+			<Gem enableGlobal2="false" skillMinionSkillCalcs="1" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemMinionDamage" skillId="SupportMinionDamage" skillMinionSkill="1" enableGlobal1="true" enabled="true" nameSpec="召唤生物伤害(辅)" skillMinion="SummonedCarrionGolem"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemMeleePhysicalDamage" skillId="SupportMeleePhysicalDamage" enableGlobal1="true" enabled="true" nameSpec="近战物理伤害(辅)"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemMultistrike" skillId="SupportMultistrike" enableGlobal1="true" enabled="true" nameSpec="多重打击(辅)"/>
+		</Skill>
+		<Skill mainActiveSkillCalcs="1" label="" enabled="true" slot="Gloves" mainActiveSkill="1">
+			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemFleshOffering" skillId="FleshOffering" enableGlobal1="true" enabled="true" nameSpec="血肉奉献"/>
+			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemCyclone" skillId="Cyclone" skillPart="1" enableGlobal1="true" enabled="true" nameSpec="旋风斩" skillMinion="SummonedPhantasm"/>
+			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SupportGemCastWhileChannelling" skillId="SupportCastWhileChannelling" enableGlobal1="true" enabled="true" nameSpec="吟唱时施放(辅)"/>
+			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemDesecrate" skillId="Desecrate" skillPart="1" enableGlobal1="true" enabled="true" nameSpec="亵渎" skillMinion="SummonedChaosGolem"/>
+			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SupportGemSpellCascade" skillId="SupportSpellCascade" enableGlobal1="true" enabled="true" nameSpec="多重范围施法(辅)"/>
+		</Skill>
+		<Skill mainActiveSkillCalcs="1" label="" enabled="true" mainActiveSkill="1">
+			<Gem enableGlobal2="false" quality="0" level="28" gemId="Metadata/Items/Gems/SkillGemBoneOffering" skillId="BoneOffering" enableGlobal1="true" enabled="true" nameSpec="骸骨奉献"/>
 		</Skill>
 		<Skill mainActiveSkillCalcs="nil" label="" enabled="true" mainActiveSkill="nil">
-			<Gem enableGlobal2="nil" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemFleshOffering" skillId="FleshOffering" enableGlobal1="true" enabled="true" nameSpec="血肉奉献"/>
+			<Gem enableGlobal2="nil" skillMinionSkillCalcs="1" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemSummonCarrionGolem" skillId="SummonBoneGolem" skillMinionSkill="1" enableGlobal1="true" enabled="true" nameSpec="召唤腐化魔像" skillMinion="SummonedCarrionGolem"/>
 		</Skill>
-		<Skill mainActiveSkillCalcs="nil" label="" enabled="true" mainActiveSkill="nil"/>
 	</Skills>
 	<Calcs>
 		<Input name="showMinion" boolean="true"/>
@@ -200,7 +209,7 @@
 		<Section collapsed="false" id="MiscDefences"/>
 	</Calcs>
 	<AboutTab/>
-	<TreeView searchStr="" zoomY="314.92814020347" showHeatMap="false" zoomLevel="4" showStatDifferences="true" zoomX="92.742982781783"/>
+	<TreeView searchStr="贪婪" zoomY="295.96739300887" showHeatMap="false" zoomLevel="4" showStatDifferences="true" zoomX="132.05127336725"/>
 	<Items activeItemSet="1" useSecondWeaponSet="false">
 		<Item id="3">
 			稀 有 度: 传奇
@@ -867,7 +876,7 @@ New Item
 		<Slot name="Weapon 1" itemId="33"/>
 		<Slot name="Flask 3" itemId="18"/>
 		<Slot name="Amulet" itemId="27"/>
-		<Slot active="true" name="Flask 1" itemId="13"/>
+		<Slot name="Flask 1" itemId="13"/>
 		<Slot name="Flask 5" itemId="20"/>
 		<Slot name="Belt Abyssal Socket 1" itemId="1"/>
 		<Slot name="Flask 2" itemId="17"/>
@@ -887,7 +896,7 @@ New Item
 			<Slot name="Flask 3" itemId="18"/>
 			<Slot name="Body Armour Abyssal Socket 2" itemId="0"/>
 			<Slot name="Amulet" itemId="27"/>
-			<Slot active="true" name="Flask 1" itemId="13"/>
+			<Slot name="Flask 1" itemId="13"/>
 			<Slot name="Weapon 2Swap Abyssal Socket 1" itemId="0"/>
 			<Slot name="Flask 5" itemId="20"/>
 			<Slot name="Belt Abyssal Socket 1" itemId="1"/>
@@ -924,16 +933,16 @@ New Item
 		<Input name="enemyIsBoss" string="SHAPER"/>
 		<Input name="conditionLowLife" boolean="true"/>
 		<Input name="multiplierMineDetonatedRecently" number="10"/>
-		<Input name="baseShockEffect" number="9"/>
+		<Input name="waveOfConvictionExposureType" string="Cold"/>
 		<Input name="conditionBlockedRecently" boolean="true"/>
 		<Input name="multiplierPoisonOnEnemy" number="9"/>
 		<Input name="conditionCastSpellRecently" boolean="true"/>
-		<Input name="raiseSpidersSpiderCount" number="20"/>
-		<Input name="enemyPhysicalHit" number="10000"/>
-		<Input name="buffOnslaught" boolean="true"/>
-		<Input name="conditionEnemyIntimidated" boolean="true"/>
 		<Input name="multiplierNearbyAlly" number="20"/>
-		<Input name="waveOfConvictionExposureType" string="Cold"/>
+		<Input name="conditionEnemyIntimidated" boolean="true"/>
 		<Input name="infusedChannellingInfusion" boolean="true"/>
+		<Input name="raiseSpidersSpiderCount" number="20"/>
+		<Input name="baseShockEffect" number="9"/>
+		<Input name="buffOnslaught" boolean="true"/>
+		<Input name="enemyPhysicalHit" number="10000"/>
 	</Config>
 </PathOfBuilding>
