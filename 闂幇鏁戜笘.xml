@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
 	<Build level="90" targetVersion="3_0" banditNormal="None" bandit="Alira" banditMerciless="None" className="决斗者" ascendClassName="Slayer" mainSocketGroup="1" viewMode="ITEMS" banditCruel="None">
-		<PlayerStat stat="AverageDamage" value="235177.07169816"/>
+		<PlayerStat stat="AverageDamage" value="240323.71580324"/>
 		<PlayerStat stat="Speed" value="7.6897"/>
 		<PlayerStat stat="Speed" value="7.6897"/>
 		<PlayerStat stat="PreEffectiveCritChance" value="64.12944"/>
 		<PlayerStat stat="CritChance" value="85.826033814071"/>
-		<PlayerStat stat="CritMultiplier" value="5.7"/>
+		<PlayerStat stat="CritMultiplier" value="5.89"/>
 		<PlayerStat stat="HitChance" value="98.5"/>
-		<PlayerStat stat="TotalDPS" value="1808441.1282373"/>
+		<PlayerStat stat="TotalDPS" value="1848017.2774122"/>
 		<PlayerStat stat="TotalDot" value="0"/>
 		<PlayerStat stat="BleedDPS" value="23360.772888326"/>
-		<PlayerStat stat="WithPoisonDPS" value="1808441.1282373"/>
+		<PlayerStat stat="WithPoisonDPS" value="1848017.2774122"/>
 		<PlayerStat stat="Cooldown" value="2"/>
 		<PlayerStat stat="ManaCost" value="41"/>
-		<PlayerStat stat="Str" value="213"/>
+		<PlayerStat stat="Str" value="173"/>
 		<PlayerStat stat="ReqStr" value="180"/>
 		<PlayerStat stat="Dex" value="177"/>
 		<PlayerStat stat="ReqDex" value="155"/>
 		<PlayerStat stat="Int" value="38"/>
 		<PlayerStat stat="ReqInt" value="76"/>
 		<PlayerStat stat="Devotion" value="0"/>
-		<PlayerStat stat="Life" value="5192"/>
+		<PlayerStat stat="Life" value="5133"/>
 		<PlayerStat stat="Spec:LifeInc" value="163"/>
-		<PlayerStat stat="LifeUnreserved" value="5192"/>
+		<PlayerStat stat="LifeUnreserved" value="5133"/>
 		<PlayerStat stat="LifeUnreservedPercent" value="100"/>
 		<PlayerStat stat="LifeRegen" value="0"/>
-		<PlayerStat stat="LifeLeechGainRate" value="2388.32"/>
+		<PlayerStat stat="LifeLeechGainRate" value="2361.18"/>
 		<PlayerStat stat="Mana" value="718"/>
 		<PlayerStat stat="Spec:ManaInc" value="0"/>
 		<PlayerStat stat="ManaUnreserved" value="187"/>
 		<PlayerStat stat="ManaUnreservedPercent" value="26.044568245125"/>
 		<PlayerStat stat="ManaRegen" value="17.6"/>
 		<PlayerStat stat="ManaLeechGainRate" value="143.6"/>
-		<PlayerStat stat="TotalDegen" value="191.4568"/>
-		<PlayerStat stat="NetLifeRegen" value="-191.4568"/>
+		<PlayerStat stat="TotalDegen" value="189.3564"/>
+		<PlayerStat stat="NetLifeRegen" value="-189.3564"/>
 		<PlayerStat stat="EnergyShield" value="186"/>
 		<PlayerStat stat="Spec:EnergyShieldInc" value="0"/>
 		<PlayerStat stat="EnergyShieldRegen" value="0"/>
@@ -71,7 +71,7 @@
 	<Tree activeSpec="1">
 		<Spec treeVersion="3_9">
 			<URL>
-				https://poe.game.qq.com/passive-skill-tree/AAAABAQBAFuvFE1Z82a2y_WNfdRSWp_uemhl02-jijfURakGIPzFXzm95nSgmy1HfoTv_95yqU2SwQdOKkMxmG8j08MzGlXpRr02PT7h74rw9WGygFoa51TcvZJ9Ps-lNfoY7g4bqryfUUdlTQ2NQ6N07SP24592rA48LTAUcb6n2sEnn2NwsKuCBzbo5w-GtIE6xIJnoBo4h3b4689-kw8uU5pqYEER1dyM_EuGYGEhKjgxsI9gkFUYkYjt5c9jF_Ja137tPzB83CMX3Ez_890nL1eXJP2Fp6yqOlLyQQairY3ZfPcylwgFLRDw79HqGEp9eu8=
+				https://poe.game.qq.com/passive-skill-tree/AAAABAQBAFuvFE1Z88v1jX3UUnrv7nrjn9NvSn031OoY2sEGIHSgXzkFLaOKmy33Mtl8rY31YU2SwQdOKkMxmG8j0zpSGlXpRr02rKrh75J9PT6ygFoa51TcvfzFPs-lNb3m7g4nL7yfUUfz3WhlF9x07SP23CN2rA48LTAUcb6nWp8wfO0_R37XfjboYxeGtIE6xIKHdojtGjj462egGJEuU5pqz34R1Y9g_EsqOIZgYSExsNyMkFWTD2BB5c-CB_Ja5w-wq2NwhO8nn0z_cqlDo1eXJP2Fp_oYZrbyQQaiwzP_3orwlwgbqhDw79ENjUWpZU0=
 			</URL>
 			<Sockets>
 				<Socket nodeId="7960" itemId="0"/>
@@ -79,22 +79,22 @@
 				<Socket nodeId="28475" itemId="0"/>
 				<Socket nodeId="26196" itemId="0"/>
 				<Socket nodeId="36634" itemId="0"/>
-				<Socket nodeId="33989" itemId="0"/>
+				<Socket nodeId="34483" itemId="0"/>
 				<Socket nodeId="21984" itemId="0"/>
 				<Socket nodeId="46882" itemId="0"/>
 				<Socket nodeId="61419" itemId="0"/>
 				<Socket nodeId="41263" itemId="0"/>
-				<Socket nodeId="6230" itemId="0"/>
+				<Socket nodeId="31683" itemId="0"/>
 				<Socket nodeId="55190" itemId="0"/>
 				<Socket nodeId="48768" itemId="0"/>
-				<Socket nodeId="26725" itemId="2"/>
-				<Socket nodeId="31683" itemId="0"/>
-				<Socket nodeId="34483" itemId="0"/>
+				<Socket nodeId="61834" itemId="0"/>
+				<Socket nodeId="2491" itemId="0"/>
+				<Socket nodeId="54127" itemId="2"/>
 				<Socket nodeId="60735" itemId="18"/>
 				<Socket nodeId="33631" itemId="0"/>
-				<Socket nodeId="54127" itemId="18"/>
-				<Socket nodeId="2491" itemId="0"/>
-				<Socket nodeId="61834" itemId="0"/>
+				<Socket nodeId="6230" itemId="0"/>
+				<Socket nodeId="33989" itemId="0"/>
+				<Socket nodeId="26725" itemId="19"/>
 			</Sockets>
 		</Spec>
 	</Tree>
@@ -779,6 +779,20 @@ New Item
 固定基底词缀: 0
 近战单手武器攻击 +17% 暴击伤害加成
 +14% 近战攻击暴击伤害加成
+		</Item>
+		<Item variant="2" id="19">
+			稀 有 度: 传奇
+淬火之躯
+赤红珠宝
+League: 穿越
+版本: 3.8.0以前
+版本: 当前
+Selected Variant: 2
+范围: 中
+固定基底词缀: 0
+范围内每配置 1 点力量，便获得 -1 点力量
+{variant:1}范围内若未配置力量，则每 10 点 +5% 攻击和法术暴击伤害加成
+{variant:2}范围内若未配置力量，则每 10 点 +7% 攻击和法术暴击伤害加成
 		</Item>
 		<Slot name="Gloves" itemId="9"/>
 		<Slot name="Weapon 1" itemId="14"/>
