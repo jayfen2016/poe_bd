@@ -11,12 +11,13 @@
 		<PlayerStat stat="TotalDPS" value="1042723.3812196"/>
 		<PlayerStat stat="TotalDot" value="0"/>
 		<PlayerStat stat="WithPoisonDPS" value="1042723.3812196"/>
+		<PlayerStat stat="CombinedDPS" value="1042723.3812196"/>
 		<PlayerStat stat="ManaCost" value="25"/>
 		<PlayerStat stat="Str" value="117"/>
 		<PlayerStat stat="ReqStr" value="111"/>
 		<PlayerStat stat="Dex" value="295"/>
 		<PlayerStat stat="ReqDex" value="183"/>
-		<PlayerStat stat="Int" value="57"/>
+		<PlayerStat stat="Int" value="47"/>
 		<PlayerStat stat="ReqInt" value="155"/>
 		<PlayerStat stat="Devotion" value="0"/>
 		<PlayerStat stat="Life" value="5328"/>
@@ -25,15 +26,15 @@
 		<PlayerStat stat="LifeUnreservedPercent" value="100"/>
 		<PlayerStat stat="LifeRegen" value="0"/>
 		<PlayerStat stat="LifeLeechGainRate" value="2131.2"/>
-		<PlayerStat stat="Mana" value="730"/>
+		<PlayerStat stat="Mana" value="724"/>
 		<PlayerStat stat="Spec:ManaInc" value="0"/>
-		<PlayerStat stat="ManaUnreserved" value="91"/>
-		<PlayerStat stat="ManaUnreservedPercent" value="12.465753424658"/>
-		<PlayerStat stat="ManaRegen" value="24.9"/>
-		<PlayerStat stat="ManaLeechGainRate" value="146"/>
-		<PlayerStat stat="TotalDegen" value="218.44"/>
-		<PlayerStat stat="NetLifeRegen" value="-218.44"/>
-		<PlayerStat stat="EnergyShield" value="133"/>
+		<PlayerStat stat="ManaUnreserved" value="89"/>
+		<PlayerStat stat="ManaUnreservedPercent" value="12.292817679558"/>
+		<PlayerStat stat="ManaRegen" value="24.7"/>
+		<PlayerStat stat="ManaLeechGainRate" value="144.8"/>
+		<PlayerStat stat="TotalDegen" value="218.36"/>
+		<PlayerStat stat="NetLifeRegen" value="-218.36"/>
+		<PlayerStat stat="EnergyShield" value="131"/>
 		<PlayerStat stat="Spec:EnergyShieldInc" value="0"/>
 		<PlayerStat stat="EnergyShieldRegen" value="0"/>
 		<PlayerStat stat="EnergyShieldLeechGainRate" value="0"/>
@@ -66,33 +67,133 @@
 		<PlayerStat stat="EnduranceChargesMax" value="3"/>
 	</Build>
 	<Import/>
-	<Tree activeSpec="1">
+	<Tree activeSpec="2">
 		<Spec treeVersion="3_9">
 			<URL>
-				https://poe.game.qq.com/passive-skill-tree/AAAABAIBAFb6W68qTY25QYe95tnGhrONfe96DY356OOf028FtaCfjYF67_6PAF4IiTWSbIwV_QUteBl4-ZitYqw64U4qmvE6Qrc-ft1KyBcmvTZB0H_7Go3C7PajWhox-ij6plc-z02SMpSVBbTFPL7YvTz-51R_AiP2LOk51G6qjb--p9rBFSAM8kd-1CNdaBmOMHz-Ct2onardDYd20K1vV1FHLlN6hC2DdO2bjbe27YNDMSo4gsdbJggufyuly_1uPydLeOpijX5noNjVg20ZtMGgdvfTfiT9yql3119wdcswccMz_95N47XywTMA7vJF8uZKfWVN
+				https://poe.game.qq.com/passive-skill-tree/AAAABAIBAFb6W68qTY25QYe95tnGhrONfe963aj56OOfjb8x-mVNoJ-NgdNv_o8FLQiJYqxuqhX9bIx4GXj5mK0NjTrhTiqa8TpCtz5-3UrIFya9NkHQtfIajU3j9qNaGudU_97DMz7PTZIwcZUFdcs8vti9PP5fcH8CI_Y1kjnUAF7Tfr6n2sEVIAzyR352911owaAwfP4KnardDYd2g21vV1FHLlNnoI1-m423tu2DQzEqOILH_W6ly38rCC5bJj8nS3jqYnTteoTY1dCtTP8s6RmO1CMk_cqpd9cFtcLstMUylKZXKPp_-8EzAO7yRfLmSn167w==
 			</URL>
 			<Sockets>
-				<Socket nodeId="7960" itemId="0"/>
-				<Socket nodeId="32763" itemId="3"/>
-				<Socket nodeId="28475" itemId="0"/>
-				<Socket nodeId="26196" itemId="0"/>
+				<Socket nodeId="16218" itemId="0"/>
+				<Socket nodeId="11150" itemId="0"/>
+				<Socket nodeId="61834" itemId="0"/>
+				<Socket nodeId="64583" itemId="0"/>
+				<Socket nodeId="22994" itemId="0"/>
+				<Socket nodeId="48679" itemId="0"/>
+				<Socket nodeId="2311" itemId="0"/>
+				<Socket nodeId="9408" itemId="0"/>
 				<Socket nodeId="36634" itemId="0"/>
-				<Socket nodeId="33989" itemId="0"/>
+				<Socket nodeId="61305" itemId="0"/>
 				<Socket nodeId="21984" itemId="0"/>
+				<Socket nodeId="2491" itemId="0"/>
+				<Socket nodeId="33753" itemId="0"/>
+				<Socket nodeId="18436" itemId="0"/>
+				<Socket nodeId="22748" itemId="0"/>
+				<Socket nodeId="55190" itemId="0"/>
+				<Socket nodeId="13170" itemId="0"/>
+				<Socket nodeId="12613" itemId="0"/>
+				<Socket nodeId="10532" itemId="0"/>
+				<Socket nodeId="34483" itemId="16"/>
+				<Socket nodeId="46519" itemId="0"/>
+				<Socket nodeId="33631" itemId="0"/>
+				<Socket nodeId="49080" itemId="0"/>
+				<Socket nodeId="3109" itemId="0"/>
+				<Socket nodeId="61666" itemId="0"/>
+				<Socket nodeId="46393" itemId="0"/>
+				<Socket nodeId="7960" itemId="0"/>
+				<Socket nodeId="59585" itemId="0"/>
+				<Socket nodeId="32763" itemId="3"/>
+				<Socket nodeId="40400" itemId="0"/>
+				<Socket nodeId="28475" itemId="0"/>
+				<Socket nodeId="24970" itemId="0"/>
+				<Socket nodeId="26196" itemId="0"/>
+				<Socket nodeId="29712" itemId="0"/>
+				<Socket nodeId="61288" itemId="0"/>
+				<Socket nodeId="51198" itemId="0"/>
+				<Socket nodeId="33989" itemId="0"/>
+				<Socket nodeId="23984" itemId="0"/>
+				<Socket nodeId="17219" itemId="0"/>
 				<Socket nodeId="46882" itemId="0"/>
+				<Socket nodeId="44169" itemId="0"/>
 				<Socket nodeId="61419" itemId="0"/>
 				<Socket nodeId="41263" itemId="0"/>
-				<Socket nodeId="6230" itemId="0"/>
-				<Socket nodeId="55190" itemId="0"/>
-				<Socket nodeId="48768" itemId="0"/>
+				<Socket nodeId="9797" itemId="0"/>
+				<Socket nodeId="14993" itemId="0"/>
 				<Socket nodeId="26725" itemId="0"/>
-				<Socket nodeId="31683" itemId="0"/>
-				<Socket nodeId="34483" itemId="16"/>
+				<Socket nodeId="6230" itemId="0"/>
+				<Socket nodeId="49684" itemId="0"/>
+				<Socket nodeId="48768" itemId="0"/>
+				<Socket nodeId="12161" itemId="0"/>
 				<Socket nodeId="60735" itemId="0"/>
-				<Socket nodeId="33631" itemId="0"/>
 				<Socket nodeId="54127" itemId="0"/>
-				<Socket nodeId="2491" itemId="0"/>
+				<Socket nodeId="41876" itemId="0"/>
+				<Socket nodeId="31683" itemId="0"/>
+				<Socket nodeId="36931" itemId="0"/>
+				<Socket nodeId="6910" itemId="0"/>
+				<Socket nodeId="23756" itemId="0"/>
+			</Sockets>
+		</Spec>
+		<Spec treeVersion="3_10">
+			<URL>
+				https://poe.game.qq.com/passive-skill-tree/AAAABAIBAFb6W68qTY25QYe95tnGhrONfe96-egNjY2_BbWgnzWSeu_-jwBeCIkXJm6qFf2NgXgZePmYrQUtOuFOKprxOkK3Pn7dSshsjL02QdAx-hqNf_v2o1oa51Qo-qZXPs9NkjKUlQW0xTy-2L08_sLsfwIj9mKsOdTTb-OfvqfdqBUgDPJHftQjXWgZjjB8_gos6Z2q3Q2HdsGgb1fQrS5TUUd6hHTtm423tu2DQzEqOILHWyYILqXLfyv9bj8nS3jqYo1-Z6DY1YNtTP_awXb3034k_cqpd9dfcHXLMHHDM__eTeO18sEzAO7yRfLmSn1lTQ==
+			</URL>
+			<Sockets>
+				<Socket nodeId="16218" itemId="0"/>
+				<Socket nodeId="11150" itemId="0"/>
 				<Socket nodeId="61834" itemId="0"/>
+				<Socket nodeId="64583" itemId="0"/>
+				<Socket nodeId="22994" itemId="0"/>
+				<Socket nodeId="48679" itemId="0"/>
+				<Socket nodeId="2311" itemId="0"/>
+				<Socket nodeId="9408" itemId="0"/>
+				<Socket nodeId="36634" itemId="0"/>
+				<Socket nodeId="61305" itemId="0"/>
+				<Socket nodeId="21984" itemId="0"/>
+				<Socket nodeId="2491" itemId="0"/>
+				<Socket nodeId="33753" itemId="0"/>
+				<Socket nodeId="18436" itemId="0"/>
+				<Socket nodeId="23756" itemId="0"/>
+				<Socket nodeId="55190" itemId="0"/>
+				<Socket nodeId="61666" itemId="0"/>
+				<Socket nodeId="13170" itemId="0"/>
+				<Socket nodeId="31683" itemId="0"/>
+				<Socket nodeId="41876" itemId="0"/>
+				<Socket nodeId="46519" itemId="0"/>
+				<Socket nodeId="40400" itemId="0"/>
+				<Socket nodeId="54127" itemId="0"/>
+				<Socket nodeId="3109" itemId="0"/>
+				<Socket nodeId="60735" itemId="0"/>
+				<Socket nodeId="46393" itemId="0"/>
+				<Socket nodeId="7960" itemId="0"/>
+				<Socket nodeId="59585" itemId="0"/>
+				<Socket nodeId="32763" itemId="3"/>
+				<Socket nodeId="29712" itemId="0"/>
+				<Socket nodeId="28475" itemId="0"/>
+				<Socket nodeId="61288" itemId="0"/>
+				<Socket nodeId="26196" itemId="0"/>
+				<Socket nodeId="51198" itemId="0"/>
+				<Socket nodeId="49080" itemId="0"/>
+				<Socket nodeId="6230" itemId="0"/>
+				<Socket nodeId="33989" itemId="0"/>
+				<Socket nodeId="26725" itemId="0"/>
+				<Socket nodeId="17219" itemId="0"/>
+				<Socket nodeId="23984" itemId="0"/>
+				<Socket nodeId="14993" itemId="0"/>
+				<Socket nodeId="44169" itemId="0"/>
+				<Socket nodeId="22748" itemId="0"/>
+				<Socket nodeId="9797" itemId="0"/>
+				<Socket nodeId="41263" itemId="0"/>
+				<Socket nodeId="61419" itemId="0"/>
+				<Socket nodeId="46882" itemId="0"/>
+				<Socket nodeId="49684" itemId="0"/>
+				<Socket nodeId="48768" itemId="0"/>
+				<Socket nodeId="12161" itemId="0"/>
+				<Socket nodeId="12613" itemId="0"/>
+				<Socket nodeId="33631" itemId="0"/>
+				<Socket nodeId="34483" itemId="16"/>
+				<Socket nodeId="10532" itemId="0"/>
+				<Socket nodeId="36931" itemId="0"/>
+				<Socket nodeId="6910" itemId="0"/>
+				<Socket nodeId="24970" itemId="0"/>
 			</Sockets>
 		</Spec>
 	</Tree>
@@ -110,7 +211,7 @@
 		</Skill>
 		<Skill mainActiveSkillCalcs="1" label="" enabled="true" mainActiveSkill="1">
 			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemPrecision" skillId="AccuracyAndCritsAura" enableGlobal1="true" enabled="true" nameSpec="精准"/>
-			<Gem enableGlobal2="false" skillMinionSkillCalcs="1" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemSummonSkitterbots" skillId="Skitterbots" skillMinionSkill="1" enableGlobal1="true" enabled="true" nameSpec="召唤飞掠者" skillMinion="SummonedPhantasm"/>
+			<Gem enableGlobal2="false" skillMinionSkillCalcs="1" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemSummonSkitterbots" skillId="Skitterbots" skillMinionSkill="1" enableGlobal1="true" enabled="true" nameSpec="召唤飞掠者" skillMinion="SkitterbotCold"/>
 			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemElementalWeakness" skillId="ElementalWeakness" enableGlobal1="true" enabled="true" nameSpec="元素要害"/>
 			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SupportGemBlasphemy" skillId="SupportBlasphemy" enableGlobal1="true" enabled="true" nameSpec="诅咒光环(辅)"/>
 			<Gem enableGlobal2="false" quality="0" level="3" gemId="Metadata/Items/Gems/SupportGemAdditionalXP" skillId="SupportAdditionalXP" enableGlobal1="true" enabled="true" nameSpec="启蒙(辅)"/>
@@ -157,7 +258,7 @@
 		<Section collapsed="false" id="MiscDefences"/>
 	</Calcs>
 	<AboutTab/>
-	<TreeView searchStr="" zoomY="-52.099071323731" showHeatMap="false" zoomLevel="5" showStatDifferences="true" zoomX="-274.99973955762"/>
+	<TreeView searchStr="" zoomY="-439.89363132373" showHeatMap="false" zoomLevel="5" showStatDifferences="true" zoomX="-616.89797955762"/>
 	<Items activeItemSet="1" useSecondWeaponSet="false">
 		<Item id="1">
 			稀 有 度: 传奇
@@ -489,54 +590,54 @@ New Item
 攻击附加 +1% 攻击基础暴击率
 		</Item>
 		<Slot name="Gloves" itemId="10"/>
-		<Slot name="Weapon 1" itemId="4"/>
-		<Slot name="Amulet" itemId="1"/>
+		<Slot name="Belt" itemId="8"/>
 		<Slot active="true" name="Flask 1" itemId="12"/>
+		<Slot name="Amulet" itemId="1"/>
+		<Slot name="Boots" itemId="9"/>
 		<Slot name="Belt Abyssal Socket 1" itemId="16"/>
 		<Slot name="Flask 2" itemId="13"/>
 		<Slot name="Weapon 2" itemId="5"/>
+		<Slot name="Helmet" itemId="11"/>
 		<Slot name="Body Armour" itemId="17"/>
 		<Slot name="Ring 2" itemId="7"/>
-		<Slot name="Boots" itemId="9"/>
 		<Slot name="Ring 1" itemId="6"/>
-		<Slot name="Helmet" itemId="11"/>
-		<Slot name="Belt" itemId="8"/>
+		<Slot name="Weapon 1" itemId="4"/>
 		<ItemSet useSecondWeaponSet="false" id="1">
 			<Slot name="Gloves" itemId="10"/>
-			<Slot name="Weapon 1" itemId="4"/>
 			<Slot name="Weapon 2Swap Abyssal Socket 2" itemId="0"/>
 			<Slot name="Belt Abyssal Socket 2" itemId="0"/>
 			<Slot name="Flask 3" itemId="0"/>
-			<Slot name="Body Armour Abyssal Socket 2" itemId="0"/>
-			<Slot name="Amulet" itemId="1"/>
-			<Slot active="true" name="Flask 1" itemId="12"/>
 			<Slot name="Weapon 2Swap Abyssal Socket 1" itemId="0"/>
-			<Slot name="Flask 5" itemId="0"/>
-			<Slot name="Belt Abyssal Socket 1" itemId="16"/>
-			<Slot name="Flask 2" itemId="13"/>
+			<Slot name="Helmet Abyssal Socket 1" itemId="0"/>
 			<Slot name="Helmet Abyssal Socket 2" itemId="0"/>
-			<Slot name="Weapon 2 Swap" itemId="0"/>
 			<Slot name="Weapon 1 Abyssal Socket 1" itemId="0"/>
-			<Slot name="Weapon 2" itemId="5"/>
-			<Slot name="Body Armour" itemId="17"/>
-			<Slot name="Flask 4" itemId="0"/>
+			<Slot name="Belt" itemId="8"/>
 			<Slot name="Weapon 1 Abyssal Socket 2" itemId="0"/>
 			<Slot name="Weapon 2 Abyssal Socket 2" itemId="0"/>
+			<Slot name="Boots Abyssal Socket 2" itemId="0"/>
+			<Slot name="Flask 4" itemId="0"/>
+			<Slot name="Gloves Abyssal Socket 1" itemId="0"/>
+			<Slot active="true" name="Flask 1" itemId="12"/>
+			<Slot name="Body Armour Abyssal Socket 2" itemId="0"/>
+			<Slot name="Amulet" itemId="1"/>
+			<Slot name="Boots" itemId="9"/>
+			<Slot name="Weapon 2 Abyssal Socket 1" itemId="0"/>
+			<Slot name="Boots Abyssal Socket 1" itemId="0"/>
+			<Slot name="Belt Abyssal Socket 1" itemId="16"/>
+			<Slot name="Flask 2" itemId="13"/>
+			<Slot name="Weapon 1Swap Abyssal Socket 2" itemId="0"/>
+			<Slot name="Weapon 1Swap Abyssal Socket 1" itemId="0"/>
+			<Slot name="Weapon 2" itemId="5"/>
+			<Slot name="Helmet" itemId="11"/>
+			<Slot name="Weapon 2 Swap" itemId="0"/>
+			<Slot name="Body Armour" itemId="17"/>
 			<Slot name="Weapon 1 Swap" itemId="0"/>
 			<Slot name="Ring 2" itemId="7"/>
-			<Slot name="Boots Abyssal Socket 2" itemId="0"/>
 			<Slot name="Gloves Abyssal Socket 2" itemId="0"/>
 			<Slot name="Body Armour Abyssal Socket 1" itemId="0"/>
-			<Slot name="Gloves Abyssal Socket 1" itemId="0"/>
-			<Slot name="Helmet Abyssal Socket 1" itemId="0"/>
-			<Slot name="Weapon 2 Abyssal Socket 1" itemId="0"/>
-			<Slot name="Boots" itemId="9"/>
-			<Slot name="Weapon 1Swap Abyssal Socket 1" itemId="0"/>
+			<Slot name="Flask 5" itemId="0"/>
 			<Slot name="Ring 1" itemId="6"/>
-			<Slot name="Weapon 1Swap Abyssal Socket 2" itemId="0"/>
-			<Slot name="Helmet" itemId="11"/>
-			<Slot name="Boots Abyssal Socket 1" itemId="0"/>
-			<Slot name="Belt" itemId="8"/>
+			<Slot name="Weapon 1" itemId="4"/>
 		</ItemSet>
 	</Items>
 	<Config>
@@ -547,8 +648,8 @@ New Item
 		<Input name="projectileDistance" number="1"/>
 		<Input name="buffOnslaught" boolean="true"/>
 		<Input name="useFrenzyCharges" boolean="true"/>
-		<Input name="playerHasPointBlank" boolean="true"/>
 		<Input name="useInspirationCharges" boolean="true"/>
+		<Input name="playerHasPointBlank" boolean="true"/>
 		<Input name="conditionEnemyIgnited" boolean="true"/>
 		<Input name="baseShockEffect" number="10"/>
 		<Input name="conditionEnemyShocked" boolean="true"/>
