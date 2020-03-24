@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
-	<Build level="90" targetVersion="3_0" banditNormal="None" bandit="None" banditMerciless="None" className="暗影刺客" ascendClassName="Trickster" mainSocketGroup="1" viewMode="SKILLS" banditCruel="None">
+	<Build level="90" targetVersion="3_0" banditNormal="None" bandit="None" banditMerciless="None" className="暗影刺客" ascendClassName="Trickster" mainSocketGroup="1" viewMode="TREE" banditCruel="None">
 		<PlayerStat stat="AverageHit" value="15050.5319"/>
 		<PlayerStat stat="AverageDamage" value="15050.5319"/>
 		<PlayerStat stat="Speed" value="2.1285714285714"/>
@@ -35,7 +35,7 @@
 		<PlayerStat stat="ManaLeechGainPerHit" value="0"/>
 		<PlayerStat stat="EnergyShield" value="6176"/>
 		<PlayerStat stat="Spec:EnergyShieldInc" value="252"/>
-		<PlayerStat stat="EnergyShieldRegen" value="262.48"/>
+		<PlayerStat stat="EnergyShieldRegen" value="199.4848"/>
 		<PlayerStat stat="EnergyShieldLeechGainPerHit" value="76.75771269"/>
 		<PlayerStat stat="Evasion" value="5937"/>
 		<PlayerStat stat="Spec:EvasionInc" value="174"/>
@@ -68,9 +68,9 @@
 	</Build>
 	<Import/>
 	<Tree activeSpec="2">
-		<Spec treeVersion="3_9">
+		<Spec ascendClassId="0" nodes="41689,30110,2292,51220,35296,36221,46289,48362,27203,5823,14292,61653,25260,63447,27788,47949,28012,45593,32763,1767,14914,8948,39861,33989,6797,23616,61419,41263,27276,4973,8001,3656,20807,58968,35894,34763,46408,9206,53013,49978,26620,56744,38190,5129,48778,59606,12412,1822,32710,38900,38805,60735,44184,27929,1031,41989,30338,33755,53114,9877,23334,62831,12401,19635,13885,25058,12801,45272,24050,4502,19320,18769,27659,9864,53279,54307,21835,38995,36858,37663,44683,59252,8938,1461,14936,56671,21958,19858,44362,18707,51212,40362,36287,46896,42907,37671" treeVersion="3_9" classId="6">
 			<URL>
-				https://poe.game.qq.com/passive-skill-tree/AAAABAYAAKLZdZ4I9MgUieCNfbTRvOpqQxa_N9Tw1WKs99dsjLtNbWyyGSaVBuc6QiL0m7WExRqNrUrv66EvaowTbR9BDkhRR-ZYjDaHy7VII_bPFcM6Z_zdqJUuFAlJE-jWMHysmH_GnaqXle0_jb9tGbcwpAUEB5f0Bx6-ilsmf_tcQE2SNj1VxjIBsNjdXxGWS3g6WJMfbAsi6tAfj_qYU1VL1CPndCaIBbVJUV3yYeJMszBx9W_IDM96g9t2gqebkyc=
+				https://poe.game.qq.com/passive-skill-tree/AAAABAYAAKLZdZ4I9MgUieCNfbTRvOpqQxa_N9Tw1WKs99dsjLtNbWyyGX_7Buc6QiL0m7WExRqNXEDv66EvaowTbR9BDkhRR-ZYjDaHy7VII_bPFcM6Z_zdqJUuFAm-iujWMHwHHn_Gl_SXle0_rJhtGQQHpAV2goPbz3omlVsm9W8wcUyzNj1h4jIBsNhd8hGWS3hJUWwLJojQH9QjVUuYU4_6kx_ndCLqBbU6WN1fVcZNkq1KSRPIDJ2qjb-3MKebkyc=
 			</URL>
 			<Sockets>
 				<Socket nodeId="16218" itemId="0"/>
@@ -87,97 +87,33 @@
 				<Socket nodeId="26725" itemId="0"/>
 				<Socket nodeId="33753" itemId="0"/>
 				<Socket nodeId="6230" itemId="0"/>
-				<Socket nodeId="23756" itemId="0"/>
+				<Socket nodeId="18436" itemId="0"/>
 				<Socket nodeId="55190" itemId="0"/>
-				<Socket nodeId="61666" itemId="0"/>
-				<Socket nodeId="13170" itemId="0"/>
-				<Socket nodeId="41876" itemId="0"/>
-				<Socket nodeId="31683" itemId="0"/>
+				<Socket nodeId="60735" itemId="0"/>
+				<Socket nodeId="34483" itemId="0"/>
+				<Socket nodeId="10532" itemId="0"/>
+				<Socket nodeId="24970" itemId="0"/>
 				<Socket nodeId="46519" itemId="0"/>
 				<Socket nodeId="40400" itemId="0"/>
-				<Socket nodeId="34483" itemId="0"/>
+				<Socket nodeId="33631" itemId="0"/>
 				<Socket nodeId="3109" itemId="0"/>
-				<Socket nodeId="60735" itemId="0"/>
+				<Socket nodeId="12613" itemId="0"/>
 				<Socket nodeId="46393" itemId="0"/>
 				<Socket nodeId="7960" itemId="0"/>
 				<Socket nodeId="59585" itemId="0"/>
 				<Socket nodeId="32763" itemId="0"/>
-				<Socket nodeId="29712" itemId="0"/>
+				<Socket nodeId="12161" itemId="0"/>
 				<Socket nodeId="28475" itemId="0"/>
-				<Socket nodeId="61288" itemId="0"/>
-				<Socket nodeId="26196" itemId="0"/>
-				<Socket nodeId="51198" itemId="0"/>
 				<Socket nodeId="49080" itemId="0"/>
+				<Socket nodeId="26196" itemId="0"/>
 				<Socket nodeId="54127" itemId="0"/>
+				<Socket nodeId="61288" itemId="0"/>
+				<Socket nodeId="46882" itemId="0"/>
 				<Socket nodeId="33989" itemId="0"/>
-				<Socket nodeId="2491" itemId="0"/>
-				<Socket nodeId="17219" itemId="0"/>
-				<Socket nodeId="23984" itemId="0"/>
-				<Socket nodeId="14993" itemId="0"/>
-				<Socket nodeId="44169" itemId="0"/>
-				<Socket nodeId="22748" itemId="0"/>
-				<Socket nodeId="9797" itemId="0"/>
-				<Socket nodeId="41263" itemId="0"/>
 				<Socket nodeId="61419" itemId="0"/>
-				<Socket nodeId="46882" itemId="0"/>
-				<Socket nodeId="49684" itemId="0"/>
-				<Socket nodeId="48768" itemId="0"/>
-				<Socket nodeId="12161" itemId="0"/>
-				<Socket nodeId="12613" itemId="0"/>
-				<Socket nodeId="33631" itemId="0"/>
-				<Socket nodeId="24970" itemId="0"/>
-				<Socket nodeId="10532" itemId="0"/>
-				<Socket nodeId="36931" itemId="0"/>
-				<Socket nodeId="6910" itemId="0"/>
-				<Socket nodeId="18436" itemId="0"/>
-			</Sockets>
-		</Spec>
-		<Spec treeVersion="3_10">
-			<URL>
-				https://poe.game.qq.com/passive-skill-tree/AAAABAYCAJuhotl1ngj0-aTNFsgUieC00W0ZvOpqQxa_ahsRUFH7EHujo_DV99fjhLtNpysdFJMfHxj60nvXBudsC4t6IvQsnOL374iExb46AW-ESK1K7-uhL9o7aozDbRNtH0HbGg5ID6skiyaIjHZMs7VI9Uu-ikmxzxXxisM6Z_z1b4Pb18-VLhQJSRO3MeharJh_xmaeSVGXlc_dwQA6WOZYpAV0gXaCm7Vcaz1fh8sEB_6zj0aw2I_6EZYfTDOjXEBVxnDUKwqX9PfB-TfQHxvIBx4i6t1fUlO3MH2wPLbIDOtjuQJMg6ebkyc=
-			</URL>
-			<Sockets>
-				<Socket nodeId="16218" itemId="0"/>
-				<Socket nodeId="11150" itemId="0"/>
-				<Socket nodeId="61834" itemId="0"/>
-				<Socket nodeId="64583" itemId="0"/>
-				<Socket nodeId="22994" itemId="0"/>
-				<Socket nodeId="48679" itemId="0"/>
-				<Socket nodeId="2311" itemId="0"/>
-				<Socket nodeId="9408" itemId="0"/>
-				<Socket nodeId="36634" itemId="0"/>
-				<Socket nodeId="61305" itemId="0"/>
-				<Socket nodeId="21984" itemId="0"/>
-				<Socket nodeId="26725" itemId="0"/>
-				<Socket nodeId="33753" itemId="0"/>
-				<Socket nodeId="6230" itemId="0"/>
-				<Socket nodeId="18436" itemId="0"/>
-				<Socket nodeId="55190" itemId="0"/>
-				<Socket nodeId="60735" itemId="0"/>
-				<Socket nodeId="34483" itemId="0"/>
-				<Socket nodeId="10532" itemId="0"/>
-				<Socket nodeId="24970" itemId="0"/>
-				<Socket nodeId="46519" itemId="0"/>
-				<Socket nodeId="40400" itemId="0"/>
-				<Socket nodeId="33631" itemId="0"/>
-				<Socket nodeId="3109" itemId="0"/>
-				<Socket nodeId="12613" itemId="0"/>
-				<Socket nodeId="46393" itemId="0"/>
-				<Socket nodeId="7960" itemId="0"/>
-				<Socket nodeId="59585" itemId="0"/>
-				<Socket nodeId="32763" itemId="13"/>
-				<Socket nodeId="12161" itemId="0"/>
-				<Socket nodeId="28475" itemId="0"/>
-				<Socket nodeId="49080" itemId="0"/>
-				<Socket nodeId="26196" itemId="0"/>
-				<Socket nodeId="54127" itemId="0"/>
-				<Socket nodeId="61288" itemId="0"/>
-				<Socket nodeId="46882" itemId="0"/>
-				<Socket nodeId="33989" itemId="14"/>
-				<Socket nodeId="61419" itemId="18"/>
 				<Socket nodeId="17219" itemId="0"/>
 				<Socket nodeId="23984" itemId="0"/>
-				<Socket nodeId="41263" itemId="13"/>
+				<Socket nodeId="41263" itemId="0"/>
 				<Socket nodeId="44169" itemId="0"/>
 				<Socket nodeId="61666" itemId="0"/>
 				<Socket nodeId="9797" itemId="0"/>
@@ -194,6 +130,70 @@
 				<Socket nodeId="36931" itemId="0"/>
 				<Socket nodeId="6910" itemId="0"/>
 				<Socket nodeId="29712" itemId="0"/>
+			</Sockets>
+		</Spec>
+		<Spec ascendClassId="2" nodes="39841,41689,30110,2292,63908,52502,51220,35296,46289,48362,27203,5823,41891,61653,18707,63447,58244,53013,47949,42795,42907,7444,47362,7960,60259,31703,1767,4011,44683,8948,11420,32176,61320,33989,48698,46896,367,44362,61419,41263,58103,27276,8938,4973,8001,56090,3656,1822,7112,9864,35958,19635,46408,53279,18769,18865,35706,61834,49978,26620,62831,53213,55247,38190,5129,48778,46897,38900,44184,32710,26270,11018,38805,49408,27929,28884,41989,21958,23616,39861,23659,15711,4502,36858,65203,45272,1031,36678,9355,34763,64210,8012,13219,30338,29825,50029,58968,14936,63425,63799,37663,33864,27163,55236,33755,55867,56671,21075,4432,4219,15542,51212,20987,27659,19587,62795,37671" treeVersion="3_10" classId="6">
+			<URL>
+				https://poe.game.qq.com/passive-skill-tree/AAAABAYCAJuhotl1ngj0-aTNFsgUieC00bzqakMWv6Oj8NVJE_fX44TPFbtNpyunmx0UuQIfGOtje9cG5w-rIvQsnH2w74iExb46tzABb61K7-uhL-L3aowi6hNtH0HbGg5IBx4byCaIjHZMs7VI0B9JUUmxi3rxisM6Z_z1b8_d18-VLhQJvoq3MZf0rJh_xmaeKwqXlcEAbRlw1KQFVcZcQJu1XGs9XxGWj_r-s7DYBAePRiSLh8v60h9MM6N2gnSBw23mWDpY98H5N5MfhEhqG4Pb2jvdX1JTEVAQezy2yAxR-2wLTIP1S5Mn
+			</URL>
+			<Sockets>
+				<Socket nodeId="16218" itemId="0"/>
+				<Socket nodeId="11150" itemId="0"/>
+				<Socket nodeId="61834" itemId="0"/>
+				<Socket nodeId="64583" itemId="0"/>
+				<Socket nodeId="22994" itemId="0"/>
+				<Socket nodeId="48679" itemId="0"/>
+				<Socket nodeId="2311" itemId="0"/>
+				<Socket nodeId="9408" itemId="0"/>
+				<Socket nodeId="36634" itemId="0"/>
+				<Socket nodeId="61305" itemId="0"/>
+				<Socket nodeId="21984" itemId="0"/>
+				<Socket nodeId="26725" itemId="0"/>
+				<Socket nodeId="33753" itemId="0"/>
+				<Socket nodeId="18436" itemId="0"/>
+				<Socket nodeId="29712" itemId="0"/>
+				<Socket nodeId="55190" itemId="0"/>
+				<Socket nodeId="60735" itemId="0"/>
+				<Socket nodeId="10532" itemId="0"/>
+				<Socket nodeId="31683" itemId="0"/>
+				<Socket nodeId="13170" itemId="0"/>
+				<Socket nodeId="46519" itemId="0"/>
+				<Socket nodeId="33631" itemId="0"/>
+				<Socket nodeId="23756" itemId="0"/>
+				<Socket nodeId="3109" itemId="0"/>
+				<Socket nodeId="51198" itemId="0"/>
+				<Socket nodeId="46393" itemId="0"/>
+				<Socket nodeId="7960" itemId="0"/>
+				<Socket nodeId="59585" itemId="0"/>
+				<Socket nodeId="32763" itemId="13"/>
+				<Socket nodeId="41876" itemId="0"/>
+				<Socket nodeId="28475" itemId="0"/>
+				<Socket nodeId="54127" itemId="0"/>
+				<Socket nodeId="26196" itemId="0"/>
+				<Socket nodeId="61288" itemId="0"/>
+				<Socket nodeId="49080" itemId="0"/>
+				<Socket nodeId="2491" itemId="0"/>
+				<Socket nodeId="33989" itemId="14"/>
+				<Socket nodeId="14993" itemId="0"/>
+				<Socket nodeId="17219" itemId="0"/>
+				<Socket nodeId="46882" itemId="0"/>
+				<Socket nodeId="22748" itemId="0"/>
+				<Socket nodeId="61419" itemId="18"/>
+				<Socket nodeId="41263" itemId="13"/>
+				<Socket nodeId="9797" itemId="0"/>
+				<Socket nodeId="61666" itemId="0"/>
+				<Socket nodeId="44169" itemId="0"/>
+				<Socket nodeId="23984" itemId="0"/>
+				<Socket nodeId="49684" itemId="0"/>
+				<Socket nodeId="48768" itemId="0"/>
+				<Socket nodeId="12161" itemId="0"/>
+				<Socket nodeId="6230" itemId="0"/>
+				<Socket nodeId="34483" itemId="0"/>
+				<Socket nodeId="40400" itemId="0"/>
+				<Socket nodeId="24970" itemId="0"/>
+				<Socket nodeId="36931" itemId="0"/>
+				<Socket nodeId="6910" itemId="0"/>
+				<Socket nodeId="12613" itemId="0"/>
 			</Sockets>
 		</Spec>
 	</Tree>
@@ -231,11 +231,11 @@
 			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemVaalBlight" skillId="VaalBlight" enableGlobal1="false" enabled="true" nameSpec="瓦尔.枯萎"/>
 		</Skill>
 		<Skill mainActiveSkillCalcs="1" label="" enabled="true" mainActiveSkill="1">
-			<Gem enableGlobal2="nil" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemDamageOverTimeAura" skillId="DamageOverTimeAura" enableGlobal1="true" enabled="true" nameSpec="怨毒光环"/>
-			<Gem enableGlobal2="nil" quality="0" level="20" gemId="Metadata/Items/Gems/SupportGemBloodMagic" skillId="SupportBloodMagic" enableGlobal1="true" enabled="true" nameSpec="血魔法(辅)"/>
+			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemDamageOverTimeAura" skillId="DamageOverTimeAura" enableGlobal1="true" enabled="true" nameSpec="怨毒光环"/>
+			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SupportGemBloodMagic" skillId="SupportBloodMagic" enableGlobal1="true" enabled="true" nameSpec="血魔法(辅)"/>
 		</Skill>
-		<Skill mainActiveSkillCalcs="nil" label="" enabled="true" mainActiveSkill="nil">
-			<Gem enableGlobal2="nil" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemDiscipline" skillId="Discipline" enableGlobal1="true" enabled="true" nameSpec="纪律"/>
+		<Skill mainActiveSkillCalcs="1" label="" enabled="true" mainActiveSkill="1">
+			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemDiscipline" skillId="Discipline" enableGlobal1="true" enabled="true" nameSpec="纪律"/>
 		</Skill>
 	</Skills>
 	<Calcs>
@@ -266,7 +266,7 @@
 		<Section collapsed="false" id="MiscDefences"/>
 	</Calcs>
 	<AboutTab/>
-	<TreeView searchStr="" zoomY="577.68505949931" showHeatMap="false" zoomLevel="6" showStatDifferences="true" zoomX="-480.17334109742"/>
+	<TreeView searchStr="" zoomY="131.24948214023" showHeatMap="false" zoomLevel="2" showStatDifferences="true" zoomX="-357.11137205701"/>
 	<Items activeItemSet="1" useSecondWeaponSet="false">
 		<Item id="1">
 			稀 有 度: 稀有
@@ -602,8 +602,8 @@ Selected Variant: 12
 {variant:6,7,8,10,9}对周围敌人，攻击和法术暴击率提高 50%
 {variant:1,6}【雷霆】不保留魔力
 {variant:2,7}【清晰】不保留魔力
-{variant:8,3}【纪律】不保留魔力
-{variant:9,4}【元素净化】不保留魔力
+{variant:3,8}【纪律】不保留魔力
+{variant:4,9}【元素净化】不保留魔力
 {variant:5,10}【闪电净化】不保留魔力
 {variant:11}【怨毒光环】不保留魔力
 {variant:12}【奋锐光环】不保留魔力
@@ -716,10 +716,10 @@ Selected Variant: 3
 		</ItemSet>
 	</Items>
 	<Config>
-		<Input name="useFrenzyCharges" boolean="true"/>
+		<Input name="conditionKilledAffectedByDoT" boolean="true"/>
 		<Input name="enemyIsBoss" string="SHAPER"/>
 		<Input name="ghostShroudCount" number="1"/>
-		<Input name="conditionKilledAffectedByDoT" boolean="true"/>
+		<Input name="useFrenzyCharges" boolean="true"/>
 		<Input name="witheringTouchWitheredStackCount" number="1"/>
 	</Config>
 </PathOfBuilding>

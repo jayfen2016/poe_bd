@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
-	<Build level="90" targetVersion="3_0" banditNormal="None" bandit="Alira" banditMerciless="None" className="女巫" ascendClassName="Elementalist" mainSocketGroup="1" viewMode="TREE" banditCruel="None">
-		<PlayerStat stat="AverageHit" value="671.4858875"/>
-		<PlayerStat stat="AverageDamage" value="671.4858875"/>
+	<Build level="90" targetVersion="3_0" banditNormal="None" bandit="Alira" banditMerciless="None" className="女巫" ascendClassName="Elementalist" mainSocketGroup="1" viewMode="ITEMS" banditCruel="None">
+		<PlayerStat stat="AverageHit" value="835.5285625"/>
+		<PlayerStat stat="AverageDamage" value="835.5285625"/>
 		<PlayerStat stat="Speed" value="4.12"/>
 		<PlayerStat stat="Speed" value="4.12"/>
 		<PlayerStat stat="PreEffectiveCritChance" value="21.9"/>
 		<PlayerStat stat="CritChance" value="21.9"/>
 		<PlayerStat stat="CritMultiplier" value="2.65"/>
 		<PlayerStat stat="HitChance" value="100"/>
-		<PlayerStat stat="TotalDPS" value="2766.5218565"/>
+		<PlayerStat stat="TotalDPS" value="3442.3776775"/>
 		<PlayerStat stat="TotalDot" value="0"/>
-		<PlayerStat stat="WithPoisonDPS" value="2766.5218565"/>
-		<PlayerStat stat="CombinedDPS" value="2766.5218565"/>
+		<PlayerStat stat="WithPoisonDPS" value="3442.3776775"/>
+		<PlayerStat stat="CombinedDPS" value="3442.3776775"/>
 		<PlayerStat stat="AreaOfEffectRadius" value="18"/>
-		<PlayerStat stat="ManaCost" value="5"/>
+		<PlayerStat stat="ManaCost" value="7"/>
 		<PlayerStat stat="Str" value="104"/>
 		<PlayerStat stat="ReqStr" value="155"/>
 		<PlayerStat stat="Dex" value="74"/>
@@ -68,9 +68,9 @@
 	</Build>
 	<Import/>
 	<Tree activeSpec="1">
-		<Spec treeVersion="3_10">
+		<Spec ascendClassId="2" nodes="7388,1891,47873,54447,15167,36634,49308,54279,16775,63976,27203,46578,42981,23438,48362,13714,57061,61653,25260,27659,58244,27788,2292,19595,21301,49254,53493,63228,49929,9877,21958,21835,46910,8948,11420,47251,20546,47507,61981,27929,258,33479,61419,41263,32710,14936,37569,27163,53279,1203,3656,6204,55485,53802,35894,19635,1822,56158,44723,1346,18769,61834,37114,16602,34098,18174,13885,38190,33755,48778,48423,42804,17821,5289,40362,36542,56461,6230,4502,1031,16790,31875,59009,12913,57264,29781,24362,41472,4397,65203,13009,39648,20528,19939,28754,25058,65167,15073,60648,53213,60388,65034,60405,36858,21330,61259,41137,7112,16023,35283,61471,17735,52157,42583,10490,34506,24872,10115,62021,57197,60398,37671" treeVersion="3_10" classId="3">
 			<URL>
-				https://poe.game.qq.com/passive-skill-tree/AAAABAMCABzcB2M7P48awJz56LXyp-XfbeOEbIxMi8Bm9vzDCSaVIvS4k7mT8h3v66EvksEEsw5IjDbbXq6zBUJJUYUyRv6VLr6KvSdFnRSpnaqOvtyNGFYEB9-wXyoRLTLRUDBwUmHiG8imVyj6hsphKPJF6-6TJ7sBJ4NqQzWS8NVirGwLy71Vxrc-LJxQQoLH8B8BAonT1AegsRg82L1Ms0GW8YrSKo_66_X-CkDaz92D2zrh_o9N45rgogD-s3RVMnHmgXyD70sRlqc07Og2PevkkPoHHlNS0B9qGzpYf8ZFR20ZVUvQ9VM1CPTe5bzqW45Bhw==
+				https://poe.game.qq.com/passive-skill-tree/AAAABAMCABzcB2O7ATs_jxrAnNQHQYf56GpDtfKn5VuOvOo1kt7l8NVirGwL44RsjAj0TItTNcBm0PX2_MMJJpVVxlVLtz4i9CycuJNQQrmT8h1tGQECgsfv66Evf8Y6WJLBahvQHwSzDkgYPNi90iqMNkyzBx7bXq6zBUJJUfGKkPpA2oUyRv42PZUug9u-ir0npzRFnRSpnaqOvtyNGFYRlgQHQZZ8g-aBMnHfsHRVXyqiABEt_rMy0ZrgUDBN43BSYeL-jzrh7OjP3evk_grr9Y_6U1LvS6CxG8iJ0_AfRUfLvaZXKPqGymEoJ4PyRd9t6-6TJw==
 			</URL>
 			<Sockets>
 				<Socket nodeId="16218" itemId="0"/>
@@ -82,54 +82,54 @@
 				<Socket nodeId="2311" itemId="0"/>
 				<Socket nodeId="9408" itemId="0"/>
 				<Socket nodeId="36634" itemId="1"/>
-				<Socket nodeId="61305" itemId="0"/>
+				<Socket nodeId="34483" itemId="0"/>
 				<Socket nodeId="21984" itemId="0"/>
 				<Socket nodeId="2491" itemId="0"/>
 				<Socket nodeId="33753" itemId="0"/>
-				<Socket nodeId="6230" itemId="0"/>
-				<Socket nodeId="34483" itemId="0"/>
+				<Socket nodeId="6230" itemId="11"/>
+				<Socket nodeId="26725" itemId="0"/>
 				<Socket nodeId="55190" itemId="0"/>
 				<Socket nodeId="12613" itemId="0"/>
-				<Socket nodeId="10532" itemId="0"/>
 				<Socket nodeId="22994" itemId="0"/>
-				<Socket nodeId="31683" itemId="0"/>
+				<Socket nodeId="33631" itemId="0"/>
+				<Socket nodeId="13170" itemId="0"/>
 				<Socket nodeId="46519" itemId="0"/>
 				<Socket nodeId="40400" itemId="0"/>
-				<Socket nodeId="41263" itemId="0"/>
+				<Socket nodeId="60735" itemId="0"/>
 				<Socket nodeId="3109" itemId="0"/>
-				<Socket nodeId="64583" itemId="0"/>
+				<Socket nodeId="7960" itemId="0"/>
 				<Socket nodeId="46393" itemId="0"/>
 				<Socket nodeId="23756" itemId="0"/>
 				<Socket nodeId="59585" itemId="0"/>
 				<Socket nodeId="14993" itemId="0"/>
-				<Socket nodeId="41876" itemId="0"/>
+				<Socket nodeId="12161" itemId="0"/>
 				<Socket nodeId="9797" itemId="0"/>
-				<Socket nodeId="61288" itemId="0"/>
-				<Socket nodeId="26196" itemId="0"/>
-				<Socket nodeId="23984" itemId="0"/>
-				<Socket nodeId="49080" itemId="0"/>
 				<Socket nodeId="32763" itemId="0"/>
-				<Socket nodeId="33989" itemId="0"/>
+				<Socket nodeId="26196" itemId="0"/>
 				<Socket nodeId="29712" itemId="0"/>
-				<Socket nodeId="17219" itemId="0"/>
-				<Socket nodeId="46882" itemId="0"/>
-				<Socket nodeId="54127" itemId="0"/>
-				<Socket nodeId="44169" itemId="0"/>
-				<Socket nodeId="22748" itemId="0"/>
-				<Socket nodeId="28475" itemId="0"/>
-				<Socket nodeId="61666" itemId="0"/>
-				<Socket nodeId="61419" itemId="7"/>
+				<Socket nodeId="61288" itemId="0"/>
 				<Socket nodeId="18436" itemId="0"/>
+				<Socket nodeId="33989" itemId="0"/>
+				<Socket nodeId="61419" itemId="7"/>
+				<Socket nodeId="17219" itemId="0"/>
+				<Socket nodeId="23984" itemId="0"/>
+				<Socket nodeId="61666" itemId="0"/>
+				<Socket nodeId="44169" itemId="0"/>
+				<Socket nodeId="41263" itemId="0"/>
+				<Socket nodeId="28475" itemId="0"/>
+				<Socket nodeId="22748" itemId="0"/>
+				<Socket nodeId="54127" itemId="0"/>
+				<Socket nodeId="46882" itemId="0"/>
 				<Socket nodeId="49684" itemId="0"/>
 				<Socket nodeId="48768" itemId="0"/>
-				<Socket nodeId="12161" itemId="0"/>
-				<Socket nodeId="7960" itemId="0"/>
-				<Socket nodeId="60735" itemId="0"/>
-				<Socket nodeId="13170" itemId="0"/>
-				<Socket nodeId="33631" itemId="0"/>
+				<Socket nodeId="41876" itemId="0"/>
+				<Socket nodeId="49080" itemId="0"/>
+				<Socket nodeId="61305" itemId="0"/>
+				<Socket nodeId="10532" itemId="0"/>
+				<Socket nodeId="31683" itemId="0"/>
 				<Socket nodeId="36931" itemId="0"/>
 				<Socket nodeId="6910" itemId="0"/>
-				<Socket nodeId="26725" itemId="0"/>
+				<Socket nodeId="64583" itemId="0"/>
 			</Sockets>
 		</Spec>
 	</Tree>
@@ -138,7 +138,8 @@
 	</Notes>
 	<Skills defaultGemQuality="nil" defaultGemLevel="nil" showSupportGemTypes="ALL" sortGemsByDPS="true">
 		<Skill mainActiveSkillCalcs="1" label="" enabled="true" mainActiveSkill="1">
-			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemStormBurst" skillId="StormBurstNew" enableGlobal1="true" enabled="true" nameSpec="裂风雷球"/>
+			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemStormBurst" skillId="StormBurstNew" enableGlobal1="true" enabled="true" nameSpec="裂风雷球" skillMinion="SummonedPhantasm"/>
+			<Gem enableGlobal2="nil" quality="0" level="20" gemId="Metadata/Items/Gems/SupportGemArchmage" skillId="SupportArchmage" enableGlobal1="true" enabled="true" nameSpec="Archmage"/>
 		</Skill>
 		<Skill source="Item:10:塑泥者, 破岩锤" mainActiveSkillCalcs="1" label="" enabled="true" slot="Weapon 1" mainActiveSkill="1">
 			<Gem enableGlobal2="false" quality="0" level="12" enableGlobal1="true" enabled="true" nameSpec=""/>
@@ -178,7 +179,7 @@
 		<Section collapsed="false" id="MiscDefences"/>
 	</Calcs>
 	<AboutTab/>
-	<TreeView searchStr="" zoomY="200.08973913614" showHeatMap="false" zoomLevel="2" showStatDifferences="true" zoomX="-98.63951238788"/>
+	<TreeView searchStr="" zoomY="146.36033546715" showHeatMap="false" zoomLevel="4" showStatDifferences="true" zoomX="-150.11330524595"/>
 	<Items activeItemSet="1" useSecondWeaponSet="false">
 		<Item variant="11" variantAlt="7" id="1">
 			稀 有 度: 传奇
@@ -553,11 +554,11 @@ Selected Variant: 4
 {variant:1,2,3}{range:0.5}该装备的闪避与能量护盾提高 (110-150)%
 {variant:4}{range:0.817}该装备的闪避与能量护盾提高 (300-400)%
 {variant:1,2}{range:0.5}+(90-110) 最大魔力
-{variant:3,4}{range:0.768}+(100-150) 最大魔力
+{variant:4,3}{range:0.768}+(100-150) 最大魔力
 {variant:1,2}{range:0.5}魔力回复速度提高 (40-50)%
 {variant:1}被击中时, 10% 的伤害优先从魔力扣除
-{variant:3,4}10% 的伤害优先从魔力扣除
-{variant:3,4}每秒 1% 魔力回复
+{variant:4,3}10% 的伤害优先从魔力扣除
+{variant:4,3}每秒 1% 魔力回复
 心灵升华
 			<ModRange range="0.5" id="1"/>
 			<ModRange range="0.817" id="2"/>
@@ -638,6 +639,22 @@ Selected Variant: 2
 			<ModRange range="0.5" id="4"/>
 			<ModRange range="0.5" id="5"/>
 			<ModRange range="0.5" id="6"/>
+		</Item>
+		<Item variant="2" id="11">
+			稀 有 度: 传奇
+狂热之心
+钴蓝珠宝
+版本: 3.10.0以前
+版本: 当前
+Selected Variant: 2
+固定基底词缀: 0
+{variant:1}{range:0.5}法术伤害提高 (20-30)%
+{variant:2}{range:0.5}法术伤害提高 (30-40)%
+{variant:1}技能魔力消耗提高 100%
+{variant:2}技能魔力消耗提高 50%
+已腐化
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
 		</Item>
 		<Slot name="Amulet" itemId="9"/>
 		<Slot name="Weapon 2" itemId="10"/>
