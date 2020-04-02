@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
-	<Build level="90" targetVersion="3_0" banditNormal="None" bandit="Alira" banditMerciless="None" className="女巫" ascendClassName="Occultist" mainSocketGroup="1" viewMode="ITEMS" banditCruel="None">
-		<PlayerStat stat="AverageHit" value="98787.697599579"/>
-		<PlayerStat stat="AverageDamage" value="98787.697599579"/>
+	<Build level="90" targetVersion="3_0" banditNormal="None" bandit="Alira" banditMerciless="None" className="女巫" ascendClassName="Occultist" mainSocketGroup="1" viewMode="TREE" banditCruel="None">
+		<PlayerStat stat="AverageHit" value="76902.381226152"/>
+		<PlayerStat stat="AverageDamage" value="76902.381226152"/>
 		<PlayerStat stat="Speed" value="6.12"/>
 		<PlayerStat stat="Speed" value="6.12"/>
 		<PlayerStat stat="HitSpeed" value="3.7875"/>
@@ -10,18 +10,19 @@
 		<PlayerStat stat="CritChance" value="71.36164"/>
 		<PlayerStat stat="CritMultiplier" value="5.16"/>
 		<PlayerStat stat="HitChance" value="100"/>
-		<PlayerStat stat="TotalDPS" value="374158.4046584"/>
+		<PlayerStat stat="TotalDPS" value="291267.76889405"/>
 		<PlayerStat stat="TotalDot" value="0"/>
-		<PlayerStat stat="IgniteDPS" value="3642.0031937405"/>
-		<PlayerStat stat="WithPoisonDPS" value="374158.4046584"/>
+		<PlayerStat stat="IgniteDPS" value="2889.790452942"/>
+		<PlayerStat stat="WithPoisonDPS" value="291267.76889405"/>
+		<PlayerStat stat="CombinedDPS" value="294157.55934699"/>
 		<PlayerStat stat="AreaOfEffectRadius" value="16"/>
 		<PlayerStat stat="ManaCost" value="22"/>
 		<PlayerStat stat="Str" value="34"/>
 		<PlayerStat stat="ReqStr" value="98"/>
 		<PlayerStat stat="Dex" value="54"/>
 		<PlayerStat stat="ReqDex" value="155"/>
-		<PlayerStat stat="Int" value="387"/>
-		<PlayerStat stat="ReqInt" value="194"/>
+		<PlayerStat stat="Int" value="421"/>
+		<PlayerStat stat="ReqInt" value="187"/>
 		<PlayerStat stat="Devotion" value="0"/>
 		<PlayerStat stat="Life" value="1"/>
 		<PlayerStat stat="Spec:LifeInc" value="78"/>
@@ -29,16 +30,16 @@
 		<PlayerStat stat="LifeUnreservedPercent" value="100"/>
 		<PlayerStat stat="LifeRegen" value="0.005"/>
 		<PlayerStat stat="LifeLeechGainRate" value="0"/>
-		<PlayerStat stat="Mana" value="1009"/>
+		<PlayerStat stat="Mana" value="1030"/>
 		<PlayerStat stat="Spec:ManaInc" value="28"/>
 		<PlayerStat stat="ManaUnreserved" value="-11"/>
-		<PlayerStat stat="ManaUnreservedPercent" value="-1.0901883052527"/>
-		<PlayerStat stat="ManaRegen" value="65.8"/>
+		<PlayerStat stat="ManaUnreservedPercent" value="-1.0679611650485"/>
+		<PlayerStat stat="ManaRegen" value="67"/>
 		<PlayerStat stat="ManaLeechGainRate" value="0"/>
-		<PlayerStat stat="EnergyShield" value="5865"/>
-		<PlayerStat stat="Spec:EnergyShieldInc" value="201"/>
+		<PlayerStat stat="EnergyShield" value="6078"/>
+		<PlayerStat stat="Spec:EnergyShieldInc" value="207"/>
 		<PlayerStat stat="EnergyShieldRegen" value="0"/>
-		<PlayerStat stat="EnergyShieldLeechGainRate" value="586.5"/>
+		<PlayerStat stat="EnergyShieldLeechGainRate" value="607.8"/>
 		<PlayerStat stat="Evasion" value="536"/>
 		<PlayerStat stat="Spec:EvasionInc" value="55"/>
 		<PlayerStat stat="MeleeEvadeChance" value="0"/>
@@ -68,33 +69,133 @@
 		<PlayerStat stat="EnduranceChargesMax" value="3"/>
 	</Build>
 	<Import/>
-	<Tree activeSpec="1">
-		<Spec treeVersion="3_9">
+	<Tree activeSpec="2">
+		<Spec ascendClassId="1" nodes="7388,31344,39841,7444,11455,54447,3537,44955,12888,36634,36452,20852,58244,57226,48362,27203,4432,10575,24050,6250,62504,55643,42760,41635,27659,53493,46842,34173,42795,30767,42436,4184,59650,49929,2292,21958,32176,4036,8948,11420,47251,61320,47507,61981,22473,20077,15228,63447,41263,54694,6949,18865,56158,8001,61834,32417,60405,4502,19635,35958,19374,53957,31973,44723,1346,16790,37127,16954,17018,14936,60440,55247,38190,47362,48778,46897,64210,24229,32710,26270,1031,39986,53213,36678,27929,1822,47306,61653,6728,3452,23659,22535,21262,27096,18769,12783,41989,20528,8302,28754,11018,44184,36585,36858,33755,50029,31984,35894,38995,63799,25411,33864,7112,3656,40508,4977,10763,9261,63398,10490,35283,22702,18378,42649,5696,60398,37671" treeVersion="3_9" classId="3">
 			<URL>
-				https://poe.game.qq.com/passive-skill-tree/AAAABAMBABzcenCboR0UUXQI9A3RGGptGY8aV8mJ09-KvOpqQxFQr5sqCxZAJC14L6cIoqNsC9D1tvqFfacrXfIOSKXE6QLDCSlPVcb31w_EIvQsnLiT74i5k_IdhEhObYw2-TehL9WmGyXbXo5kH0GRB36hvopepSy_jHZLrtLFfOWuswVCQZbxikI6QnqD2-wY18-VLrkCj_q3MUyzrJh_xmaeKwq4ys_dIG4EB1AwpAUaSDHvDXxca1gHUw5p2ElR8NUHHo9GnDJwUvrSOliO6RGW6_XDbXzwSbGYUzt8Y0N9sBvIEFiePBNx2Vv0KPemKPrjhFiuppkyWOvukyc=
+				https://poe.game.qq.com/passive-skill-tree/AAAABAMBABzcenCboR0ULL8N0a-bMliPGo5kUXTjhN-KvOpqQxFQKU9d8hhq9CjZW6cIoqNsC9D1tvqFfacreC-lxBBY6QLDCQj0VcZ9sA_EIvQsnLiT74i5k_IdV8lObTt899ehL9WmGyVJsdteH0Hxin6h6_URlkyzjHZLrtLFfOWuswVCQZaRB0I6Qno6WOwY18-VLrkCvoq3MfrSXqV_xmaeBAecMs_dj0ZtGQceuMrw1RpIDXxca1gHUw5p2ElRMe-kBVAwIG5wUisKrJiO6Y_6g9vDbXzwjDaYU_k3Y0OESBvIDkiePBNxKgskLfemKPqJ01iuppkWQOvukyc=
 			</URL>
 			<Sockets>
-				<Socket nodeId="7960" itemId="0"/>
-				<Socket nodeId="32763" itemId="0"/>
-				<Socket nodeId="28475" itemId="0"/>
-				<Socket nodeId="26196" itemId="0"/>
+				<Socket nodeId="16218" itemId="0"/>
+				<Socket nodeId="11150" itemId="0"/>
+				<Socket nodeId="61834" itemId="0"/>
+				<Socket nodeId="64583" itemId="0"/>
+				<Socket nodeId="22994" itemId="0"/>
+				<Socket nodeId="48679" itemId="0"/>
+				<Socket nodeId="2311" itemId="0"/>
+				<Socket nodeId="9408" itemId="0"/>
 				<Socket nodeId="36634" itemId="0"/>
-				<Socket nodeId="34483" itemId="0"/>
+				<Socket nodeId="61305" itemId="0"/>
 				<Socket nodeId="21984" itemId="0"/>
+				<Socket nodeId="26725" itemId="0"/>
+				<Socket nodeId="33753" itemId="0"/>
+				<Socket nodeId="18436" itemId="0"/>
+				<Socket nodeId="22748" itemId="0"/>
+				<Socket nodeId="55190" itemId="0"/>
+				<Socket nodeId="13170" itemId="0"/>
+				<Socket nodeId="12613" itemId="0"/>
+				<Socket nodeId="10532" itemId="0"/>
+				<Socket nodeId="34483" itemId="0"/>
+				<Socket nodeId="46519" itemId="0"/>
+				<Socket nodeId="33631" itemId="0"/>
+				<Socket nodeId="49080" itemId="0"/>
+				<Socket nodeId="3109" itemId="0"/>
+				<Socket nodeId="61666" itemId="0"/>
+				<Socket nodeId="46393" itemId="0"/>
+				<Socket nodeId="7960" itemId="0"/>
+				<Socket nodeId="59585" itemId="0"/>
+				<Socket nodeId="32763" itemId="0"/>
+				<Socket nodeId="40400" itemId="0"/>
+				<Socket nodeId="28475" itemId="0"/>
+				<Socket nodeId="54127" itemId="0"/>
+				<Socket nodeId="26196" itemId="0"/>
+				<Socket nodeId="29712" itemId="0"/>
+				<Socket nodeId="61288" itemId="0"/>
+				<Socket nodeId="51198" itemId="0"/>
+				<Socket nodeId="33989" itemId="0"/>
+				<Socket nodeId="23984" itemId="0"/>
+				<Socket nodeId="17219" itemId="0"/>
 				<Socket nodeId="46882" itemId="0"/>
+				<Socket nodeId="44169" itemId="0"/>
 				<Socket nodeId="61419" itemId="0"/>
 				<Socket nodeId="41263" itemId="0"/>
-				<Socket nodeId="31683" itemId="0"/>
-				<Socket nodeId="55190" itemId="0"/>
-				<Socket nodeId="48768" itemId="0"/>
-				<Socket nodeId="61834" itemId="0"/>
+				<Socket nodeId="9797" itemId="0"/>
+				<Socket nodeId="14993" itemId="0"/>
 				<Socket nodeId="2491" itemId="0"/>
-				<Socket nodeId="54127" itemId="0"/>
 				<Socket nodeId="60735" itemId="0"/>
-				<Socket nodeId="33631" itemId="0"/>
+				<Socket nodeId="49684" itemId="0"/>
+				<Socket nodeId="48768" itemId="0"/>
+				<Socket nodeId="12161" itemId="0"/>
 				<Socket nodeId="6230" itemId="0"/>
-				<Socket nodeId="33989" itemId="0"/>
+				<Socket nodeId="41876" itemId="0"/>
+				<Socket nodeId="31683" itemId="0"/>
+				<Socket nodeId="24970" itemId="0"/>
+				<Socket nodeId="36931" itemId="0"/>
+				<Socket nodeId="6910" itemId="0"/>
+				<Socket nodeId="23756" itemId="0"/>
+			</Sockets>
+		</Spec>
+		<Spec ascendClassId="1" nodes="7388,31344,39841,7444,42436,54447,3537,56158,5696,36634,46842,2292,35283,44955,48362,27203,4432,20852,57226,6250,9261,10763,42760,41635,63447,53493,10575,34173,42795,55643,36452,3656,59650,49929,62504,21958,33864,4036,8948,11420,47251,61320,47507,61981,58244,20077,63799,4184,41263,54694,6949,35894,11455,8001,1346,32417,33755,36858,64210,35958,19374,53957,31973,44723,18865,16790,61834,16954,17018,44184,60440,55247,38190,47362,48778,60405,11018,24229,32710,26270,27929,8302,53213,20528,14936,41989,47306,12783,6728,3452,23659,22535,21262,27096,18769,61653,1822,36678,39986,28754,4502,1031,36585,46897,37127,50029,31984,19635,38995,15228,25411,32176,7112,22473,40508,4977,24050,30767,63398,10490,12888,22702,18378,42649,27659,60398,37671" treeVersion="3_10" classId="3">
+			<URL>
+				https://poe.game.qq.com/passive-skill-tree/AAAABAMBABzcenCboR0UpcQN0dteFkCPGrb6CPSJ06-bvOpqQxFQUXTfihhqJC0qC6cIoqP319D1KU-Ffacr2VuOZA5I6QLDCfQoVcaESA_EIvQsnLiT74i5k_Id44RObfk3EFihL9WmGyWMNiy_H0EFQn6hg9uP-vrSjHZLrtLFfOWus0mxQZbxikI6QnqsmOwY18-VLrkCvorr9SsKXqV_xmaebRkgbs_dUDA6WKQFuMox7xpIDXxca1gHUw5p2ElR8NUHHo9GnDJwUhGWBAeO6bcxkQfDbXzwTLOYUzt8Y0N9sBvIV8mePBNxXfJ4L_emKPoyWFiupplsC-vukyc=
+			</URL>
+			<Sockets>
+				<Socket nodeId="16218" itemId="0"/>
+				<Socket nodeId="11150" itemId="0"/>
+				<Socket nodeId="61834" itemId="0"/>
+				<Socket nodeId="64583" itemId="0"/>
+				<Socket nodeId="22994" itemId="0"/>
+				<Socket nodeId="48679" itemId="0"/>
+				<Socket nodeId="2311" itemId="0"/>
+				<Socket nodeId="9408" itemId="0"/>
+				<Socket nodeId="36634" itemId="0"/>
+				<Socket nodeId="61305" itemId="0"/>
+				<Socket nodeId="21984" itemId="0"/>
 				<Socket nodeId="26725" itemId="0"/>
+				<Socket nodeId="54127" itemId="0"/>
+				<Socket nodeId="18436" itemId="0"/>
+				<Socket nodeId="23756" itemId="0"/>
+				<Socket nodeId="55190" itemId="0"/>
+				<Socket nodeId="13170" itemId="0"/>
+				<Socket nodeId="10532" itemId="0"/>
+				<Socket nodeId="24970" itemId="0"/>
+				<Socket nodeId="31683" itemId="0"/>
+				<Socket nodeId="46519" itemId="0"/>
+				<Socket nodeId="40400" itemId="0"/>
+				<Socket nodeId="41876" itemId="0"/>
+				<Socket nodeId="3109" itemId="0"/>
+				<Socket nodeId="6230" itemId="0"/>
+				<Socket nodeId="46393" itemId="0"/>
+				<Socket nodeId="7960" itemId="0"/>
+				<Socket nodeId="59585" itemId="0"/>
+				<Socket nodeId="32763" itemId="0"/>
+				<Socket nodeId="29712" itemId="0"/>
+				<Socket nodeId="28475" itemId="0"/>
+				<Socket nodeId="61288" itemId="0"/>
+				<Socket nodeId="26196" itemId="0"/>
+				<Socket nodeId="51198" itemId="0"/>
+				<Socket nodeId="49080" itemId="0"/>
+				<Socket nodeId="60735" itemId="0"/>
+				<Socket nodeId="33989" itemId="0"/>
+				<Socket nodeId="2491" itemId="0"/>
+				<Socket nodeId="17219" itemId="0"/>
+				<Socket nodeId="23984" itemId="0"/>
+				<Socket nodeId="14993" itemId="0"/>
+				<Socket nodeId="44169" itemId="0"/>
+				<Socket nodeId="22748" itemId="0"/>
+				<Socket nodeId="9797" itemId="0"/>
+				<Socket nodeId="41263" itemId="0"/>
+				<Socket nodeId="61419" itemId="0"/>
+				<Socket nodeId="46882" itemId="0"/>
+				<Socket nodeId="49684" itemId="0"/>
+				<Socket nodeId="48768" itemId="0"/>
+				<Socket nodeId="12161" itemId="0"/>
+				<Socket nodeId="33753" itemId="0"/>
+				<Socket nodeId="12613" itemId="0"/>
+				<Socket nodeId="33631" itemId="0"/>
+				<Socket nodeId="34483" itemId="0"/>
+				<Socket nodeId="36931" itemId="0"/>
+				<Socket nodeId="6910" itemId="0"/>
+				<Socket nodeId="61666" itemId="0"/>
 			</Sockets>
 		</Spec>
 	</Tree>
@@ -120,8 +221,8 @@
 		<Skill mainActiveSkillCalcs="1" label="" enabled="true" mainActiveSkill="1">
 			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemSpellDamageAura" skillId="SpellDamageAura" enableGlobal1="true" enabled="true" nameSpec="奋锐光环"/>
 			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemHeraldOfAsh" skillId="HeraldOfAsh" enableGlobal1="true" enabled="true" nameSpec="灰烬之捷"/>
-			<Gem enableGlobal2="nil" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemDiscipline" skillId="Discipline" enableGlobal1="true" enabled="true" nameSpec="纪律"/>
-			<Gem enableGlobal2="nil" quality="0" level="3" gemId="Metadata/Items/Gems/SupportGemAdditionalXP" skillId="SupportAdditionalXP" enableGlobal1="true" enabled="true" nameSpec="启蒙(辅)"/>
+			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemDiscipline" skillId="Discipline" enableGlobal1="true" enabled="true" nameSpec="纪律"/>
+			<Gem enableGlobal2="false" quality="0" level="3" gemId="Metadata/Items/Gems/SupportGemAdditionalXP" skillId="SupportAdditionalXP" enableGlobal1="true" enabled="true" nameSpec="启蒙(辅)"/>
 		</Skill>
 		<Skill mainActiveSkillCalcs="1" label="" enabled="true" mainActiveSkill="1"/>
 	</Skills>
@@ -153,7 +254,7 @@
 		<Section collapsed="false" id="MiscDefences"/>
 	</Calcs>
 	<AboutTab/>
-	<TreeView searchStr="" zoomY="323.80982433683" showHeatMap="false" zoomLevel="2" showStatDifferences="true" zoomX="-316.4612662934"/>
+	<TreeView searchStr="" zoomY="1767.4158267363" showHeatMap="false" zoomLevel="10" showStatDifferences="true" zoomX="431.21014449496"/>
 	<Items activeItemSet="1" useSecondWeaponSet="false">
 		<Item variant="2" id="1">
 			稀 有 度: 传奇
@@ -363,7 +464,6 @@ New Item
 			稀 有 度: 传奇
 安赛娜丝的安抚之语
 丝绸手套
-League: 战乱之殇
 版本: 2.6.0以前
 版本: 3.7.0以前
 版本: 当前
@@ -461,50 +561,50 @@ New Item
 该装备的能量护盾提高 95%
 		</Item>
 		<Slot name="Gloves" itemId="15"/>
-		<Slot name="Weapon 1" itemId="8"/>
-		<Slot name="Amulet" itemId="10"/>
-		<Slot name="Body Armour" itemId="9"/>
-		<Slot name="Ring 2" itemId="7"/>
-		<Slot name="Boots" itemId="12"/>
-		<Slot name="Ring 1" itemId="13"/>
-		<Slot name="Helmet" itemId="5"/>
 		<Slot name="Belt" itemId="14"/>
+		<Slot name="Amulet" itemId="10"/>
+		<Slot name="Boots" itemId="12"/>
+		<Slot name="Helmet" itemId="5"/>
+		<Slot name="Body Armour" itemId="1"/>
+		<Slot name="Ring 2" itemId="7"/>
+		<Slot name="Ring 1" itemId="13"/>
+		<Slot name="Weapon 1" itemId="8"/>
 		<ItemSet useSecondWeaponSet="false" id="1">
 			<Slot name="Gloves" itemId="15"/>
-			<Slot name="Weapon 1" itemId="8"/>
 			<Slot name="Weapon 2Swap Abyssal Socket 2" itemId="0"/>
 			<Slot name="Belt Abyssal Socket 2" itemId="0"/>
 			<Slot name="Flask 3" itemId="0"/>
-			<Slot name="Body Armour Abyssal Socket 2" itemId="0"/>
-			<Slot name="Amulet" itemId="10"/>
-			<Slot name="Flask 1" itemId="0"/>
 			<Slot name="Weapon 2Swap Abyssal Socket 1" itemId="0"/>
-			<Slot name="Flask 5" itemId="0"/>
-			<Slot name="Belt Abyssal Socket 1" itemId="0"/>
-			<Slot name="Flask 2" itemId="0"/>
+			<Slot name="Helmet Abyssal Socket 1" itemId="0"/>
 			<Slot name="Helmet Abyssal Socket 2" itemId="0"/>
-			<Slot name="Weapon 2 Swap" itemId="0"/>
 			<Slot name="Weapon 1 Abyssal Socket 1" itemId="0"/>
-			<Slot name="Weapon 2" itemId="0"/>
-			<Slot name="Body Armour" itemId="9"/>
-			<Slot name="Flask 4" itemId="0"/>
+			<Slot name="Belt" itemId="14"/>
 			<Slot name="Weapon 1 Abyssal Socket 2" itemId="0"/>
 			<Slot name="Weapon 2 Abyssal Socket 2" itemId="0"/>
+			<Slot name="Boots Abyssal Socket 2" itemId="0"/>
+			<Slot name="Flask 4" itemId="0"/>
+			<Slot name="Gloves Abyssal Socket 1" itemId="0"/>
+			<Slot name="Flask 1" itemId="0"/>
+			<Slot name="Body Armour Abyssal Socket 2" itemId="0"/>
+			<Slot name="Amulet" itemId="10"/>
+			<Slot name="Boots" itemId="12"/>
+			<Slot name="Weapon 2 Abyssal Socket 1" itemId="0"/>
+			<Slot name="Boots Abyssal Socket 1" itemId="0"/>
+			<Slot name="Belt Abyssal Socket 1" itemId="0"/>
+			<Slot name="Flask 2" itemId="0"/>
+			<Slot name="Weapon 1Swap Abyssal Socket 2" itemId="0"/>
+			<Slot name="Weapon 1Swap Abyssal Socket 1" itemId="0"/>
+			<Slot name="Weapon 2" itemId="0"/>
+			<Slot name="Helmet" itemId="5"/>
+			<Slot name="Weapon 2 Swap" itemId="0"/>
+			<Slot name="Body Armour" itemId="1"/>
 			<Slot name="Weapon 1 Swap" itemId="0"/>
 			<Slot name="Ring 2" itemId="7"/>
-			<Slot name="Boots Abyssal Socket 2" itemId="0"/>
 			<Slot name="Gloves Abyssal Socket 2" itemId="0"/>
 			<Slot name="Body Armour Abyssal Socket 1" itemId="0"/>
-			<Slot name="Gloves Abyssal Socket 1" itemId="0"/>
-			<Slot name="Helmet Abyssal Socket 1" itemId="0"/>
-			<Slot name="Weapon 2 Abyssal Socket 1" itemId="0"/>
-			<Slot name="Boots" itemId="12"/>
-			<Slot name="Weapon 1Swap Abyssal Socket 1" itemId="0"/>
+			<Slot name="Flask 5" itemId="0"/>
 			<Slot name="Ring 1" itemId="13"/>
-			<Slot name="Weapon 1Swap Abyssal Socket 2" itemId="0"/>
-			<Slot name="Helmet" itemId="5"/>
-			<Slot name="Boots Abyssal Socket 1" itemId="0"/>
-			<Slot name="Belt" itemId="14"/>
+			<Slot name="Weapon 1" itemId="8"/>
 		</ItemSet>
 	</Items>
 	<Config>

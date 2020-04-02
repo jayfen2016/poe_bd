@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PathOfBuilding>
+	<Build level="90" targetVersion="3_0" banditNormal="None" bandit="Alira" banditMerciless="None" className="暗影刺客" ascendClassName="Assassin" mainSocketGroup="1" viewMode="TREE" banditCruel="None">
+		<PlayerStat stat="AverageDamage" value="274440.17641438"/>
+		<PlayerStat stat="Speed" value="3.7848"/>
+		<PlayerStat stat="Speed" value="3.7848"/>
+		<PlayerStat stat="PreEffectiveCritChance" value="98.5595"/>
+		<PlayerStat stat="CritChance" value="96.58831"/>
+		<PlayerStat stat="CritMultiplier" value="4.8"/>
+		<PlayerStat stat="HitChance" value="98"/>
+		<PlayerStat stat="TotalDPS" value="1038701.1796931"/>
+		<PlayerStat stat="TotalDot" value="0"/>
+		<PlayerStat stat="WithPoisonDPS" value="1038701.1796931"/>
+		<PlayerStat stat="CombinedDPS" value="1038701.1796931"/>
+		<PlayerStat stat="ManaCost" value="30"/>
+		<PlayerStat stat="Str" value="137"/>
+		<PlayerStat stat="ReqStr" value="70"/>
+		<PlayerStat stat="Dex" value="56"/>
+		<PlayerStat stat="ReqDex" value="155"/>
+		<PlayerStat stat="Int" value="376"/>
+		<PlayerStat stat="ReqInt" value="212"/>
+		<PlayerStat stat="Devotion" value="0"/>
+		<PlayerStat stat="Life" value="4131"/>
+		<PlayerStat stat="Spec:LifeInc" value="134"/>
+		<PlayerStat stat="LifeUnreserved" value="4131"/>
+		<PlayerStat stat="LifeUnreservedPercent" value="100"/>
+		<PlayerStat stat="LifeRegen" value="33.048"/>
+		<PlayerStat stat="LifeLeechGainRate" value="0"/>
+		<PlayerStat stat="Mana" value="823"/>
+		<PlayerStat stat="Spec:ManaInc" value="8"/>
+		<PlayerStat stat="ManaUnreserved" value="266"/>
+		<PlayerStat stat="ManaUnreservedPercent" value="32.32077764277"/>
+		<PlayerStat stat="ManaRegen" value="36.5"/>
+		<PlayerStat stat="ManaLeechGainRate" value="0"/>
+		<PlayerStat stat="EnergyShield" value="672"/>
+		<PlayerStat stat="Spec:EnergyShieldInc" value="25"/>
+		<PlayerStat stat="EnergyShieldRegen" value="0"/>
+		<PlayerStat stat="EnergyShieldLeechGainRate" value="0"/>
+		<PlayerStat stat="Evasion" value="1093"/>
+		<PlayerStat stat="Spec:EvasionInc" value="0"/>
+		<PlayerStat stat="MeleeEvadeChance" value="1"/>
+		<PlayerStat stat="MeleeEvadeChance" value="1"/>
+		<PlayerStat stat="ProjectileEvadeChance" value="1"/>
+		<PlayerStat stat="Armour" value="0"/>
+		<PlayerStat stat="Spec:ArmourInc" value="0"/>
+		<PlayerStat stat="PhysicalDamageReduction" value="0"/>
+		<PlayerStat stat="EffectiveMovementSpeedMod" value="2.05"/>
+		<PlayerStat stat="BlockChance" value="24"/>
+		<PlayerStat stat="SpellBlockChance" value="0"/>
+		<PlayerStat stat="AttackDodgeChance" value="18"/>
+		<PlayerStat stat="SpellDodgeChance" value="22"/>
+		<PlayerStat stat="FireResist" value="-23"/>
+		<PlayerStat stat="ColdResist" value="-9"/>
+		<PlayerStat stat="LightningResist" value="6"/>
+		<PlayerStat stat="ChaosResist" value="-40"/>
+		<PlayerStat stat="FireResistOverCap" value="0"/>
+		<PlayerStat stat="ColdResistOverCap" value="0"/>
+		<PlayerStat stat="LightningResistOverCap" value="0"/>
+		<PlayerStat stat="ChaosResistOverCap" value="0"/>
+		<PlayerStat stat="PowerCharges" value="6"/>
+		<PlayerStat stat="PowerChargesMax" value="6"/>
+		<PlayerStat stat="FrenzyCharges" value="3"/>
+		<PlayerStat stat="FrenzyChargesMax" value="3"/>
+		<PlayerStat stat="EnduranceCharges" value="0"/>
+		<PlayerStat stat="EnduranceChargesMax" value="3"/>
+	</Build>
+	<Import/>
+	<Tree activeSpec="1">
+		<Spec ascendClassId="1" nodes="7388,39841,43215,39521,42686,56066,52502,23027,55686,21984,37999,65552,38129,5823,65561,48878,5696,4242,10031,61653,41635,63447,65875,65555,12888,65872,52031,49254,39085,7960,22972,9877,21958,65536,4036,19501,16218,12536,30693,1822,61471,11334,21575,27879,61419,15549,62217,22618,33310,19083,52848,1203,41876,17821,21835,58229,35894,35283,39648,56158,5296,47251,14057,20987,16954,49605,65881,16243,5743,38190,13164,21330,34882,21033,44184,32710,26270,15064,6712,33435,28782,14936,33755,47306,7444,12783,48239,9386,34173,51146,26196,29199,58218,36949,20528,25058,28754,4502,64210,36678,41251,55993,29061,12850,51524,63944,15228,20844,44683,58453,41476,18769,6064,36634,9261,15117,10490,21301,42760,20546,4367,41472,60398,37671" treeVersion="3_10" classId="6">
+			<URL>
+				https://poe.game.qq.com/passive-skill-tree/AAAABAYBABzcm6Goz5phpr7bAs0WWfPZhlXglG-U8Ra_vu4WQBCSJy_w1aKj99cyWMs_wGaYrR8YWbwmlVXGD8RMLT9aMPh35Qce8B8sRlRHbOfv6zy98wlYWoIeSovOcASzo5RFnVVLjDaJ05rg214UsLiTNulR-0I6wcU_cxZvlS4zbFNSiEJSKayYf8ZmnjrYGjiCm3BuOliD27jKHRQx77xvJKqFfcfKZlRyD-NqkFVQMGHicFIRlvrSj0ahI9q5cYUyMslE-cg7fFFs5FWiBElRF7CPGiQtOw0o-lM1pwhQQhEPogDr7pMn
+			</URL>
+			<Sockets>
+				<Socket nodeId="16218" itemId="8"/>
+				<Socket nodeId="11150" itemId="0"/>
+				<Socket nodeId="61834" itemId="0"/>
+				<Socket nodeId="24970" itemId="0"/>
+				<Socket nodeId="51198" itemId="0"/>
+				<Socket nodeId="48679" itemId="0"/>
+				<Socket nodeId="2311" itemId="0"/>
+				<Socket nodeId="9408" itemId="0"/>
+				<Socket nodeId="36634" itemId="0"/>
+				<Socket nodeId="61305" itemId="0"/>
+				<Socket nodeId="21984" itemId="5"/>
+				<Socket nodeId="2491" itemId="0"/>
+				<Socket nodeId="33753" itemId="0"/>
+				<Socket nodeId="6230" itemId="0"/>
+				<Socket nodeId="34483" itemId="0"/>
+				<Socket nodeId="55190" itemId="0"/>
+				<Socket nodeId="12613" itemId="0"/>
+				<Socket nodeId="10532" itemId="0"/>
+				<Socket nodeId="22994" itemId="0"/>
+				<Socket nodeId="31683" itemId="0"/>
+				<Socket nodeId="46519" itemId="0"/>
+				<Socket nodeId="40400" itemId="0"/>
+				<Socket nodeId="41263" itemId="0"/>
+				<Socket nodeId="3109" itemId="0"/>
+				<Socket nodeId="64583" itemId="0"/>
+				<Socket nodeId="46393" itemId="0"/>
+				<Socket nodeId="23756" itemId="0"/>
+				<Socket nodeId="59585" itemId="0"/>
+				<Socket nodeId="14993" itemId="0"/>
+				<Socket nodeId="41876" itemId="0"/>
+				<Socket nodeId="9797" itemId="0"/>
+				<Socket nodeId="61288" itemId="0"/>
+				<Socket nodeId="26196" itemId="0"/>
+				<Socket nodeId="23984" itemId="0"/>
+				<Socket nodeId="49080" itemId="0"/>
+				<Socket nodeId="32763" itemId="0"/>
+				<Socket nodeId="33989" itemId="0"/>
+				<Socket nodeId="29712" itemId="0"/>
+				<Socket nodeId="17219" itemId="0"/>
+				<Socket nodeId="46882" itemId="0"/>
+				<Socket nodeId="54127" itemId="0"/>
+				<Socket nodeId="44169" itemId="0"/>
+				<Socket nodeId="22748" itemId="0"/>
+				<Socket nodeId="28475" itemId="0"/>
+				<Socket nodeId="61666" itemId="0"/>
+				<Socket nodeId="61419" itemId="6"/>
+				<Socket nodeId="18436" itemId="0"/>
+				<Socket nodeId="49684" itemId="0"/>
+				<Socket nodeId="48768" itemId="0"/>
+				<Socket nodeId="12161" itemId="0"/>
+				<Socket nodeId="7960" itemId="5"/>
+				<Socket nodeId="60735" itemId="0"/>
+				<Socket nodeId="13170" itemId="0"/>
+				<Socket nodeId="33631" itemId="0"/>
+				<Socket nodeId="36931" itemId="0"/>
+				<Socket nodeId="6910" itemId="0"/>
+				<Socket nodeId="26725" itemId="0"/>
+			</Sockets>
+		</Spec>
+	</Tree>
+	<Notes>
+		
+	</Notes>
+	<Skills defaultGemQuality="nil" defaultGemLevel="nil" showSupportGemTypes="ALL" sortGemsByDPS="true">
+		<Skill mainActiveSkillCalcs="1" label="" enabled="true" mainActiveSkill="1">
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SkillGemElementalHit" skillId="ElementalHit" skillPart="2" enableGlobal1="true" skillPartCalcs="2" enabled="true" nameSpec="元素打击" skillMinion="SummonedPhantasm"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemWeaponElementalDamage" skillId="SupportWeaponElementalDamage" enableGlobal1="true" enabled="true" nameSpec="武器元素伤害(辅)"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemElementalFocus" skillId="SupportElementalFocus" enableGlobal1="true" enabled="true" nameSpec="元素集中(辅)"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemReducedMana" skillId="SupportReducedMana" enableGlobal1="true" enabled="true" nameSpec="启迪（辅）"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemGreaterMultipleProjectiles" skillId="SupportGreaterMultipleProjectiles" enableGlobal1="true" enabled="true" nameSpec="高阶多重投射(辅)"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemDamageAgainstChilled" skillId="SupportDamageAgainstChilled" enableGlobal1="true" enabled="true" nameSpec="急冻(辅)"/>
+			<Gem enableGlobal2="nil" quality="0" level="20" gemId="Metadata/Items/Gems/SupportGemBarrage" skillId="SupportBarrage" enableGlobal1="true" enabled="false" nameSpec="弹幕（辅）"/>
+		</Skill>
+		<Skill mainActiveSkillCalcs="1" label="" enabled="true" mainActiveSkill="1">
+			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemPrecision" skillId="AccuracyAndCritsAura" enableGlobal1="true" enabled="true" nameSpec="精准"/>
+			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemSummonSkitterbots" skillId="Skitterbots" skillPart="1" enableGlobal1="true" enabled="true" nameSpec="召唤飞掠者" skillMinion="SummonedPhantasm"/>
+			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SupportGemInfernalLegion" skillId="SupportBurningMinions" enableGlobal1="true" enabled="true" nameSpec="炎军（辅）"/>
+		</Skill>
+		<Skill mainActiveSkillCalcs="1" label="" enabled="true" mainActiveSkill="1">
+			<Gem enableGlobal2="nil" skillMinionSkillCalcs="1" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemSummonIceGolem" skillId="SummonIceGolem" skillMinionSkill="1" enableGlobal1="true" enabled="true" nameSpec="召唤寒冰魔像" skillMinion="SummonedIceGolem"/>
+		</Skill>
+		<Skill source="Item:11:裂界之印, 合金戒指" mainActiveSkillCalcs="nil" label="" enabled="true" slot="Ring 1" mainActiveSkill="nil">
+			<Gem enableGlobal2="nil" quality="0" level="20" enableGlobal1="true" enabled="true" nameSpec=""/>
+		</Skill>
+		<Skill source="Item:12:New Item, Two-Stone Ring" mainActiveSkillCalcs="nil" label="" enabled="true" slot="Ring 2" mainActiveSkill="nil">
+			<Gem enableGlobal2="nil" quality="0" level="12" skillId="AssassinsMark" enableGlobal1="true" enabled="true" nameSpec=""/>
+		</Skill>
+		<Skill mainActiveSkillCalcs="nil" label="" enabled="true" mainActiveSkill="nil"/>
+	</Skills>
+	<Calcs>
+		<Input name="misc_buffMode" string="EFFECTIVE"/>
+		<Input name="skill_number" number="1"/>
+		<Section collapsed="false" id="SkillSelect"/>
+		<Section collapsed="false" id="HitDamage"/>
+		<Section collapsed="false" id="Dot"/>
+		<Section collapsed="false" id="Speed"/>
+		<Section collapsed="false" id="Crit"/>
+		<Section collapsed="false" id="HitChance"/>
+		<Section collapsed="false" id="SkillTypeStats"/>
+		<Section collapsed="false" id="Bleed"/>
+		<Section collapsed="false" id="Impale"/>
+		<Section collapsed="false" id="Poison"/>
+		<Section collapsed="false" id="Ignite"/>
+		<Section collapsed="false" id="Decay"/>
+		<Section collapsed="false" id="LeechGain"/>
+		<Section collapsed="false" id="MiscEffects"/>
+		<Section collapsed="false" id="Attributes"/>
+		<Section collapsed="false" id="Life"/>
+		<Section collapsed="false" id="Mana"/>
+		<Section collapsed="false" id="EnergyShield"/>
+		<Section collapsed="false" id="Armour"/>
+		<Section collapsed="false" id="Evasion"/>
+		<Section collapsed="false" id="Resist"/>
+		<Section collapsed="false" id="DamageTaken"/>
+		<Section collapsed="false" id="MiscDefences"/>
+	</Calcs>
+	<AboutTab/>
+	<TreeView searchStr="" zoomY="336.33061387175" showHeatMap="false" zoomLevel="5" showStatDifferences="true" zoomX="-14.44990264632"/>
+	<Items activeItemSet="1" useSecondWeaponSet="false">
+		<Item id="1">
+			稀 有 度: 传奇
+尸僵
+禁礼护手
+品质: 20
+插槽: G-G-G-G
+等级需求: 50
+固定基底词缀: 0
+{range:0.5}+(50-70) 最大能量护盾
+{range:0.5}+(15-20)% 冰霜与闪电抗性
+{range:0.5}有 (20-30)% 几率使冰缓区域中的敌人【精疲力尽】
+{range:0.5}敌人在你造成的冰缓区域里，受到的闪电伤害提高 (25-35)%
+{range:1}非伤害型异常状态效果提高 (15-20)%
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="1" id="5"/>
+		</Item>
+		<Item id="2">
+			稀 有 度: 传奇
+疯狂的象征
+异色鞋(火闪)
+品质: 20
+插槽: B-B-B-B
+等级需求: 70
+固定基底词缀: 1
+{range:0.5}+(8-12)% 火焰与闪电抗性
+获得 1 级的【疯狂之拥】技能
+移动速度提高 30%
+{range:1}非伤害型异常状态效果提高 (20-40)%
+受【疯狂荣光】影响时，你获得【点燃汇流】、【冰缓汇流】、【感电汇流】
+受【疯狂荣光】影响时，免疫元素异常状态
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="1" id="4"/>
+		</Item>
+		<Item id="3">
+			稀 有 度: 传奇
+苦难探寻者
+粗革手套
+品质: 20
+插槽: G-G-G-G
+等级需求: 54
+固定基底词缀: 0
+{range:0.5}附加 (16-19) - (25-29) 基础火焰伤害
+{range:0.5}附加 (16-19) - (25-29) 基础冰霜伤害
+{range:0.5}附加 (6-10) - (33-38) 基础闪电伤害
+{range:0.5}闪避值提高 (60-120)%
+{range:0.5}暴击并不天然套用非伤害型异常状态
+{range:0.5}施加的非伤害型异常状态如同总伤害额外提高 (100-200)%
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+		</Item>
+		<Item variant="2" id="4">
+			稀 有 度: 传奇
+亵渎者之握
+暗影护手
+裂界之器
+版本: 3.8.0以前
+版本: 当前
+Selected Variant: 2
+品质: 20
+插槽: G-G-G-G
+等级需求: 58
+固定基底词缀: 0
+{range:0.5}+(40-50) 敏捷
+{range:0.5}该装备的闪避与能量护盾提高 (150-200)%
+{range:0.5}+(50-60) 最大生命
+{variant:1}每装备 1 个【裂界之器】，异常状态的伤害便提高 15%
+{variant:2}每装备 1 个【裂界之器】，异常状态的持续伤害加成便提高 15%
+每装备 1 个【裂界之器】，最大生命提高 +6
+每装备 1 个【裂界之器】，非伤害性异常状态的效果便提高 8%
+若所有装备均为【裂界之器】，使用药剂时移除 1 个异常状态
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+		</Item>
+		<Item id="5">
+			稀 有 度: 稀有
+New Item
+中型星团珠宝
+工艺: true
+前缀: {range:0.5}AfflictionNotableAstonishingAffliction
+前缀: {range:0.5}AfflictionNotableInspiredOppression
+后缀: {range:0.5}JewelExpansionJewelNodesMedium
+后缀: None
+Cluster Jewel Skill: affliction_effect_of_non-damaging_ailments
+Cluster Jewel Node Count: 4
+品质: 0
+等级需求: 0
+固定基底词缀: 2
+{crafted}附加 4 天赋点
+{crafted}增加的小天赋获得：非伤害型异常状态效果提高 10%
+其中 1 个增加的天赋为【惊怖酷刑】
+其中 1 个增加的天赋为【绝妙镇压】
+其中 1 个增加的天赋为【珠宝槽】
+		</Item>
+		<Item variant="4" id="6">
+			稀 有 度: 传奇
+希望之线
+赤红珠宝
+版本: 超大
+版本: 大
+版本: 中
+版本: 小
+Selected Variant: 4
+等级需求: 20
+范围: Variable
+固定基底词缀: 0
+未连结至天赋树的技能，仍然可以在范围内配置
+{variant:1}只影响超大环内的天赋
+{variant:2}只影响大环内的天赋
+{variant:3}只影响中环内的天赋
+{variant:4}只影响小环内的天赋
+{range:1}-(20-10)% 所有元素抗性
+			<ModRange range="1" id="6"/>
+		</Item>
+		<Item variant="3" id="7">
+			稀 有 度: 传奇
+皮斯卡托的慧眼
+狂风法杖
+版本: 2.3.0以前
+版本: 2.6.0以前
+版本: 当前
+Selected Variant: 3
+品质: 20
+插槽: B-B-B
+等级需求: 65
+固定基底词缀: 2
+{variant:1}{range:0.5}法术伤害提高 (16-19)%
+{variant:2,3}{range:0.5}法术伤害提高 (35-39)%
+无法造成物理伤害
+{range:0.829}攻击速度提高 (10-18)%
+{range:0.5}+(340-400) 命中值
+{range:0.5}该装备的攻击暴击率提高 (20-30)%
+{range:0.5}此武器攻击造成的火焰、冰霜、闪电伤害提高 (100-115)%
+{variant:3}此武器的攻击穿透 5% 火焰、冰霜、闪电抗性
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.829" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+		</Item>
+		<Item id="8">
+			稀 有 度: 传奇
+审讯
+小型星团珠宝
+固定基底词缀: 0
+增加【苦难秘辛】
+		</Item>
+		<Item id="9">
+			稀 有 度: 稀有
+New Item
+术士长靴
+工艺: true
+前缀: {range:0.271}IncreasedLife8
+前缀: {range:0.225}MovementVelocity5
+前缀: None
+后缀: None
+后缀: None
+后缀: None
+品质: 20
+插槽: B-B-B-B
+等级需求: 67
+固定基底词缀: 0
++82 最大生命
+移动速度提高 30%
+		</Item>
+		<Item id="10">
+			稀 有 度: 传奇
+苦难羁绊
+黑曜护身符
+等级需求: 25
+固定基底词缀: 1
+{range:0.5}+(10-16) 全属性
+{range:0.5}+(10-20)% 火焰抗性
+{range:0.5}+(10-20)% 冰霜抗性
+{range:0.5}+(20-40)% 闪电抗性
+造成的异常状态持续时间缩短 30%
+{range:0.5}闪电伤害击中时有 (5-10)% 几率使敌人受到感电效果影响
+你每使敌人受到一种异常状态，它们受到的伤害便提高 5%
+你的火焰、冰霜、闪电伤害可以造成感电
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="6"/>
+		</Item>
+		<Item id="11">
+			稀 有 度: 传奇
+裂界之印
+合金戒指
+裂界之器
+等级需求: 80
+固定基底词缀: 1
+{range:0.5}攻击速度提高 (8-10)%
+{range:0.5}攻击附加 (26-32) - (42-48) 基础冰霜伤害
+{range:0.5}最大能量护盾提高 (6-10)%
+{range:0.5}最大生命提高 (6-10)%
+{range:0.5}若你的其他戒指中有【塑界之器】，则攻击伤害提高 (60-80)%
+若你的其他戒指中有【裂界之器】，则免疫攻击造成的晕眩
+击败敌人时有 20% 几率触发 20 级的【藤蔓抽击】
+已腐化
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+		</Item>
+		<Item id="12">
+			稀 有 度: 稀有
+New Item
+Two-Stone Ring (Cold/Lightning)
+塑界之器
+工艺: true
+前缀: {range:0.873}IncreasedLife6
+前缀: {range:0.134}WeaponElementalDamage4
+前缀: None
+后缀: None
+后缀: {range:1}CurseOnHitAssassinsMarkUber2
+后缀: None
+品质: 0
+等级需求: 64
+固定基底词缀: 1
+{range:0.5}+(12-16)% 冰霜与闪电抗性
++68 最大生命
+击中敌人时，用 12 级的【暗影印记】诅咒敌人
+攻击技能的元素伤害提高 32%
+			<ModRange range="0.5" id="1"/>
+		</Item>
+		<Item id="13">
+			稀 有 度: 稀有
+New Item
+深渊腰带
+工艺: true
+前缀: {range:0.085}IncreasedLife9
+前缀: {range:0.838}WeaponElementalDamage5
+前缀: None
+后缀: None
+后缀: None
+后缀: None
+品质: 0
+插槽: A
+等级需求: 64
+固定基底词缀: 1
+拥有 1 个深渊插槽
++91 最大生命
+攻击技能的元素伤害提高 41%
+		</Item>
+		<Item id="14">
+			稀 有 度: 稀有
+New Item
+锐利之凝珠宝
+工艺: true
+前缀: {range:1}AbyssJewelAddedLife2
+前缀: None
+后缀: {range:0.5}AbyssCriticalStrikeMultiplierJewel1
+后缀: {range:0.5}AbyssAttackSpeedIfCriticalStrikeDealtRecentlyJewel1
+品质: 0
+等级需求: 28
+固定基底词缀: 0
++11% 攻击和法术暴击伤害加成
++30 最大生命
+近期内你若打出过暴击，则攻击速度提高 7%
+		</Item>
+		<Item id="15">
+			稀 有 度: 稀有
+New Item
+瓦尔法衣
+工艺: true
+前缀: {range:0.947}IncreasedLife11
+前缀: None
+前缀: None
+后缀: None
+后缀: None
+后缀: None
+品质: 20
+插槽: B-B-B-B-B-B
+等级需求: 68
+固定基底词缀: 0
++119 最大生命
+		</Item>
+		<Item id="16">
+			稀 有 度: 传奇
+灰烬之瓮
+真银药剂
+League: 毁灭不朽
+品质: 20
+等级需求: 22
+固定基底词缀: 0
+药剂持续期间，被你点燃的敌人受到的伤害提高 10%
+{range:0.5}在药剂持续期间，击败敌人会补充 (1-3)% 的生命
+{range:0.5}在药剂持续期间，击败敌人会补充 (1-3)% 的魔力
+{range:0.5}在药剂持续期间，击败敌人会补充 (1-3)% 的能量护盾
+【未鉴定词缀】
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+		</Item>
+		<Item id="17">
+			稀 有 度: 稀有
+New Item
+霸者刺盾
+工艺: true
+前缀: {range:0.07}IncreasedLife10
+前缀: {range:0.225}SpellDamageOnWeapon7
+前缀: None
+后缀: {range:0.694}IncreasedAttackSpeed3
+后缀: None
+后缀: None
+品质: 20
+插槽: G-G-G
+等级需求: 70
+固定基底词缀: 1
+4% 几率躲避法术击中
+法术伤害提高 88%
+攻击速度提高 12%
++101 最大生命
+		</Item>
+		<Item variant="4" id="18">
+			稀 有 度: 传奇
+邪眼之冠
+灵主之环
+版本: 3.5.0以前
+版本: 3.7.0以前
+版本: 3.10.0以前
+版本: 当前
+Selected Variant: 4
+品质: 20
+插槽: B-B-B-B
+等级需求: 69
+固定基底词缀: 0
+{variant:1,2}{range:0.5}+(200-250) 命中值
+{variant:3,4}{range:0.5}+(300-350) 命中值
+{range:0.5}该装备的能量护盾提高 (120-150)%
+-30% 火焰抗性
+{variant:1}{range:0.5}物理攻击伤害的 (0.4-0.8)% 会转化为生命偷取
+{variant:1}{range:0.5}物理攻击伤害的 (0.2-0.4)% 转化为魔力偷取
+{variant:2,3,4}{range:0.5}攻击伤害的 (0.4-0.8)% 会转化为生命偷取
+{variant:2,3,4}{range:0.5}攻击伤害的 (0.2-0.4)% 转化为魔力偷取
+{variant:1,2,3}对法术伤害的增幅与减益也会套用于攻击上
+{variant:4}对法术伤害的增幅与减益也套用于攻击，等于其数值的 150%
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+			<ModRange range="0.5" id="8"/>
+		</Item>
+		<Item variant="4" id="19">
+			稀 有 度: 传奇
+骤雨之弦
+短弓
+版本: 2.6.0以前
+版本: 3.5.0以前
+版本: 3.9.0以前
+版本: 当前
+Selected Variant: 4
+品质: 20
+插槽: G-G-G-G-G-G
+等级需求: 5
+固定基底词缀: 0
+{range:0.5}+(10-20) 敏捷
+{variant:2}物理伤害提高 100%
+攻击速度提高 100%
+{range:0.5}+(25-50) 命中值
+{range:0.805}投射物速度提高 (50-100)%
+{variant:1}武器总伤害额外降低 50%
+{variant:2}武器总伤害额外降低 40%
+{variant:3}总伤害额外降低 40%
+{variant:4}总伤害额外降低 30%
+{variant:2}攻击击中每个敌人会回复 +2 魔力
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.805" id="5"/>
+		</Item>
+		<Slot name="Gloves" itemId="3"/>
+		<Slot name="Belt" itemId="13"/>
+		<Slot active="true" name="Flask 1" itemId="16"/>
+		<Slot name="Amulet" itemId="10"/>
+		<Slot name="Boots" itemId="9"/>
+		<Slot name="Belt Abyssal Socket 1" itemId="14"/>
+		<Slot name="Weapon 2" itemId="17"/>
+		<Slot name="Body Armour" itemId="15"/>
+		<Slot name="Ring 2" itemId="12"/>
+		<Slot name="Ring 1" itemId="11"/>
+		<Slot name="Weapon 1" itemId="7"/>
+		<ItemSet useSecondWeaponSet="false" id="1">
+			<Slot name="Gloves" itemId="3"/>
+			<Slot name="Weapon 2Swap Abyssal Socket 2" itemId="0"/>
+			<Slot name="Belt Abyssal Socket 2" itemId="0"/>
+			<Slot name="Flask 3" itemId="0"/>
+			<Slot name="Weapon 2Swap Abyssal Socket 1" itemId="0"/>
+			<Slot name="Helmet Abyssal Socket 1" itemId="0"/>
+			<Slot name="Helmet Abyssal Socket 2" itemId="0"/>
+			<Slot name="Weapon 1 Abyssal Socket 1" itemId="0"/>
+			<Slot name="Belt" itemId="13"/>
+			<Slot name="Weapon 1 Abyssal Socket 2" itemId="0"/>
+			<Slot name="Weapon 2 Abyssal Socket 2" itemId="0"/>
+			<Slot name="Boots Abyssal Socket 2" itemId="0"/>
+			<Slot name="Flask 4" itemId="0"/>
+			<Slot name="Gloves Abyssal Socket 1" itemId="0"/>
+			<Slot active="true" name="Flask 1" itemId="16"/>
+			<Slot name="Body Armour Abyssal Socket 2" itemId="0"/>
+			<Slot name="Amulet" itemId="10"/>
+			<Slot name="Boots" itemId="9"/>
+			<Slot name="Weapon 2 Abyssal Socket 1" itemId="0"/>
+			<Slot name="Boots Abyssal Socket 1" itemId="0"/>
+			<Slot name="Belt Abyssal Socket 1" itemId="14"/>
+			<Slot name="Flask 2" itemId="0"/>
+			<Slot name="Weapon 1Swap Abyssal Socket 2" itemId="0"/>
+			<Slot name="Weapon 1Swap Abyssal Socket 1" itemId="0"/>
+			<Slot name="Weapon 2" itemId="17"/>
+			<Slot name="Helmet" itemId="0"/>
+			<Slot name="Weapon 2 Swap" itemId="0"/>
+			<Slot name="Body Armour" itemId="15"/>
+			<Slot name="Weapon 1 Swap" itemId="0"/>
+			<Slot name="Ring 2" itemId="12"/>
+			<Slot name="Gloves Abyssal Socket 2" itemId="0"/>
+			<Slot name="Body Armour Abyssal Socket 1" itemId="0"/>
+			<Slot name="Flask 5" itemId="0"/>
+			<Slot name="Ring 1" itemId="11"/>
+			<Slot name="Weapon 1" itemId="7"/>
+		</ItemSet>
+	</Items>
+	<Config>
+		<Input name="buffElusive" boolean="true"/>
+		<Input name="useFrenzyCharges" boolean="true"/>
+		<Input name="conditionEnemyChilled" boolean="true"/>
+		<Input name="conditionCritRecently" boolean="true"/>
+		<Input name="conditionKilledRecently" boolean="true"/>
+		<Input name="skillChainCount" number="0"/>
+		<Input name="baseShockEffect" number="10"/>
+		<Input name="useInspirationCharges" boolean="true"/>
+		<Input name="enemyConditionHitByLightningDamage" boolean="true"/>
+		<Input name="conditionEnemyIgnited" boolean="true"/>
+		<Input name="conditionEnemyShocked" boolean="true"/>
+		<Input name="usePowerCharges" boolean="true"/>
+	</Config>
+</PathOfBuilding>
