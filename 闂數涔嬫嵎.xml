@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
 	<Build level="90" targetVersion="3_0" banditNormal="None" bandit="Alira" banditMerciless="None" className="暗影刺客" ascendClassName="Assassin" mainSocketGroup="1" viewMode="ITEMS" banditCruel="None">
-		<PlayerStat stat="AverageHit" value="600313.29127967"/>
-		<PlayerStat stat="AverageDamage" value="600313.29127967"/>
+		<PlayerStat stat="AverageHit" value="617682.85043875"/>
+		<PlayerStat stat="AverageDamage" value="617682.85043875"/>
 		<PlayerStat stat="Speed" value="0"/>
 		<PlayerStat stat="Speed" value="0"/>
-		<PlayerStat stat="PreEffectiveCritChance" value="50.00135"/>
-		<PlayerStat stat="CritChance" value="75.001349981775"/>
+		<PlayerStat stat="PreEffectiveCritChance" value="47.7128"/>
+		<PlayerStat stat="CritChance" value="72.6604871616"/>
 		<PlayerStat stat="CritMultiplier" value="6.61"/>
 		<PlayerStat stat="HitChance" value="100"/>
 		<PlayerStat stat="TotalDPS" value="0"/>
 		<PlayerStat stat="TotalDot" value="0"/>
-		<PlayerStat stat="WithPoisonAverageDamage" value="600313.29127967"/>
-		<PlayerStat stat="CombinedDPS" value="600313.29127967"/>
+		<PlayerStat stat="WithPoisonAverageDamage" value="617682.85043875"/>
+		<PlayerStat stat="CombinedDPS" value="617682.85043875"/>
 		<PlayerStat stat="Cooldown" value="1"/>
 		<PlayerStat stat="AreaOfEffectRadius" value="45"/>
 		<PlayerStat stat="ManaCost" value="45"/>
-		<PlayerStat stat="Str" value="64"/>
+		<PlayerStat stat="Str" value="99"/>
 		<PlayerStat stat="ReqStr" value="121"/>
 		<PlayerStat stat="Dex" value="73"/>
 		<PlayerStat stat="ReqDex" value="111"/>
-		<PlayerStat stat="Int" value="358"/>
+		<PlayerStat stat="Int" value="338"/>
 		<PlayerStat stat="ReqInt" value="159"/>
 		<PlayerStat stat="Devotion" value="0"/>
-		<PlayerStat stat="Life" value="3695"/>
+		<PlayerStat stat="Life" value="3554"/>
 		<PlayerStat stat="Spec:LifeInc" value="134"/>
-		<PlayerStat stat="LifeUnreserved" value="3695"/>
+		<PlayerStat stat="LifeUnreserved" value="3554"/>
 		<PlayerStat stat="LifeUnreservedPercent" value="100"/>
-		<PlayerStat stat="LifeRegen" value="29.56"/>
+		<PlayerStat stat="LifeRegen" value="28.432"/>
 		<PlayerStat stat="LifeLeechGainPerHit" value="0"/>
-		<PlayerStat stat="Mana" value="926"/>
+		<PlayerStat stat="Mana" value="914"/>
 		<PlayerStat stat="Spec:ManaInc" value="8"/>
-		<PlayerStat stat="ManaUnreserved" value="287"/>
-		<PlayerStat stat="ManaUnreservedPercent" value="30.993520518359"/>
-		<PlayerStat stat="ManaRegen" value="49"/>
+		<PlayerStat stat="ManaUnreserved" value="283"/>
+		<PlayerStat stat="ManaUnreservedPercent" value="30.962800875274"/>
+		<PlayerStat stat="ManaRegen" value="44.3"/>
 		<PlayerStat stat="ManaLeechGainPerHit" value="0"/>
-		<PlayerStat stat="EnergyShield" value="577"/>
+		<PlayerStat stat="EnergyShield" value="452"/>
 		<PlayerStat stat="Spec:EnergyShieldInc" value="25"/>
 		<PlayerStat stat="EnergyShieldRegen" value="0"/>
 		<PlayerStat stat="EnergyShieldLeechGainPerHit" value="0"/>
-		<PlayerStat stat="Evasion" value="1433"/>
+		<PlayerStat stat="Evasion" value="1490"/>
 		<PlayerStat stat="Spec:EvasionInc" value="0"/>
 		<PlayerStat stat="MeleeEvadeChance" value="5"/>
 		<PlayerStat stat="MeleeEvadeChance" value="5"/>
@@ -47,18 +47,18 @@
 		<PlayerStat stat="Armour" value="192"/>
 		<PlayerStat stat="Spec:ArmourInc" value="0"/>
 		<PlayerStat stat="PhysicalDamageReduction" value="2"/>
-		<PlayerStat stat="EffectiveMovementSpeedMod" value="1.47"/>
+		<PlayerStat stat="EffectiveMovementSpeedMod" value="1.32"/>
 		<PlayerStat stat="BlockChance" value="15"/>
 		<PlayerStat stat="SpellBlockChance" value="0"/>
 		<PlayerStat stat="AttackDodgeChance" value="0"/>
 		<PlayerStat stat="SpellDodgeChance" value="0"/>
-		<PlayerStat stat="FireResist" value="30"/>
+		<PlayerStat stat="FireResist" value="-7"/>
 		<PlayerStat stat="ColdResist" value="-6"/>
-		<PlayerStat stat="LightningResist" value="75"/>
+		<PlayerStat stat="LightningResist" value="62"/>
 		<PlayerStat stat="ChaosResist" value="-40"/>
 		<PlayerStat stat="FireResistOverCap" value="0"/>
 		<PlayerStat stat="ColdResistOverCap" value="0"/>
-		<PlayerStat stat="LightningResistOverCap" value="30"/>
+		<PlayerStat stat="LightningResistOverCap" value="0"/>
 		<PlayerStat stat="ChaosResistOverCap" value="0"/>
 		<PlayerStat stat="PowerCharges" value="7"/>
 		<PlayerStat stat="PowerChargesMax" value="7"/>
@@ -69,9 +69,9 @@
 	</Build>
 	<Import/>
 	<Tree activeSpec="1">
-		<Spec ascendClassId="1" nodes="7388,39841,7444,5743,3537,20987,9408,36634,21984,65561,65875,38129,41472,42981,12613,5696,4242,65898,42760,33310,63447,58244,27788,34173,65872,66899,49254,66585,7960,65890,9877,21958,9797,65555,19501,66896,64583,20546,66560,61471,65888,66579,65570,61419,35283,65578,24050,33755,19083,13170,1203,3656,9014,21835,58229,35894,59585,66576,56158,5296,48239,14057,61834,16954,12888,65881,2311,29712,38190,66905,48778,34882,21033,1822,32710,40362,11334,65893,53213,6064,14936,41263,17735,18769,12783,9386,39648,26270,65552,61653,44184,13009,20528,36678,58218,28754,25058,4502,15549,60648,13885,64210,12850,21264,65568,21330,25411,44683,7112,17821,65894,49605,10763,9261,15117,52502,55686,22618,25260,4367,53802,60398,37671" treeVersion="3_10" classId="6">
+		<Spec ascendClassId="1" nodes="7388,39841,7444,5743,3537,20987,9408,36634,21984,35283,44184,13885,38129,41472,42981,48239,5696,4242,60398,61653,33310,63447,58244,27788,34173,65872,65561,49254,29712,7960,12613,9877,21958,9797,65898,19501,66576,59585,20546,13170,61471,65888,65578,65570,61419,41263,66579,66560,64583,19083,66896,1203,3656,9014,21835,58229,35894,65555,65890,56158,5296,66585,39648,61834,16954,66899,65881,2311,65875,38190,66905,48778,34882,21033,1822,32710,26270,42760,65893,53213,53802,33755,6064,25260,22618,12783,9386,55686,52502,65552,13009,49605,20528,17821,28754,58218,25058,4502,60648,15549,21264,12850,64210,65568,21330,25411,44683,7112,36678,65894,18769,17735,9261,15117,14057,21301,12888,40362,4367,14936,11334,37671" treeVersion="3_10" classId="6">
 			<URL>
-				https://poe.game.qq.com/passive-skill-tree/AAAABAYBABzcm6EdFBZvDdFR-yTAjxpV4JTxogCn5TFFFkAQkqcIgh731-OEbIyFfcBmHxgmlVXGJkVMLfxHUELwH-_ridNd8oPbSoszcgSzDkgjNlVLjDbowdteFLC8bzbp8YpCOjJYCQd0EJUuvoqIQlIpBx5_xp2qLEbP3RewOlihL0VHSVEx7ySqmuBmnvDVrJgy0VAwj0bjanBSYeIRljy97Og2PfrSMjJTEFNSY0MbyEWdwcUqCyQtOw3NFtmGWFpirBEP0irr7pMn
+				https://poe.game.qq.com/passive-skill-tree/AAAABAYBABzcm6EdFBZvDdFR-yTAjxpV4InTrJg2PZTxogCn5bxvFkAQkuvu8NWCHvfX44RsjIV9wGZ0EB8YMUUmlVXGJkVMLejBUEIzcvAf7-uhL_xHSosEsw5IIzZVS4w2214UsJrg8YpCOgkHlS6-iohCUikHHn_GZp6nCM_d0iqD2xewYqxYWjHvJKrZhs0WMtHBxVAwRZ1wUuNqYeIRluzoPL1TEDIy-tJTUmNDG8iPRklRRUckLTsNNulTNTJYnaoRDzpYLEaTJw==
 			</URL>
 			<Sockets>
 				<Socket nodeId="16218" itemId="3"/>
@@ -85,52 +85,52 @@
 				<Socket nodeId="36634" itemId="18"/>
 				<Socket nodeId="34483" itemId="0"/>
 				<Socket nodeId="21984" itemId="9"/>
-				<Socket nodeId="2491" itemId="0"/>
-				<Socket nodeId="33753" itemId="0"/>
-				<Socket nodeId="6230" itemId="0"/>
 				<Socket nodeId="26725" itemId="0"/>
+				<Socket nodeId="33753" itemId="0"/>
+				<Socket nodeId="60735" itemId="0"/>
+				<Socket nodeId="64583" itemId="8"/>
 				<Socket nodeId="55190" itemId="0"/>
-				<Socket nodeId="12613" itemId="18"/>
-				<Socket nodeId="22994" itemId="0"/>
-				<Socket nodeId="33631" itemId="0"/>
-				<Socket nodeId="13170" itemId="8"/>
+				<Socket nodeId="6230" itemId="0"/>
+				<Socket nodeId="7960" itemId="5"/>
+				<Socket nodeId="31683" itemId="0"/>
+				<Socket nodeId="10532" itemId="0"/>
 				<Socket nodeId="46519" itemId="0"/>
 				<Socket nodeId="40400" itemId="0"/>
-				<Socket nodeId="60735" itemId="0"/>
+				<Socket nodeId="61305" itemId="0"/>
 				<Socket nodeId="3109" itemId="0"/>
-				<Socket nodeId="7960" itemId="5"/>
+				<Socket nodeId="49080" itemId="0"/>
 				<Socket nodeId="46393" itemId="0"/>
 				<Socket nodeId="23756" itemId="0"/>
 				<Socket nodeId="59585" itemId="0"/>
-				<Socket nodeId="14993" itemId="0"/>
-				<Socket nodeId="12161" itemId="0"/>
-				<Socket nodeId="9797" itemId="18"/>
 				<Socket nodeId="32763" itemId="0"/>
+				<Socket nodeId="41876" itemId="0"/>
+				<Socket nodeId="9797" itemId="18"/>
+				<Socket nodeId="2491" itemId="0"/>
 				<Socket nodeId="26196" itemId="0"/>
 				<Socket nodeId="29712" itemId="4"/>
 				<Socket nodeId="61288" itemId="0"/>
-				<Socket nodeId="18436" itemId="0"/>
+				<Socket nodeId="46882" itemId="0"/>
 				<Socket nodeId="33989" itemId="0"/>
-				<Socket nodeId="61419" itemId="0"/>
+				<Socket nodeId="54127" itemId="0"/>
 				<Socket nodeId="17219" itemId="0"/>
 				<Socket nodeId="23984" itemId="0"/>
-				<Socket nodeId="61666" itemId="0"/>
-				<Socket nodeId="44169" itemId="0"/>
-				<Socket nodeId="41263" itemId="21"/>
-				<Socket nodeId="28475" itemId="0"/>
 				<Socket nodeId="22748" itemId="0"/>
-				<Socket nodeId="54127" itemId="0"/>
-				<Socket nodeId="46882" itemId="0"/>
+				<Socket nodeId="61419" itemId="0"/>
+				<Socket nodeId="61666" itemId="0"/>
+				<Socket nodeId="28475" itemId="0"/>
+				<Socket nodeId="41263" itemId="21"/>
+				<Socket nodeId="44169" itemId="0"/>
+				<Socket nodeId="18436" itemId="0"/>
 				<Socket nodeId="49684" itemId="0"/>
 				<Socket nodeId="48768" itemId="0"/>
-				<Socket nodeId="41876" itemId="0"/>
-				<Socket nodeId="49080" itemId="0"/>
-				<Socket nodeId="61305" itemId="0"/>
-				<Socket nodeId="10532" itemId="0"/>
-				<Socket nodeId="31683" itemId="0"/>
+				<Socket nodeId="12161" itemId="0"/>
+				<Socket nodeId="22994" itemId="0"/>
+				<Socket nodeId="33631" itemId="0"/>
+				<Socket nodeId="13170" itemId="8"/>
+				<Socket nodeId="12613" itemId="18"/>
 				<Socket nodeId="36931" itemId="0"/>
 				<Socket nodeId="6910" itemId="0"/>
-				<Socket nodeId="64583" itemId="8"/>
+				<Socket nodeId="14993" itemId="0"/>
 			</Sockets>
 		</Spec>
 	</Tree>
@@ -159,6 +159,10 @@
 		<Skill source="Item:15:暴风之语, 海玉护身符" mainActiveSkillCalcs="1" label="" enabled="true" slot="Amulet" mainActiveSkill="1">
 			<Gem enableGlobal2="false" quality="0" level="20" skillId="LightningSpell" enableGlobal1="true" enabled="true" nameSpec="雷霆万钧"/>
 		</Skill>
+		<Skill source="Item:24:地动, 羊皮短靴" mainActiveSkillCalcs="nil" label="" enabled="true" slot="Boots" mainActiveSkill="1">
+			<Gem enableGlobal2="nil" quality="0" level="7" skillId="RepeatingShockwave" enableGlobal1="true" enabled="true" nameSpec=""/>
+		</Skill>
+		<Skill mainActiveSkillCalcs="nil" label="" enabled="true" slot="Boots" mainActiveSkill="nil"/>
 	</Skills>
 	<Calcs>
 		<Input name="misc_buffMode" string="EFFECTIVE"/>
@@ -188,7 +192,7 @@
 		<Section collapsed="false" id="MiscDefences"/>
 	</Calcs>
 	<AboutTab/>
-	<TreeView searchStr="" zoomY="217.56737155921" showHeatMap="false" zoomLevel="4" showStatDifferences="true" zoomX="-35.872492717385"/>
+	<TreeView searchStr="" zoomY="260.199495016" showHeatMap="false" zoomLevel="4" showStatDifferences="true" zoomX="62.428136912245"/>
 	<Items activeItemSet="1" useSecondWeaponSet="false">
 		<Item id="1">
 			稀 有 度: 传奇
@@ -620,11 +624,29 @@ New Item
 +43% 闪电抗性
 移动速度提高 30%
 		</Item>
+		<Item id="24">
+			稀 有 度: 传奇
+地动
+羊皮短靴
+品质: 20
+插槽: G-G-G-G
+等级需求: 12
+固定基底词缀: 0
+{range:0.5}+(20-30) 力量
+移动速度提高 15%
+{range:0.5}火焰伤害击中时有 (6-10)% 几率点燃敌人
+当你击败 1 名点燃敌人，对周围敌人造成相同的点燃效果
+装备时施放 7 级的【艾贝拉斯之怒】
+每 20 点力量可使火焰伤害提高 1%
+燃烧蹄印
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="3"/>
+		</Item>
 		<Slot name="Gloves" itemId="12"/>
 		<Slot name="Belt" itemId="7"/>
 		<Slot name="Flask 1" itemId="1"/>
 		<Slot name="Amulet" itemId="15"/>
-		<Slot name="Boots" itemId="23"/>
+		<Slot name="Boots" itemId="24"/>
 		<Slot name="Weapon 2" itemId="16"/>
 		<Slot name="Helmet" itemId="11"/>
 		<Slot name="Body Armour" itemId="2"/>
@@ -649,7 +671,7 @@ New Item
 			<Slot name="Flask 1" itemId="1"/>
 			<Slot name="Body Armour Abyssal Socket 2" itemId="0"/>
 			<Slot name="Amulet" itemId="15"/>
-			<Slot name="Boots" itemId="23"/>
+			<Slot name="Boots" itemId="24"/>
 			<Slot name="Weapon 2 Abyssal Socket 1" itemId="0"/>
 			<Slot name="Boots Abyssal Socket 1" itemId="0"/>
 			<Slot name="Belt Abyssal Socket 1" itemId="0"/>
@@ -670,18 +692,18 @@ New Item
 		</ItemSet>
 	</Items>
 	<Config>
-		<Input name="conditionEnemyChilled" boolean="true"/>
+		<Input name="playerHasElementalEquilibrium" boolean="true"/>
 		<Input name="enemyIsBoss" string="SHAPER"/>
 		<Input name="physicsRandomElement" string="NONE"/>
-		<Input name="playerHasElementalEquilibrium" boolean="true"/>
 		<Input name="critChanceLucky" boolean="true"/>
+		<Input name="conditionEnemyChilled" boolean="true"/>
+		<Input name="usePowerCharges" boolean="true"/>
+		<Input name="conditionShockedEnemyRecently" boolean="true"/>
+		<Input name="conditionKilledRecently" boolean="true"/>
+		<Input name="baseShockEffect" number="10"/>
 		<Input name="waveOfConvictionExposureType" string="Lightning"/>
 		<Input name="conditionInnervationActive" boolean="true"/>
-		<Input name="conditionKilledRecently" boolean="true"/>
 		<Input name="useInspirationCharges" boolean="true"/>
-		<Input name="baseShockEffect" number="10"/>
-		<Input name="conditionShockedEnemyRecently" boolean="true"/>
-		<Input name="usePowerCharges" boolean="true"/>
 		<Input name="conditionEnemyShocked" boolean="true"/>
 		<Input name="enemyConditionHitByFireDamage" boolean="true"/>
 	</Config>

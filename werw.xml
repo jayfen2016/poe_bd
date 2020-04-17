@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
-	<Build level="90" targetVersion="3_0" banditNormal="None" bandit="Alira" banditMerciless="None" className="暗影刺客" ascendClassName="Assassin" mainSocketGroup="1" viewMode="TREE" banditCruel="None">
-		<PlayerStat stat="AverageDamage" value="274440.17641438"/>
+	<Build level="90" targetVersion="3_0" banditNormal="None" bandit="Alira" banditMerciless="None" className="暗影刺客" ascendClassName="Assassin" mainSocketGroup="1" viewMode="ITEMS" banditCruel="None">
+		<PlayerStat stat="AverageDamage" value="193366.94050428"/>
 		<PlayerStat stat="Speed" value="3.7848"/>
 		<PlayerStat stat="Speed" value="3.7848"/>
-		<PlayerStat stat="PreEffectiveCritChance" value="98.5595"/>
-		<PlayerStat stat="CritChance" value="96.58831"/>
-		<PlayerStat stat="CritMultiplier" value="4.8"/>
+		<PlayerStat stat="PreEffectiveCritChance" value="87.92888"/>
+		<PlayerStat stat="CritChance" value="96.572023007067"/>
+		<PlayerStat stat="CritMultiplier" value="4.36"/>
 		<PlayerStat stat="HitChance" value="98"/>
-		<PlayerStat stat="TotalDPS" value="1038701.1796931"/>
+		<PlayerStat stat="TotalDPS" value="731855.1964206"/>
 		<PlayerStat stat="TotalDot" value="0"/>
-		<PlayerStat stat="WithPoisonDPS" value="1038701.1796931"/>
-		<PlayerStat stat="CombinedDPS" value="1038701.1796931"/>
+		<PlayerStat stat="WithPoisonDPS" value="731855.1964206"/>
+		<PlayerStat stat="CombinedDPS" value="731855.1964206"/>
 		<PlayerStat stat="ManaCost" value="30"/>
-		<PlayerStat stat="Str" value="137"/>
+		<PlayerStat stat="Str" value="124"/>
 		<PlayerStat stat="ReqStr" value="70"/>
-		<PlayerStat stat="Dex" value="56"/>
+		<PlayerStat stat="Dex" value="43"/>
 		<PlayerStat stat="ReqDex" value="155"/>
-		<PlayerStat stat="Int" value="376"/>
+		<PlayerStat stat="Int" value="363"/>
 		<PlayerStat stat="ReqInt" value="212"/>
 		<PlayerStat stat="Devotion" value="0"/>
-		<PlayerStat stat="Life" value="4131"/>
+		<PlayerStat stat="Life" value="4116"/>
 		<PlayerStat stat="Spec:LifeInc" value="134"/>
-		<PlayerStat stat="LifeUnreserved" value="4131"/>
+		<PlayerStat stat="LifeUnreserved" value="4116"/>
 		<PlayerStat stat="LifeUnreservedPercent" value="100"/>
-		<PlayerStat stat="LifeRegen" value="33.048"/>
+		<PlayerStat stat="LifeRegen" value="32.928"/>
 		<PlayerStat stat="LifeLeechGainRate" value="0"/>
-		<PlayerStat stat="Mana" value="823"/>
+		<PlayerStat stat="Mana" value="816"/>
 		<PlayerStat stat="Spec:ManaInc" value="8"/>
-		<PlayerStat stat="ManaUnreserved" value="266"/>
-		<PlayerStat stat="ManaUnreservedPercent" value="32.32077764277"/>
-		<PlayerStat stat="ManaRegen" value="36.5"/>
+		<PlayerStat stat="ManaUnreserved" value="262"/>
+		<PlayerStat stat="ManaUnreservedPercent" value="32.107843137255"/>
+		<PlayerStat stat="ManaRegen" value="36.2"/>
 		<PlayerStat stat="ManaLeechGainRate" value="0"/>
-		<PlayerStat stat="EnergyShield" value="672"/>
+		<PlayerStat stat="EnergyShield" value="665"/>
 		<PlayerStat stat="Spec:EnergyShieldInc" value="25"/>
 		<PlayerStat stat="EnergyShieldRegen" value="0"/>
 		<PlayerStat stat="EnergyShieldLeechGainRate" value="0"/>
-		<PlayerStat stat="Evasion" value="1093"/>
+		<PlayerStat stat="Evasion" value="1074"/>
 		<PlayerStat stat="Spec:EvasionInc" value="0"/>
 		<PlayerStat stat="MeleeEvadeChance" value="1"/>
 		<PlayerStat stat="MeleeEvadeChance" value="1"/>
@@ -66,9 +66,9 @@
 	</Build>
 	<Import/>
 	<Tree activeSpec="1">
-		<Spec ascendClassId="1" nodes="7388,39841,43215,39521,42686,56066,52502,23027,55686,21984,37999,65552,38129,5823,65561,48878,5696,4242,10031,61653,41635,63447,65875,65555,12888,65872,52031,49254,39085,7960,22972,9877,21958,65536,4036,19501,16218,12536,30693,1822,61471,11334,21575,27879,61419,15549,62217,22618,33310,19083,52848,1203,41876,17821,21835,58229,35894,35283,39648,56158,5296,47251,14057,20987,16954,49605,65881,16243,5743,38190,13164,21330,34882,21033,44184,32710,26270,15064,6712,33435,28782,14936,33755,47306,7444,12783,48239,9386,34173,51146,26196,29199,58218,36949,20528,25058,28754,4502,64210,36678,41251,55993,29061,12850,51524,63944,15228,20844,44683,58453,41476,18769,6064,36634,9261,15117,10490,21301,42760,20546,4367,41472,60398,37671" treeVersion="3_10" classId="6">
+		<Spec ascendClassId="1" nodes="7388,39841,43215,39521,27879,56066,52502,23027,55686,21984,37999,21575,38129,5823,63447,48878,5696,4242,65552,61653,41635,41476,65561,65875,12888,65872,52031,49605,39085,7960,65555,9877,21958,65536,4036,19501,16218,47251,30693,17821,61471,11334,22972,49254,61419,6064,36634,39648,10031,13164,52848,1203,41876,41472,21835,58229,35894,35283,15549,56158,5296,19083,18769,33310,16954,22618,65881,16243,20987,38190,44184,21330,34882,21033,20844,32710,26270,33755,6712,33435,28782,14936,7444,47306,15064,12783,48239,9386,34173,51146,26196,29199,25058,36949,36678,4502,28754,64210,58218,20528,41251,55993,29061,12850,51524,63944,15228,1822,44683,58453,5743,12536,20546,42760,9261,15117,10490,21301,62217,42686,4367,14057,60398,37671" treeVersion="3_10" classId="6">
 			<URL>
-				https://poe.game.qq.com/passive-skill-tree/AAAABAYBABzcm6Goz5phpr7bAs0WWfPZhlXglG-U8Ra_vu4WQBCSJy_w1aKj99cyWMs_wGaYrR8YWbwmlVXGD8RMLT9aMPh35Qce8B8sRlRHbOfv6zy98wlYWoIeSovOcASzo5RFnVVLjDaJ05rg214UsLiTNulR-0I6wcU_cxZvlS4zbFNSiEJSKayYf8ZmnjrYGjiCm3BuOliD27jKHRQx77xvJKqFfcfKZlRyD-NqkFVQMGHicFIRlvrSj0ahI9q5cYUyMslE-cg7fFFs5FWiBElRF7CPGiQtOw0o-lM1pwhQQhEPogDr7pMn
+				https://poe.game.qq.com/passive-skill-tree/AAAABAYBABzcm6Goz5phbOfbAs0WWfPZhlXglG9UR5TxFr_3177uFkAQkvDVoqOiBDJYyz_BxZitHxgmlVXGD8RMLT9auJN35UWd8B8sRlm8wGbv6xewjxqa4CcvM2zOcASzo5SiAFVLjDaJ0zy9214UsEqLSVGCHkI6WFo_c1H7lS6smFNSiEJSKVFsf8ZmnoPbGjiCm3BuOlgdFLjKOtgx77xvJKqFfcfKZlRyD2HikFWPRhGWcFL60uNqUDChI9q5cYUyMslE-cg7fAce5FUWbzD4UEKnCCQtOw0o-lM18wmmvhEPNunr7pMn
 			</URL>
 			<Sockets>
 				<Socket nodeId="16218" itemId="8"/>
@@ -80,54 +80,54 @@
 				<Socket nodeId="2311" itemId="0"/>
 				<Socket nodeId="9408" itemId="0"/>
 				<Socket nodeId="36634" itemId="0"/>
-				<Socket nodeId="61305" itemId="0"/>
-				<Socket nodeId="21984" itemId="5"/>
-				<Socket nodeId="2491" itemId="0"/>
-				<Socket nodeId="33753" itemId="0"/>
-				<Socket nodeId="6230" itemId="0"/>
 				<Socket nodeId="34483" itemId="0"/>
+				<Socket nodeId="21984" itemId="5"/>
+				<Socket nodeId="26725" itemId="0"/>
+				<Socket nodeId="33753" itemId="0"/>
+				<Socket nodeId="60735" itemId="0"/>
+				<Socket nodeId="64583" itemId="0"/>
 				<Socket nodeId="55190" itemId="0"/>
-				<Socket nodeId="12613" itemId="0"/>
-				<Socket nodeId="10532" itemId="0"/>
-				<Socket nodeId="22994" itemId="0"/>
+				<Socket nodeId="6230" itemId="0"/>
+				<Socket nodeId="7960" itemId="5"/>
 				<Socket nodeId="31683" itemId="0"/>
+				<Socket nodeId="10532" itemId="0"/>
 				<Socket nodeId="46519" itemId="0"/>
 				<Socket nodeId="40400" itemId="0"/>
-				<Socket nodeId="41263" itemId="0"/>
+				<Socket nodeId="61305" itemId="0"/>
 				<Socket nodeId="3109" itemId="0"/>
-				<Socket nodeId="64583" itemId="0"/>
+				<Socket nodeId="49080" itemId="0"/>
 				<Socket nodeId="46393" itemId="0"/>
 				<Socket nodeId="23756" itemId="0"/>
 				<Socket nodeId="59585" itemId="0"/>
-				<Socket nodeId="14993" itemId="0"/>
+				<Socket nodeId="32763" itemId="0"/>
 				<Socket nodeId="41876" itemId="0"/>
 				<Socket nodeId="9797" itemId="0"/>
-				<Socket nodeId="61288" itemId="0"/>
+				<Socket nodeId="2491" itemId="0"/>
 				<Socket nodeId="26196" itemId="0"/>
-				<Socket nodeId="23984" itemId="0"/>
-				<Socket nodeId="49080" itemId="0"/>
-				<Socket nodeId="32763" itemId="0"/>
-				<Socket nodeId="33989" itemId="0"/>
 				<Socket nodeId="29712" itemId="0"/>
-				<Socket nodeId="17219" itemId="0"/>
+				<Socket nodeId="61288" itemId="0"/>
 				<Socket nodeId="46882" itemId="0"/>
+				<Socket nodeId="33989" itemId="0"/>
 				<Socket nodeId="54127" itemId="0"/>
-				<Socket nodeId="44169" itemId="0"/>
+				<Socket nodeId="17219" itemId="0"/>
+				<Socket nodeId="23984" itemId="0"/>
 				<Socket nodeId="22748" itemId="0"/>
-				<Socket nodeId="28475" itemId="0"/>
-				<Socket nodeId="61666" itemId="0"/>
 				<Socket nodeId="61419" itemId="6"/>
+				<Socket nodeId="61666" itemId="0"/>
+				<Socket nodeId="28475" itemId="0"/>
+				<Socket nodeId="41263" itemId="0"/>
+				<Socket nodeId="44169" itemId="0"/>
 				<Socket nodeId="18436" itemId="0"/>
 				<Socket nodeId="49684" itemId="0"/>
 				<Socket nodeId="48768" itemId="0"/>
 				<Socket nodeId="12161" itemId="0"/>
-				<Socket nodeId="7960" itemId="5"/>
-				<Socket nodeId="60735" itemId="0"/>
-				<Socket nodeId="13170" itemId="0"/>
+				<Socket nodeId="22994" itemId="0"/>
 				<Socket nodeId="33631" itemId="0"/>
+				<Socket nodeId="13170" itemId="0"/>
+				<Socket nodeId="12613" itemId="0"/>
 				<Socket nodeId="36931" itemId="0"/>
 				<Socket nodeId="6910" itemId="0"/>
-				<Socket nodeId="26725" itemId="0"/>
+				<Socket nodeId="14993" itemId="0"/>
 			</Sockets>
 		</Spec>
 	</Tree>
@@ -142,7 +142,6 @@
 			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemReducedMana" skillId="SupportReducedMana" enableGlobal1="true" enabled="true" nameSpec="启迪（辅）"/>
 			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemGreaterMultipleProjectiles" skillId="SupportGreaterMultipleProjectiles" enableGlobal1="true" enabled="true" nameSpec="高阶多重投射(辅)"/>
 			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemDamageAgainstChilled" skillId="SupportDamageAgainstChilled" enableGlobal1="true" enabled="true" nameSpec="急冻(辅)"/>
-			<Gem enableGlobal2="nil" quality="0" level="20" gemId="Metadata/Items/Gems/SupportGemBarrage" skillId="SupportBarrage" enableGlobal1="true" enabled="false" nameSpec="弹幕（辅）"/>
 		</Skill>
 		<Skill mainActiveSkillCalcs="1" label="" enabled="true" mainActiveSkill="1">
 			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemPrecision" skillId="AccuracyAndCritsAura" enableGlobal1="true" enabled="true" nameSpec="精准"/>
@@ -150,15 +149,17 @@
 			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SupportGemInfernalLegion" skillId="SupportBurningMinions" enableGlobal1="true" enabled="true" nameSpec="炎军（辅）"/>
 		</Skill>
 		<Skill mainActiveSkillCalcs="1" label="" enabled="true" mainActiveSkill="1">
-			<Gem enableGlobal2="nil" skillMinionSkillCalcs="1" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemSummonIceGolem" skillId="SummonIceGolem" skillMinionSkill="1" enableGlobal1="true" enabled="true" nameSpec="召唤寒冰魔像" skillMinion="SummonedIceGolem"/>
+			<Gem enableGlobal2="false" skillMinionSkillCalcs="1" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemSummonIceGolem" skillId="SummonIceGolem" skillMinionSkill="1" enableGlobal1="true" enabled="true" nameSpec="召唤寒冰魔像" skillMinion="SummonedIceGolem"/>
 		</Skill>
-		<Skill source="Item:11:裂界之印, 合金戒指" mainActiveSkillCalcs="nil" label="" enabled="true" slot="Ring 1" mainActiveSkill="nil">
-			<Gem enableGlobal2="nil" quality="0" level="20" enableGlobal1="true" enabled="true" nameSpec=""/>
+		<Skill source="Item:11:裂界之印, 合金戒指" mainActiveSkillCalcs="1" label="" enabled="true" slot="Ring 1" mainActiveSkill="1">
+			<Gem enableGlobal2="false" quality="0" level="20" enableGlobal1="true" enabled="true" nameSpec=""/>
 		</Skill>
-		<Skill source="Item:12:New Item, Two-Stone Ring" mainActiveSkillCalcs="nil" label="" enabled="true" slot="Ring 2" mainActiveSkill="nil">
-			<Gem enableGlobal2="nil" quality="0" level="12" skillId="AssassinsMark" enableGlobal1="true" enabled="true" nameSpec=""/>
+		<Skill source="Item:12:New Item, Two-Stone Ring" mainActiveSkillCalcs="1" label="" enabled="true" slot="Ring 2" mainActiveSkill="1">
+			<Gem enableGlobal2="false" quality="0" level="12" gemId="Metadata/Items/Gems/SkillGemCriticalWeakness" skillId="AssassinsMark" enableGlobal1="true" enabled="true" nameSpec="暗影印记"/>
 		</Skill>
-		<Skill mainActiveSkillCalcs="nil" label="" enabled="true" mainActiveSkill="nil"/>
+		<Skill mainActiveSkillCalcs="1" label="" enabled="true" mainActiveSkill="1">
+			<Gem enableGlobal2="nil" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemProjectileWeakness" skillId="ProjectileWeakness" enableGlobal1="true" enabled="true" nameSpec="投射物要害"/>
+		</Skill>
 	</Skills>
 	<Calcs>
 		<Input name="misc_buffMode" string="EFFECTIVE"/>
@@ -188,7 +189,7 @@
 		<Section collapsed="false" id="MiscDefences"/>
 	</Calcs>
 	<AboutTab/>
-	<TreeView searchStr="" zoomY="336.33061387175" showHeatMap="false" zoomLevel="5" showStatDifferences="true" zoomX="-14.44990264632"/>
+	<TreeView searchStr="" zoomY="128.38909288409" showHeatMap="false" zoomLevel="5" showStatDifferences="true" zoomX="-75.277855732741"/>
 	<Items activeItemSet="1" useSecondWeaponSet="false">
 		<Item id="1">
 			稀 有 度: 传奇
@@ -369,7 +370,7 @@ New Item
 黑曜护身符
 等级需求: 25
 固定基底词缀: 1
-{range:0.5}+(10-16) 全属性
+可以对敌人施放 1 个额外诅咒
 {range:0.5}+(10-20)% 火焰抗性
 {range:0.5}+(10-20)% 冰霜抗性
 {range:0.5}+(20-40)% 闪电抗性
@@ -377,7 +378,7 @@ New Item
 {range:0.5}闪电伤害击中时有 (5-10)% 几率使敌人受到感电效果影响
 你每使敌人受到一种异常状态，它们受到的伤害便提高 5%
 你的火焰、冰霜、闪电伤害可以造成感电
-			<ModRange range="0.5" id="1"/>
+已腐化
 			<ModRange range="0.5" id="2"/>
 			<ModRange range="0.5" id="3"/>
 			<ModRange range="0.5" id="4"/>
@@ -481,7 +482,6 @@ New Item
 			稀 有 度: 传奇
 灰烬之瓮
 真银药剂
-League: 毁灭不朽
 品质: 20
 等级需求: 22
 固定基底词缀: 0
@@ -528,7 +528,7 @@ Selected Variant: 4
 等级需求: 69
 固定基底词缀: 0
 {variant:1,2}{range:0.5}+(200-250) 命中值
-{variant:3,4}{range:0.5}+(300-350) 命中值
+{variant:4,3}{range:0.5}+(300-350) 命中值
 {range:0.5}该装备的能量护盾提高 (120-150)%
 -30% 火焰抗性
 {variant:1}{range:0.5}物理攻击伤害的 (0.4-0.8)% 会转化为生命偷取
@@ -625,14 +625,16 @@ Selected Variant: 4
 		<Input name="buffElusive" boolean="true"/>
 		<Input name="useFrenzyCharges" boolean="true"/>
 		<Input name="conditionEnemyChilled" boolean="true"/>
-		<Input name="conditionCritRecently" boolean="true"/>
-		<Input name="conditionKilledRecently" boolean="true"/>
-		<Input name="skillChainCount" number="0"/>
-		<Input name="baseShockEffect" number="10"/>
+		<Input name="enemyIsBoss" string="SHAPER"/>
+		<Input name="critChanceLucky" boolean="true"/>
 		<Input name="useInspirationCharges" boolean="true"/>
-		<Input name="enemyConditionHitByLightningDamage" boolean="true"/>
-		<Input name="conditionEnemyIgnited" boolean="true"/>
-		<Input name="conditionEnemyShocked" boolean="true"/>
 		<Input name="usePowerCharges" boolean="true"/>
+		<Input name="skillChainCount" number="0"/>
+		<Input name="conditionCritRecently" boolean="true"/>
+		<Input name="baseShockEffect" number="10"/>
+		<Input name="conditionEnemyIgnited" boolean="true"/>
+		<Input name="enemyConditionHitByLightningDamage" boolean="true"/>
+		<Input name="conditionEnemyShocked" boolean="true"/>
+		<Input name="conditionKilledRecently" boolean="true"/>
 	</Config>
 </PathOfBuilding>

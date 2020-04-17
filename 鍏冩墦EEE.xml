@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
 	<Build level="90" targetVersion="3_0" banditNormal="None" bandit="Alira" banditMerciless="None" className="贵族" ascendClassName="Ascendant" mainSocketGroup="1" viewMode="SKILLS" banditCruel="None">
-		<PlayerStat stat="AverageDamage" value="287141.66033445"/>
+		<PlayerStat stat="AverageDamage" value="334030.34722577"/>
 		<PlayerStat stat="Speed" value="4.176"/>
 		<PlayerStat stat="Speed" value="4.176"/>
 		<PlayerStat stat="PreEffectiveCritChance" value="34.126583"/>
 		<PlayerStat stat="CritChance" value="56.606929327441"/>
 		<PlayerStat stat="CritMultiplier" value="5.5"/>
 		<PlayerStat stat="HitChance" value="100"/>
-		<PlayerStat stat="TotalDPS" value="1199103.5735567"/>
+		<PlayerStat stat="TotalDPS" value="1394910.7300148"/>
 		<PlayerStat stat="TotalDot" value="0"/>
-		<PlayerStat stat="WithPoisonDPS" value="1199103.5735567"/>
-		<PlayerStat stat="CombinedDPS" value="1199103.5735567"/>
+		<PlayerStat stat="WithPoisonDPS" value="1394910.7300148"/>
+		<PlayerStat stat="CombinedDPS" value="1394910.7300148"/>
 		<PlayerStat stat="ManaCost" value="25"/>
 		<PlayerStat stat="Str" value="188"/>
 		<PlayerStat stat="ReqStr" value="111"/>
@@ -68,9 +68,9 @@
 	</Build>
 	<Import/>
 	<Tree activeSpec="1">
-		<Spec ascendClassId="1" nodes="7388,23471,10829,9327,36281,40132,36634,46578,41119,36704,1325,49254,39085,35754,33508,9171,14151,47251,30693,48828,1203,20807,32514,9206,39648,48807,56744,18302,23912,17821,56589,6712,33435,26528,11859,10808,13009,36949,32555,16167,19320,60002,58833,35503,30455,9469,58453,12401,12948,65502,10490,57429,60398,31471,22266,49178,34483,36221,41534,58271,41472,42178,14292,43962,13714,8930,2185,28330,22551,65616,30969,15435,17201,19144,12536,48438,61471,59220,19858,38149,12161,63965,55485,42041,14804,56001,5408,49532,12412,36222,34678,60735,39530,30733,36881,28475,18402,65600,65625,25933,10031,47030,36287,20010,12794,54127,30155,11497,54877,51881,14914,46882,38689,19711,64878,21330,54307,32477,15064,30679,31683,58854,17735,5237,29933,55750,27564,49459,238,39665,31598,19069,65619" treeVersion="3_10" classId="0">
+		<Spec ascendClassId="1" nodes="7388,23471,10829,9327,36281,40132,36634,11497,41119,36704,1325,49254,39085,35754,33508,9171,32477,47251,30693,48828,1203,20807,29933,9206,39648,48807,56744,18302,23912,17821,56589,58854,33435,26528,11859,10808,13009,36949,32555,28475,19320,60002,58833,35503,46882,9469,51881,12401,12948,65502,10490,57429,60398,25933,22266,49178,34483,36221,41534,58271,54127,42178,14292,43962,13714,8930,2185,28330,22551,65616,30969,15435,39665,19144,12536,48438,61471,59220,19858,27564,12161,63965,55485,42041,14804,56001,5408,49532,12412,36222,34678,31683,39530,65625,15064,65619,18402,65600,31471,41472,5237,32514,58453,6712,30455,30155,12794,16167,54877,60735,64878,17201,38689,19711,36881,21330,54307,38149,14914,30679,10031,20010,17735,46578,36287,30733,14151,49459,238,47030,31598,19069,55750" treeVersion="3_10" classId="0">
 			<URL>
-				https://poe.game.qq.com/passive-skill-tree/AAAABAABABzcW68qTSRvjbmcxI8atfKgn49gBS3AZpitguQj0zdHuJN35b68BLNRR38CI_aa4L6n3ahHfl1oRZ3dDRo4gptnoC5TKjgy0ZBVfys_J0t46mKKr3b3JP3kVTBxMpT_3ij64FXr7nrvVvrAGoazjX2iPuOfogCkwjfUq7o1kiLiCIluqlgXePk8S0MxSsgw-L028B_nVE2SlQUvgfnd2L2kOTnU2sEVIMF8MHyNfod27T-aangNkBFvO0fiZU0nL7e2jb9OKjH60291yyzp1l3KqTpCtyKXIUz__W5TUtQjft062HfXe8Pl5kVHFHV07dnGa6zBMwDumvF7bkp9
+				https://poe.game.qq.com/passive-skill-tree/AAAABAABABzcW68qTSRvjbmcxI8aLOmgn49gBS3AZpitguQj037duJN35b68BLNRR3TtI_aa4L6n3ahHfl1oRZ3dDeXmgptnoC5TKjgy0ZBVfytvO0t46mKKr7ciJP3KqTBxMpT_3ij64FXr7mVNVvrAGoazjX2iPuOf02-kwjfUq7o1kiLiCIluqlgXePk8S5rxSsgw-L028B_nVE2Sa6wvgfnd2L2kOTnU2sEVIMF8MHyNfod2e8OaajrYR-J676IAFHV_AuRVGjh293XLMfo_J9Zd7T_9bkMxlyFM_5ARU1LUI5UFOkJ31ycvTipFR7Xyjb94DTdHwTMA7re2e25KfdnG
 			</URL>
 			<Sockets>
 				<Socket nodeId="16218" itemId="0"/>
@@ -82,54 +82,54 @@
 				<Socket nodeId="2311" itemId="0"/>
 				<Socket nodeId="9408" itemId="0"/>
 				<Socket nodeId="36634" itemId="10"/>
-				<Socket nodeId="34483" itemId="10"/>
+				<Socket nodeId="29712" itemId="0"/>
 				<Socket nodeId="21984" itemId="0"/>
 				<Socket nodeId="2491" itemId="0"/>
 				<Socket nodeId="33753" itemId="0"/>
 				<Socket nodeId="60735" itemId="19"/>
-				<Socket nodeId="14993" itemId="0"/>
+				<Socket nodeId="32763" itemId="0"/>
 				<Socket nodeId="55190" itemId="0"/>
-				<Socket nodeId="26725" itemId="0"/>
 				<Socket nodeId="6230" itemId="0"/>
-				<Socket nodeId="12613" itemId="0"/>
-				<Socket nodeId="13170" itemId="0"/>
+				<Socket nodeId="23756" itemId="0"/>
+				<Socket nodeId="22994" itemId="0"/>
+				<Socket nodeId="31683" itemId="10"/>
 				<Socket nodeId="46519" itemId="0"/>
 				<Socket nodeId="40400" itemId="0"/>
-				<Socket nodeId="33631" itemId="0"/>
+				<Socket nodeId="10532" itemId="0"/>
 				<Socket nodeId="3109" itemId="0"/>
-				<Socket nodeId="22994" itemId="0"/>
+				<Socket nodeId="26725" itemId="0"/>
 				<Socket nodeId="46393" itemId="0"/>
-				<Socket nodeId="23756" itemId="0"/>
+				<Socket nodeId="7960" itemId="0"/>
 				<Socket nodeId="59585" itemId="0"/>
-				<Socket nodeId="32763" itemId="0"/>
-				<Socket nodeId="12161" itemId="1"/>
+				<Socket nodeId="14993" itemId="0"/>
+				<Socket nodeId="41876" itemId="0"/>
 				<Socket nodeId="9797" itemId="0"/>
-				<Socket nodeId="29712" itemId="0"/>
+				<Socket nodeId="61305" itemId="0"/>
 				<Socket nodeId="26196" itemId="0"/>
-				<Socket nodeId="61288" itemId="0"/>
 				<Socket nodeId="49080" itemId="0"/>
-				<Socket nodeId="18436" itemId="0"/>
+				<Socket nodeId="61288" itemId="0"/>
+				<Socket nodeId="54127" itemId="19"/>
 				<Socket nodeId="33989" itemId="0"/>
-				<Socket nodeId="44169" itemId="0"/>
-				<Socket nodeId="17219" itemId="0"/>
 				<Socket nodeId="46882" itemId="18"/>
+				<Socket nodeId="17219" itemId="0"/>
+				<Socket nodeId="23984" itemId="0"/>
 				<Socket nodeId="41263" itemId="0"/>
 				<Socket nodeId="61419" itemId="0"/>
 				<Socket nodeId="22748" itemId="0"/>
 				<Socket nodeId="28475" itemId="19"/>
 				<Socket nodeId="61666" itemId="0"/>
-				<Socket nodeId="23984" itemId="0"/>
-				<Socket nodeId="54127" itemId="19"/>
+				<Socket nodeId="44169" itemId="0"/>
+				<Socket nodeId="18436" itemId="0"/>
 				<Socket nodeId="49684" itemId="0"/>
 				<Socket nodeId="48768" itemId="0"/>
-				<Socket nodeId="41876" itemId="0"/>
+				<Socket nodeId="12161" itemId="1"/>
 				<Socket nodeId="64583" itemId="0"/>
-				<Socket nodeId="7960" itemId="0"/>
-				<Socket nodeId="10532" itemId="0"/>
-				<Socket nodeId="31683" itemId="10"/>
+				<Socket nodeId="33631" itemId="0"/>
+				<Socket nodeId="13170" itemId="0"/>
+				<Socket nodeId="12613" itemId="0"/>
 				<Socket nodeId="36931" itemId="0"/>
 				<Socket nodeId="6910" itemId="0"/>
-				<Socket nodeId="61305" itemId="0"/>
+				<Socket nodeId="34483" itemId="10"/>
 			</Sockets>
 		</Spec>
 	</Tree>
@@ -138,13 +138,14 @@
 	</Notes>
 	<Skills defaultGemQuality="nil" defaultGemLevel="nil" showSupportGemTypes="ALL" sortGemsByDPS="true">
 		<Skill mainActiveSkillCalcs="1" label="" enabled="true" slot="Weapon 1" mainActiveSkill="1">
-			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SkillGemElementalHit" skillId="ElementalHit" skillPart="2" enableGlobal1="true" skillPartCalcs="2" enabled="true" nameSpec="元素打击" skillMinion="SummonedPhantasm"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SkillGemElementalHit" skillId="ElementalHit" skillPart="1" enableGlobal1="true" skillPartCalcs="2" enabled="true" nameSpec="元素打击" skillMinion="SummonedPhantasm"/>
 			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemWeaponElementalDamage" skillId="SupportWeaponElementalDamage" enableGlobal1="true" enabled="true" nameSpec="武器元素伤害(辅)"/>
 			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemElementalFocus" skillId="SupportElementalFocus" enableGlobal1="true" enabled="true" nameSpec="元素集中(辅)"/>
 			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemMirageArcher" skillId="SupportGemMirageArcher" enableGlobal1="true" enabled="true" nameSpec="幻影射手(辅)"/>
 			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemReducedMana" skillId="SupportReducedMana" enableGlobal1="true" enabled="true" nameSpec="启迪（辅）"/>
 			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemDamageAgainstChilled" skillId="SupportDamageAgainstChilled" enableGlobal1="true" enabled="true" nameSpec="急冻(辅)"/>
-			<Gem enableGlobal2="nil" quality="0" level="20" gemId="Metadata/Items/Gems/SupportGemBarrage" skillId="SupportBarrage" enableGlobal1="true" enabled="false" nameSpec="弹幕（辅）"/>
+			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SupportGemBarrage" skillId="SupportBarrage" enableGlobal1="true" enabled="false" nameSpec="弹幕（辅）"/>
+			<Gem enableGlobal2="nil" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemGreaterMultipleProjectiles" skillId="SupportGreaterMultipleProjectiles" enableGlobal1="true" enabled="false" nameSpec="高阶多重投射(辅)"/>
 		</Skill>
 		<Skill mainActiveSkillCalcs="1" label="" enabled="true" mainActiveSkill="1">
 			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemSummonSkitterbots" skillId="Skitterbots" skillPart="1" enableGlobal1="true" enabled="true" nameSpec="召唤飞掠者" skillMinion="SummonedPhantasm"/>
@@ -158,11 +159,11 @@
 			<Gem enableGlobal2="false" quality="0" level="1" gemId="Metadata/Items/Gems/SkillGemBloodRage" skillId="BloodRage" enableGlobal1="true" enabled="true" nameSpec="鲜血狂怒"/>
 			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SupportGemReducedDuration" skillId="SupportReducedDuration" enableGlobal1="true" enabled="true" nameSpec="持续时间缩短(辅)"/>
 			<Gem enableGlobal2="false" skillMinionSkillCalcs="1" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemSummonLightningGolem" skillId="SummonLightningGolem" skillPart="1" skillMinionSkill="1" enableGlobal1="true" enabled="false" nameSpec="召唤闪电魔像" skillMinion="SummonedLightningGolem"/>
-			<Gem enableGlobal2="nil" skillMinionSkillCalcs="1" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemSummonIceGolem" skillId="SummonIceGolem" skillPart="1" skillMinionSkill="1" enableGlobal1="true" enabled="true" nameSpec="召唤寒冰魔像" skillMinion="SummonedIceGolem"/>
+			<Gem enableGlobal2="false" skillMinionSkillCalcs="1" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemSummonIceGolem" skillId="SummonIceGolem" skillPart="1" skillMinionSkill="1" enableGlobal1="true" enabled="true" nameSpec="召唤寒冰魔像" skillMinion="SummonedIceGolem"/>
 		</Skill>
 		<Skill mainActiveSkillCalcs="1" label="" enabled="true" mainActiveSkill="1"/>
-		<Skill source="Item:11:New Item, Two-Stone Ring" mainActiveSkillCalcs="nil" label="" enabled="true" slot="Ring 2" mainActiveSkill="nil">
-			<Gem enableGlobal2="nil" quality="0" level="8" skillId="AssassinsMark" enableGlobal1="true" enabled="true" nameSpec=""/>
+		<Skill source="Item:11:New Item, Two-Stone Ring" mainActiveSkillCalcs="1" label="" enabled="true" slot="Ring 2" mainActiveSkill="1">
+			<Gem enableGlobal2="false" quality="0" level="8" gemId="Metadata/Items/Gems/SkillGemCriticalWeakness" skillId="AssassinsMark" enableGlobal1="true" enabled="true" nameSpec="暗影印记"/>
 		</Skill>
 	</Skills>
 	<Calcs>
@@ -193,7 +194,7 @@
 		<Section collapsed="false" id="MiscDefences"/>
 	</Calcs>
 	<AboutTab/>
-	<TreeView searchStr="" zoomY="-11.152098814015" showHeatMap="false" zoomLevel="4" showStatDifferences="true" zoomX="-277.09265028198"/>
+	<TreeView searchStr="" zoomY="-278.72468665536" showHeatMap="false" zoomLevel="3" showStatDifferences="true" zoomX="-176.15664728129"/>
 	<Items activeItemSet="1" useSecondWeaponSet="false">
 		<Item id="1">
 			稀 有 度: 传奇
@@ -580,12 +581,12 @@ New Item
 		<Input name="critChanceLucky" boolean="true"/>
 		<Input name="multiplierImaplesOnEnemy" number="0"/>
 		<Input name="projectileDistance" number="4"/>
-		<Input name="conditionEnemyIgnited" boolean="true"/>
 		<Input name="conditionEnemyIntimidated" boolean="true"/>
-		<Input name="useFrenzyCharges" boolean="true"/>
+		<Input name="conditionEnemyIgnited" boolean="true"/>
 		<Input name="useInspirationCharges" boolean="true"/>
 		<Input name="enemyConditionHitByLightningDamage" boolean="true"/>
 		<Input name="baseShockEffect" number="10"/>
 		<Input name="conditionEnemyShocked" boolean="true"/>
+		<Input name="useFrenzyCharges" boolean="true"/>
 	</Config>
 </PathOfBuilding>
