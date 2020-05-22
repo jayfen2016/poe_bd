@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PathOfBuilding>
+	<Build level="95" targetVersion="3_0" banditNormal="None" bandit="None" banditMerciless="None" className="决斗者" ascendClassName="Gladiator" mainSocketGroup="1" viewMode="TREE" banditCruel="None">
+		<PlayerStat stat="AverageDamage" value="23144.660169651"/>
+		<PlayerStat stat="Speed" value="3.1396"/>
+		<PlayerStat stat="Speed" value="3.1396"/>
+		<PlayerStat stat="PreEffectiveCritChance" value="11.5"/>
+		<PlayerStat stat="CritChance" value="10.58"/>
+		<PlayerStat stat="CritMultiplier" value="2.04"/>
+		<PlayerStat stat="HitChance" value="92"/>
+		<PlayerStat stat="TotalDPS" value="72664.975068637"/>
+		<PlayerStat stat="TotalDot" value="0"/>
+		<PlayerStat stat="BleedDPS" value="766484.92842946"/>
+		<PlayerStat stat="WithPoisonDPS" value="72664.975068637"/>
+		<PlayerStat stat="CombinedDPS" value="839149.9034981"/>
+		<PlayerStat stat="AreaOfEffectRadius" value="50"/>
+		<PlayerStat stat="ManaCost" value="23"/>
+		<PlayerStat stat="Str" value="247"/>
+		<PlayerStat stat="ReqStr" value="159"/>
+		<PlayerStat stat="Dex" value="152"/>
+		<PlayerStat stat="ReqDex" value="117"/>
+		<PlayerStat stat="Int" value="116"/>
+		<PlayerStat stat="ReqInt" value="111"/>
+		<PlayerStat stat="Devotion" value="0"/>
+		<PlayerStat stat="Life" value="5749"/>
+		<PlayerStat stat="Spec:LifeInc" value="171"/>
+		<PlayerStat stat="LifeUnreserved" value="5749"/>
+		<PlayerStat stat="LifeUnreservedPercent" value="100"/>
+		<PlayerStat stat="LifeRegen" value="264.156"/>
+		<PlayerStat stat="LifeLeechGainRate" value="1149.8"/>
+		<PlayerStat stat="Mana" value="662"/>
+		<PlayerStat stat="Spec:ManaInc" value="0"/>
+		<PlayerStat stat="ManaUnreserved" value="79"/>
+		<PlayerStat stat="ManaUnreservedPercent" value="11.933534743202"/>
+		<PlayerStat stat="ManaRegen" value="11.6"/>
+		<PlayerStat stat="ManaLeechGainRate" value="132.4"/>
+		<PlayerStat stat="EnergyShield" value="109"/>
+		<PlayerStat stat="Spec:EnergyShieldInc" value="0"/>
+		<PlayerStat stat="EnergyShieldRegen" value="0"/>
+		<PlayerStat stat="EnergyShieldLeechGainRate" value="0"/>
+		<PlayerStat stat="Evasion" value="0"/>
+		<PlayerStat stat="Spec:EvasionInc" value="62"/>
+		<PlayerStat stat="MeleeEvadeChance" value="0"/>
+		<PlayerStat stat="MeleeEvadeChance" value="0"/>
+		<PlayerStat stat="ProjectileEvadeChance" value="0"/>
+		<PlayerStat stat="Armour" value="12116"/>
+		<PlayerStat stat="Spec:ArmourInc" value="92"/>
+		<PlayerStat stat="PhysicalDamageReduction" value="50"/>
+		<PlayerStat stat="EffectiveMovementSpeedMod" value="1.3"/>
+		<PlayerStat stat="BlockChance" value="67"/>
+		<PlayerStat stat="SpellBlockChance" value="67"/>
+		<PlayerStat stat="AttackDodgeChance" value="0"/>
+		<PlayerStat stat="SpellDodgeChance" value="0"/>
+		<PlayerStat stat="FireResist" value="76"/>
+		<PlayerStat stat="ColdResist" value="75"/>
+		<PlayerStat stat="LightningResist" value="75"/>
+		<PlayerStat stat="ChaosResist" value="-60"/>
+		<PlayerStat stat="FireResistOverCap" value="4"/>
+		<PlayerStat stat="ColdResistOverCap" value="12"/>
+		<PlayerStat stat="LightningResistOverCap" value="5"/>
+		<PlayerStat stat="ChaosResistOverCap" value="0"/>
+		<PlayerStat stat="PowerCharges" value="0"/>
+		<PlayerStat stat="PowerChargesMax" value="3"/>
+		<PlayerStat stat="FrenzyCharges" value="0"/>
+		<PlayerStat stat="FrenzyChargesMax" value="3"/>
+		<PlayerStat stat="EnduranceCharges" value="0"/>
+		<PlayerStat stat="EnduranceChargesMax" value="3"/>
+	</Build>
+	<Import/>
+	<Tree activeSpec="3">
+		<Spec ascendClassId="2" nodes="22266,2598,65093,5197,7285,487,59861,59766,7082,64587,54354,6289,26725,54127,12236,34031,9262,60887,1568,55649,24377,25324,8544,39725,50986,24538,56359,32730,26294,56509,49415,55676,61198,62363,25367,63422,6741,59718,33287,1675,35663,35568,58271,36047,24383,63048,6718,52213,10851,19858,23199,5152,48438,48287,14056,32482,22217,18302,29933,9206,10661,30380,17818,29937,5233,48807,56001,29856,43684,22285,27864,62108,40135,12412,33082,28311,34678,48813,59866,34009,53118,39786,11859,55166,4656,49538,62042,26528,48760,46730,24865,12720,33179,44922,32555,34130,45227,40653,16544,59151,42800,58449,12247,6108,50306,11364,25933,15616,5237,31033,30679,861,62017,1698,44429,53793,6363,36221,8419,4336,20551,1325,19069,31471" treeVersion="3_8" classId="4">
+			<URL>
+				https://poe.game.qq.com/passive-skill-tree/AAAABAQCAFb6Cib-RRRNHHUB5-nV6XYbqvxL1FIYkWhl028vzITvJC7t1wYg2WFfOWLsIWCbLV_a3Cdmtty9wQfZfO8O85tjF_e-GlXpRoIHBouLT4rw45-Mz18_9kgaPsv1KmNNklqfFCC9NryfNuh-4lbJR3507SP2KaV2rEWadPEUcb6n2sF0oKqkVw1s2PKcnMcwfIE6bpeHdr6t6dqE2c9-m2ouU9d-EjDBgvJaZ6C-eLaKYSExsIGbr3p_K4VSsKuezUCg5w-nMORRL9cX3MSCLGRlTT0AFHV5OXfXA13yQQairY3SIRjbjX0g4xDwUEcFLUp9eu8=
+			</URL>
+			<Sockets>
+				<Socket nodeId="7960" itemId="0"/>
+				<Socket nodeId="61834" itemId="0"/>
+				<Socket nodeId="28475" itemId="0"/>
+				<Socket nodeId="26196" itemId="0"/>
+				<Socket nodeId="36634" itemId="0"/>
+				<Socket nodeId="33989" itemId="0"/>
+				<Socket nodeId="21984" itemId="0"/>
+				<Socket nodeId="46882" itemId="0"/>
+				<Socket nodeId="26725" itemId="2"/>
+				<Socket nodeId="41263" itemId="0"/>
+				<Socket nodeId="31683" itemId="0"/>
+				<Socket nodeId="55190" itemId="0"/>
+				<Socket nodeId="48768" itemId="0"/>
+				<Socket nodeId="61419" itemId="0"/>
+				<Socket nodeId="2491" itemId="0"/>
+				<Socket nodeId="54127" itemId="1"/>
+				<Socket nodeId="60735" itemId="0"/>
+				<Socket nodeId="33631" itemId="0"/>
+				<Socket nodeId="6230" itemId="0"/>
+				<Socket nodeId="34483" itemId="0"/>
+				<Socket nodeId="32763" itemId="0"/>
+			</Sockets>
+		</Spec>
+		<Spec ascendClassId="2" nodes="22266,2598,25933,19069,65093,5197,7285,56359,59861,59766,8419,7082,36221,54354,31033,6289,58271,54127,12236,4336,1325,1675,1568,62363,24377,25324,53793,39725,50986,24538,52213,32730,61198,1159,49415,56509,15616,63048,49343,63422,6741,59718,33287,6363,35663,35568,64587,36047,24383,25367,6718,56001,10851,19858,31471,5152,33082,48287,14056,32482,22217,12247,29933,9206,58449,30380,17818,10661,5233,48807,23199,59151,16544,22285,27864,50306,12878,12412,29937,28311,29856,48813,34678,34009,26528,39786,11859,42800,4656,49538,40135,40653,45227,34130,24865,12720,33179,44922,32555,46730,53118,59866,62042,55166,48760,62108,43684,6108,36761,11364,60887,26725,55649,5237,30679,861,62017,1698,44429,55676,26294,48438,18302,8544,20551,487,9262,34031" treeVersion="3_9" classId="4">
+			<URL>
+				https://poe.game.qq.com/passive-skill-tree/AAAABAQCAFb6CiZlTUp9_kUUTRx13Cfp1el2IOMbqo191FJ5ORiR45_Tby_MEPAFLQaLBiDzm185YuzSIZstX9rL9e8OBIfBB9y9PQD2SMC_974aVelGggcY24tPivD8S4zPXz9jFxo-2sEqY02Seu8UIIE6vJ826H7iVskv13TtI_bkUXasRZoppRRxvqdan-cPQKBXDWzYxIIyTjB8dPFul3Sgvq2HdoTZZ6Cbai5TpzASMMGCnMeezbCrhVJhITGwgZuven8rtorPfuna8lrXfr548pyqpBfcj5ksZO3XaGXZYRR1d9cDXfJBBqKtjdl8Zra9Nkd-IWBQRwHnJC6E7w==
+			</URL>
+			<Sockets>
+				<Socket nodeId="16218" itemId="0"/>
+				<Socket nodeId="11150" itemId="0"/>
+				<Socket nodeId="61834" itemId="0"/>
+				<Socket nodeId="64583" itemId="0"/>
+				<Socket nodeId="22994" itemId="0"/>
+				<Socket nodeId="48679" itemId="0"/>
+				<Socket nodeId="2311" itemId="0"/>
+				<Socket nodeId="9408" itemId="0"/>
+				<Socket nodeId="36634" itemId="0"/>
+				<Socket nodeId="61305" itemId="0"/>
+				<Socket nodeId="21984" itemId="0"/>
+				<Socket nodeId="26725" itemId="2"/>
+				<Socket nodeId="33753" itemId="0"/>
+				<Socket nodeId="18436" itemId="0"/>
+				<Socket nodeId="22748" itemId="0"/>
+				<Socket nodeId="55190" itemId="0"/>
+				<Socket nodeId="13170" itemId="0"/>
+				<Socket nodeId="12613" itemId="0"/>
+				<Socket nodeId="10532" itemId="0"/>
+				<Socket nodeId="54127" itemId="1"/>
+				<Socket nodeId="46519" itemId="0"/>
+				<Socket nodeId="33631" itemId="0"/>
+				<Socket nodeId="49080" itemId="0"/>
+				<Socket nodeId="3109" itemId="0"/>
+				<Socket nodeId="61666" itemId="0"/>
+				<Socket nodeId="46393" itemId="0"/>
+				<Socket nodeId="7960" itemId="0"/>
+				<Socket nodeId="59585" itemId="0"/>
+				<Socket nodeId="32763" itemId="0"/>
+				<Socket nodeId="40400" itemId="0"/>
+				<Socket nodeId="28475" itemId="0"/>
+				<Socket nodeId="24970" itemId="0"/>
+				<Socket nodeId="26196" itemId="0"/>
+				<Socket nodeId="29712" itemId="0"/>
+				<Socket nodeId="61288" itemId="0"/>
+				<Socket nodeId="51198" itemId="0"/>
+				<Socket nodeId="33989" itemId="0"/>
+				<Socket nodeId="23984" itemId="0"/>
+				<Socket nodeId="17219" itemId="0"/>
+				<Socket nodeId="46882" itemId="0"/>
+				<Socket nodeId="44169" itemId="0"/>
+				<Socket nodeId="61419" itemId="0"/>
+				<Socket nodeId="41263" itemId="0"/>
+				<Socket nodeId="9797" itemId="0"/>
+				<Socket nodeId="14993" itemId="0"/>
+				<Socket nodeId="2491" itemId="0"/>
+				<Socket nodeId="60735" itemId="0"/>
+				<Socket nodeId="49684" itemId="0"/>
+				<Socket nodeId="48768" itemId="0"/>
+				<Socket nodeId="12161" itemId="0"/>
+				<Socket nodeId="6230" itemId="0"/>
+				<Socket nodeId="34483" itemId="0"/>
+				<Socket nodeId="41876" itemId="0"/>
+				<Socket nodeId="31683" itemId="0"/>
+				<Socket nodeId="36931" itemId="0"/>
+				<Socket nodeId="6910" itemId="0"/>
+				<Socket nodeId="23756" itemId="0"/>
+			</Sockets>
+		</Spec>
+		<Spec ascendClassId="2" nodes="22266,2598,34031,9262,65093,5197,7285,56359,59861,59766,487,52213,36221,54354,20551,8419,58271,54127,12236,8544,18302,48438,1568,26294,24377,25324,55676,39725,50986,24538,49343,32730,61198,15616,49415,1159,56509,5237,55649,63422,6741,62363,33287,6363,35663,35568,26725,36047,24383,60887,6718,25933,10851,19858,36761,5152,27864,48287,14056,32482,22217,43684,29933,9206,62108,30380,17818,48760,5233,48807,56001,55166,62042,22285,10661,59866,12878,12412,33082,50306,53118,48813,34678,34009,26528,39786,11859,46730,4656,49538,40135,44922,33179,34130,24865,12720,45227,40653,32555,42800,29856,28311,16544,59151,29937,58449,12247,6108,23199,11364,6289,1325,25367,63048,30679,861,62017,1698,44429,53793,59718,64587,1675,4336,31033,7082,19069,31471" treeVersion="3_10" classId="4">
+			<URL>
+				https://poe.game.qq.com/passive-skill-tree/AAAABAQCAFb6CiaE7yQu_kUUTRx13Cfp1el2AefL9Y191FJQRyDj45_Tby_MIWBHfr02BiBmtl85YuzZfJstX9rAv-8OPQDBBwSH3L0Uddlh974aVfObggcY24tPivBoZYzPXz_t1xo-ZU0qY02Sj5kUIGzYvJ826H7iVsmqpHTtI_bynHasRZq-eBRxvqfawdd-8lpXDSml6doyTjB8gTrEgs9-vq2HdoTZZ6Cbai5TtooSMMGCnMeveoGbhVJhITGwsKuezX8rpzB0oG6XQKDnD3Tx5FEv1xfcWp8sZBiRBS1jF_ZId9cDXfJBBqKtjdIh6Ub8SwaLEPB5ORuqSn167w==
+			</URL>
+			<Sockets>
+				<Socket nodeId="16218" itemId="0"/>
+				<Socket nodeId="11150" itemId="0"/>
+				<Socket nodeId="61834" itemId="0"/>
+				<Socket nodeId="64583" itemId="0"/>
+				<Socket nodeId="22994" itemId="0"/>
+				<Socket nodeId="48679" itemId="0"/>
+				<Socket nodeId="2311" itemId="0"/>
+				<Socket nodeId="9408" itemId="0"/>
+				<Socket nodeId="36634" itemId="0"/>
+				<Socket nodeId="61305" itemId="0"/>
+				<Socket nodeId="21984" itemId="0"/>
+				<Socket nodeId="26725" itemId="2"/>
+				<Socket nodeId="54127" itemId="1"/>
+				<Socket nodeId="18436" itemId="0"/>
+				<Socket nodeId="23756" itemId="0"/>
+				<Socket nodeId="55190" itemId="0"/>
+				<Socket nodeId="61666" itemId="0"/>
+				<Socket nodeId="13170" itemId="0"/>
+				<Socket nodeId="31683" itemId="0"/>
+				<Socket nodeId="41876" itemId="0"/>
+				<Socket nodeId="46519" itemId="0"/>
+				<Socket nodeId="40400" itemId="0"/>
+				<Socket nodeId="34483" itemId="0"/>
+				<Socket nodeId="3109" itemId="0"/>
+				<Socket nodeId="6230" itemId="0"/>
+				<Socket nodeId="46393" itemId="0"/>
+				<Socket nodeId="7960" itemId="0"/>
+				<Socket nodeId="59585" itemId="0"/>
+				<Socket nodeId="32763" itemId="0"/>
+				<Socket nodeId="29712" itemId="0"/>
+				<Socket nodeId="28475" itemId="0"/>
+				<Socket nodeId="61288" itemId="0"/>
+				<Socket nodeId="26196" itemId="0"/>
+				<Socket nodeId="51198" itemId="0"/>
+				<Socket nodeId="49080" itemId="0"/>
+				<Socket nodeId="60735" itemId="0"/>
+				<Socket nodeId="33989" itemId="0"/>
+				<Socket nodeId="2491" itemId="0"/>
+				<Socket nodeId="17219" itemId="0"/>
+				<Socket nodeId="23984" itemId="0"/>
+				<Socket nodeId="14993" itemId="0"/>
+				<Socket nodeId="44169" itemId="0"/>
+				<Socket nodeId="22748" itemId="0"/>
+				<Socket nodeId="9797" itemId="0"/>
+				<Socket nodeId="41263" itemId="0"/>
+				<Socket nodeId="61419" itemId="0"/>
+				<Socket nodeId="46882" itemId="0"/>
+				<Socket nodeId="49684" itemId="0"/>
+				<Socket nodeId="48768" itemId="0"/>
+				<Socket nodeId="12161" itemId="0"/>
+				<Socket nodeId="33753" itemId="0"/>
+				<Socket nodeId="12613" itemId="0"/>
+				<Socket nodeId="33631" itemId="0"/>
+				<Socket nodeId="10532" itemId="0"/>
+				<Socket nodeId="36931" itemId="0"/>
+				<Socket nodeId="6910" itemId="0"/>
+				<Socket nodeId="24970" itemId="0"/>
+			</Sockets>
+		</Spec>
+	</Tree>
+	<Notes>
+		
+	</Notes>
+	<Skills defaultGemQuality="nil" defaultGemLevel="nil" showSupportGemTypes="ALL" sortGemsByDPS="true">
+		<Skill mainActiveSkillCalcs="1" enabled="true" slot="Helmet" mainActiveSkill="1">
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemChanceToBleed" skillId="SupportChanceToBleed" enableGlobal1="true" enabled="true" nameSpec="几率流血(辅)"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SkillGemLacerate" skillId="DoubleSlash" skillPart="1" enableGlobal1="true" skillPartCalcs="1" enabled="true" nameSpec="破空斩"/>
+			<Gem enableGlobal2="false" quality="20" level="2" gemId="Metadata/Items/Gems/SupportGemDeadlyAilmentsPlus" skillId="SupportDeadlyAilmentsPlus" enableGlobal1="true" enabled="true" nameSpec="致命异常状态（强辅）"/>
+			<Gem enableGlobal2="false" quality="20" level="3" gemId="Metadata/Items/Gems/SupportGemBrutalityPlus" skillId="SupportBrutalityPlus" enableGlobal1="true" enabled="true" nameSpec="残暴（强辅）"/>
+		</Skill>
+		<Skill mainActiveSkillCalcs="1" enabled="true" slot="Weapon 1 Swap" mainActiveSkill="1">
+			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SupportGemBrutality" skillId="SupportBrutality" enableGlobal1="true" enabled="true" nameSpec="残暴(辅)"/>
+			<Gem enableGlobal2="false" quality="20" level="18" gemId="Metadata/Items/Gems/SupportGemChanceToBleed" skillId="SupportChanceToBleed" enableGlobal1="true" enabled="true" nameSpec="几率流血(辅)"/>
+			<Gem enableGlobal2="false" quality="20" level="17" gemId="Metadata/Items/Gems/SupportGemBrutality" skillId="SupportBrutality" enableGlobal1="true" enabled="true" nameSpec="残暴(辅)"/>
+		</Skill>
+		<Skill mainActiveSkillCalcs="1" enabled="true" slot="Boots" mainActiveSkill="1">
+			<Gem enableGlobal2="false" quality="0" level="2" gemId="Metadata/Items/Gems/SupportGemCastOnDamageTaken" skillId="SupportCastOnDamageTaken" enableGlobal1="true" enabled="true" nameSpec="受伤时施放(辅)"/>
+			<Gem enableGlobal2="false" quality="0" level="11" gemId="Metadata/Items/Gems/SkillGemVaalMoltenShell" skillId="VaalMoltenShell" enableGlobal1="true" enabled="true" nameSpec="瓦尔.熔岩护盾"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemIncreasedDuration" skillId="SupportIncreasedDuration" enableGlobal1="true" enabled="true" nameSpec="持续时间延长(辅)"/>
+			<Gem enableGlobal2="false" quality="0" level="8" gemId="Metadata/Items/Gems/SkillGemTempestShield" skillId="TempestShield" enableGlobal1="true" enabled="true" nameSpec="暴风之盾"/>
+		</Skill>
+		<Skill mainActiveSkillCalcs="1" enabled="true" slot="Weapon 1" mainActiveSkill="1">
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SkillGemLeapSlam" skillId="LeapSlam" enableGlobal1="true" enabled="true" nameSpec="跃击"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SkillGemWhirlingBlades" skillId="WhirlingBlades" enableGlobal1="true" enabled="true" nameSpec="回旋之刃"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemFortify" skillId="SupportFortify" enableGlobal1="true" enabled="true" nameSpec="护体(辅)"/>
+		</Skill>
+		<Skill mainActiveSkillCalcs="1" enabled="true" slot="Weapon 2" mainActiveSkill="1">
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemIncreasedAreaOfEffect" skillId="SupportIncreasedAreaOfEffect" enableGlobal1="true" enabled="true" nameSpec="增大范围(辅)"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemBlasphemy" skillId="SupportBlasphemy" enableGlobal1="true" enabled="true" nameSpec="诅咒光环(辅)"/>
+			<Gem enableGlobal2="false" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemNewVulnerability" skillId="Vulnerability" enableGlobal1="true" enabled="true" nameSpec="脆弱"/>
+		</Skill>
+		<Skill mainActiveSkillCalcs="1" enabled="true" slot="Weapon 2 Swap" mainActiveSkill="1">
+			<Gem enableGlobal2="false" quality="20" level="18" gemId="Metadata/Items/Gems/SupportGemIncreasedDuration" skillId="SupportIncreasedDuration" enableGlobal1="true" enabled="true" nameSpec="持续时间延长(辅)"/>
+			<Gem enableGlobal2="false" quality="20" level="18" gemId="Metadata/Items/Gems/SkillGemNewVulnerability" skillId="Vulnerability" enableGlobal1="true" enabled="true" nameSpec="脆弱"/>
+		</Skill>
+		<Skill mainActiveSkillCalcs="1" enabled="true" slot="Body Armour" mainActiveSkill="1">
+			<Gem enableGlobal2="false" quality="20" level="2" gemId="Metadata/Items/Gems/SupportGemAdditionalXP" skillId="SupportAdditionalXP" enableGlobal1="true" enabled="true" nameSpec="启蒙(辅)"/>
+		</Skill>
+		<Skill mainActiveSkillCalcs="1" enabled="true" slot="Body Armour" mainActiveSkill="1">
+			<Gem enableGlobal2="false" quality="20" level="2" gemId="Metadata/Items/Gems/SupportGemAdditionalQuality" skillId="SupportAdditionalQuality" enableGlobal1="true" enabled="true" nameSpec="增幅(辅)"/>
+			<Gem enableGlobal2="false" quality="20" level="19" gemId="Metadata/Items/Gems/SkillGemLacerate" skillId="DoubleSlash" skillPart="1" enableGlobal1="true" enabled="true" nameSpec="破空斩"/>
+			<Gem enableGlobal2="false" quality="20" level="19" gemId="Metadata/Items/Gems/SupportGemChanceToBleed" skillId="SupportChanceToBleed" enableGlobal1="true" enabled="true" nameSpec="几率流血(辅)"/>
+		</Skill>
+		<Skill mainActiveSkillCalcs="1" enabled="true" slot="Body Armour" mainActiveSkill="1">
+			<Gem enableGlobal2="false" quality="20" level="2" gemId="Metadata/Items/Gems/SupportGemAdditionalLevel" skillId="SupportAdditionalLevel" enableGlobal1="true" enabled="true" nameSpec="赋予(辅)"/>
+		</Skill>
+		<Skill mainActiveSkillCalcs="1" enabled="true" slot="Body Armour" mainActiveSkill="1">
+			<Gem enableGlobal2="false" quality="20" level="19" gemId="Metadata/Items/Gems/SupportGemBrutality" skillId="SupportBrutality" enableGlobal1="true" enabled="true" nameSpec="残暴(辅)"/>
+		</Skill>
+		<Skill mainActiveSkillCalcs="1" enabled="true" slot="Gloves" mainActiveSkill="1">
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SkillGemWarBanner" skillId="BloodstainedBanner" enableGlobal1="true" enabled="true" nameSpec="战旗"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SkillGemFleshAndStone" skillId="BloodSandArmour" enableGlobal1="true" enabled="true" nameSpec="血肉与岩石"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SkillGemPride" skillId="PhysicalDamageAura" skillPart="1" enableGlobal1="true" enabled="true" nameSpec="尊严"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemMaim" skillId="SupportMaim" enableGlobal1="true" enabled="true" nameSpec="瘫痪(辅)"/>
+		</Skill>
+		<Skill source="Item:8:降伏, 艾兹麦塔盾" mainActiveSkillCalcs="nil" label="" enabled="true" slot="Weapon 2" mainActiveSkill="nil">
+			<Gem enableGlobal2="nil" quality="0" level="30" skillId="Reckoning" enableGlobal1="true" enabled="true" nameSpec=""/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemIncreasedAreaOfEffect" skillId="SupportIncreasedAreaOfEffect" enableGlobal1="true" enabled="true" nameSpec="增大范围(辅)"/>
+			<Gem enableGlobal2="false" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemBlasphemy" skillId="SupportBlasphemy" enableGlobal1="true" enabled="true" nameSpec="诅咒光环(辅)"/>
+		</Skill>
+		<Skill source="Item:17:大地之握, 火蝮鳞手套" mainActiveSkillCalcs="nil" label="" enabled="true" slot="Gloves" mainActiveSkill="nil">
+			<Gem enableGlobal2="nil" quality="0" level="1" skillId="EnchantmentOfLightWhenCrit3" enableGlobal1="true" enabled="true" nameSpec=""/>
+		</Skill>
+		<Skill mainActiveSkillCalcs="nil" label="" enabled="true" mainActiveSkill="nil">
+			<Gem enableGlobal2="nil" quality="0" level="20" gemId="Metadata/Items/Gems/SupportGemBlind" skillId="SupportBlind" enableGlobal1="true" enabled="true" nameSpec="致盲(辅)"/>
+		</Skill>
+	</Skills>
+	<Calcs>
+		<Input name="skill_number" number="1"/>
+		<Input name="misc_buffMode" string="EFFECTIVE"/>
+		<Section collapsed="false" id="SkillSelect"/>
+		<Section collapsed="false" id="HitDamage"/>
+		<Section collapsed="false" id="Dot"/>
+		<Section collapsed="false" id="Speed"/>
+		<Section collapsed="false" id="Crit"/>
+		<Section collapsed="false" id="HitChance"/>
+		<Section collapsed="false" id="SkillTypeStats"/>
+		<Section collapsed="false" id="Bleed"/>
+		<Section collapsed="nil" id="Impale"/>
+		<Section collapsed="false" id="Poison"/>
+		<Section collapsed="false" id="Ignite"/>
+		<Section collapsed="false" id="Decay"/>
+		<Section collapsed="false" id="LeechGain"/>
+		<Section collapsed="false" id="MiscEffects"/>
+		<Section collapsed="false" id="Attributes"/>
+		<Section collapsed="false" id="Life"/>
+		<Section collapsed="false" id="Mana"/>
+		<Section collapsed="false" id="EnergyShield"/>
+		<Section collapsed="false" id="Armour"/>
+		<Section collapsed="false" id="Evasion"/>
+		<Section collapsed="false" id="Resist"/>
+		<Section collapsed="false" id="DamageTaken"/>
+		<Section collapsed="false" id="MiscDefences"/>
+	</Calcs>
+	<AboutTab/>
+	<TreeView searchStr="" zoomY="-278.26419291076" showHeatMap="false" zoomLevel="2" showStatDifferences="true" zoomX="-121.90447376067"/>
+	<Items activeItemSet="1" useSecondWeaponSet="false">
+		<Item id="1">
+			稀 有 度: 传奇
+蛮力冲撞
+钴蓝珠宝
+Unique ID: cc136a44c14946bf48a9b9ba1de37e2560d26f5929c8bcf8d31a97ed3986699a
+Item Level: 85
+品质: 0
+品质说明: 
+范围: 大
+固定基底词缀: 0
++23 智慧
+将范围内天赋所给予的力量转换成智慧
+		</Item>
+		<Item id="2">
+			稀 有 度: 稀有
+RARE fe5b39f
+翠绿珠宝
+Unique ID: 044ffa3750690b573c9d152c9152939bfe46e3098ad0432fd7ad5f1d9fe5b39f
+Item Level: 80
+品质: 0
+品质说明: 
+固定基底词缀: 0
+伤害提高 10%
+最大生命提高 7%
+物理攻击伤害的 0.28% 转化为魔力偷取
+		</Item>
+		<Item id="3">
+			稀 有 度: 稀有
+RARE 8f9cfb8
+红玉戒指
+Unique ID: e21ed22b29c368607b597340e51dfdd8546ca12c84bfc051ecfde53a18f9cfb8
+Item Level: 76
+品质: 0
+品质说明: 
+等级需求: 16
+固定基底词缀: 1
++30% 火焰抗性
+攻击附加 9 - 15 基础物理伤害
+攻击附加 1 - 16 基础闪电伤害
++8% 所有元素抗性
++32% 冰霜抗性
++42% 闪电抗性
+{crafted}+55 最大生命
+		</Item>
+		<Item id="4">
+			稀 有 度: 传奇
+祭礼之雨
+梦魇战盔
+Unique ID: 0e15f870543b6c586df7f03acbdb8bec5dff44083485eaa5405b12a5e615a4a5
+Item Level: 82
+品质: 20
+品质说明: 
+插槽: G-G-G-G
+等级需求: 67
+固定基底词缀: 1
+【弹幕】的伤害提高 25%
+此物品上的技能石受到 18 级的 近战物理伤害 辅助
+此物品上的技能石受到 18 级的 快速攻击 辅助
+此物品上的技能石受到 18 级的 致盲 辅助
+6% 攻击伤害格挡率
+攻击附加 20 - 30 基础物理伤害
+该装备的护甲与闪避提高 299%
++220 最大生命
+格挡时 20% 几率获得耐力球
+不能使用胸甲
+更明显打击效果
+		</Item>
+		<Item id="5">
+			稀 有 度: 传奇
+食蚜
+斗士长剑
+Unique ID: d0b841327ac0288a8528fd0ad2ee8a3789bca7aba148689f7af14b8aa0c73c3c
+Item Level: 81
+品质: 20
+品质说明: 
+插槽: G-G-G
+等级需求: 60
+固定基底词缀: 1
+命中值提高 40%
+附加 81 - 153 基础物理伤害
+该装备的攻击暴击率提高 23%
+每个红色插槽会使你物理攻击伤害的 0.3% 转化为生命偷取
+每个绿色插槽 +10% 攻击和法术暴击伤害加成
+每个蓝色插槽会使你物理攻击伤害的 0.3% 转化为魔力偷取
+每个白色插槽会使防御提高 8%
+装备在主手时全局暴击率提高 75%
+装备于副手时 +8% 额外攻击伤害格挡几率
+Corrupted
+		</Item>
+		<Item id="6">
+			稀 有 度: 稀有
+RARE d4392da
+粗革短靴
+Unique ID: 82b58fe693c90ea170834e08e101c485eccd8bdbee6528fb5e2187578d4392da
+Item Level: 75
+品质: 20
+品质说明: 
+插槽: G-G-G-G
+等级需求: 55
+固定基底词缀: 1
+近期内你若有施放法术，则魔力回复率提高 70%
+闪避值提高 22%
++45% 火焰抗性
++41% 冰霜抗性
++29% 闪电抗性
+移动速度提高 30%
+{crafted}+70 最大生命
+		</Item>
+		<Item id="7">
+			稀 有 度: 稀有
+RARE ec22281
+海贼长刀
+Unique ID: 221b60dc5c9ba4b502df2d81097fbe51ce810a398c8bf2d9dd414d486ec22281
+Item Level: 85
+品质: 28
+品质说明: 
+插槽: G-G-G
+等级需求: 58
+固定基底词缀: 1
+命中值提高 40%
+攻击速度提高 21%
+攻击击中有 30% 几率使敌人流血
+流血伤害提高 44%
+使用此武器攻击所造成的流血效果有 60% 几率使流血伤害提高 100%
+{crafted}Can have up to 3 Crafted Modifiers
+{crafted}物理伤害提高 126%
+{crafted}附加 16 - 29 基础物理伤害
+		</Item>
+		<Item id="8">
+			稀 有 度: 传奇
+降伏
+艾兹麦塔盾
+Unique ID: cb6ca484d95a06a1230997f4dd188fe2a55d77ab6fafd5aa701c5f2fd0772e8a
+Item Level: 84
+品质: 20
+品质说明: 
+插槽: R-R-R
+等级需求: 64
+固定基底词缀: 1
++40 最大生命
+获得 30 级的主动技能【清算】，且可被此道具上的技能石辅助
+该装备的护甲提高 156%
++71 最大生命
+格挡时回复 250 生命
+该装备 +6% 攻击格挡率
+格挡后的短时间内 +1500 护甲
+		</Item>
+		<Item id="9">
+			稀 有 度: 魔法
+不朽生命药剂
+Unique ID: df2320fa81e41492dd64cf48afe967fc986994b00cd820191c134f8b09730d3d
+Item Level: 60
+品质: 20
+品质说明: 
+等级需求: 60
+固定基底词缀: 0
+回复量降低 66%
+立即回复
+药剂持续期间免疫冰冻和冰缓
+使用时移除身上的冰冻和冰缓效果
+		</Item>
+		<Item id="10">
+			稀 有 度: 魔法
+翠玉药剂
+Unique ID: ad88ce18f6c0864156bcc8c1530117de96cba87663adad03f9eef2ec687a3bff
+Item Level: 35
+品质: 20
+品质说明: 
+等级需求: 27
+固定基底词缀: 0
+当你被攻击或法术暴击时补充 5 充能次数
+药剂持续期间免疫点燃
+驱散燃烧
+		</Item>
+		<Item id="11">
+			稀 有 度: 稀有
+RARE c21c2da
+棘刺圆盾
+Unique ID: b961d8a7740cf589516c97c25ef5aa4505a98bf12c7a4e4104a101c41c21c2da
+Item Level: 79
+品质: 8
+品质说明: 
+插槽: G-G-G
+等级需求: 62
+固定基底词缀: 1
+格挡回复提高 60%
++16 护甲
++91 最大生命
++1% 冰霜抗性上限
+3% 几率躲避攻击击中
+3% 几率躲避法术击中
+		</Item>
+		<Item id="12">
+			稀 有 度: 魔法
+宝钻药剂
+Unique ID: 93ed5a3934891ecd71785adf116f6dfa4768703903ac7ba2c2852f04f074bf64
+Item Level: 78
+品质: 20
+品质说明: 
+等级需求: 27
+固定基底词缀: 0
+当你被攻击或法术暴击时补充 5 充能次数
+药剂持续期间免疫流血
+使用时移除身上的流血
+		</Item>
+		<Item id="13">
+			稀 有 度: 魔法
+水银药剂
+Unique ID: e8ac2bdb74d6bd5619ab6a0268e8845ffd3e55479417fcb3f8cd5df147d7d6b7
+Item Level: 42
+品质: 20
+品质说明: 
+固定基底词缀: 0
+药剂持续期间，移动速度提高 24%
+持续时间延长 36%
+		</Item>
+		<Item id="14">
+			稀 有 度: 魔法
+真银药剂
+Unique ID: 98f511f45c761b49470c61e4d381c774a823c3c0d1f41632c8a37004d765b888
+Item Level: 80
+品质: 20
+品质说明: 
+等级需求: 22
+固定基底词缀: 0
+当你被攻击或法术暴击时补充 5 充能次数
+药剂持续期间免疫诅咒
+使用时移除身上的诅咒效果
+		</Item>
+		<Item id="15">
+			稀 有 度: 传奇
+无悔之爱
+贤者之袍
+Unique ID: 1969bab13ee583b4665de9a956fea075f3533de0c8c8fbeffa82cdb53b08776a
+Item Level: 78
+品质: 20
+品质说明: 
+插槽: B-B-B-B-B-B
+等级需求: 37
+固定基底词缀: 0
+技能石可以无视此物品上的插槽颜色
+红色插槽内的技能石 +1 等级
+绿色插槽内的技能石 +10% 品质
+蓝色插槽内的技能石额外获得 25% 经验
+穿戴对人物属性无需求
+		</Item>
+		<Item id="16">
+			稀 有 度: 传奇
+瑞斯拉萨的线圈
+扣钉腰带
+Unique ID: 3bbe4c02091a659d6cd798d26325aaaa6fa5fe012d638cc4e4efa434d5026e16
+Item Level: 72
+品质: 0
+品质说明: 
+等级需求: 16
+固定基底词缀: 1
+敌人被晕眩时间延长 30%
++35 力量
+最大物理攻击总伤害额外提高 36%
+最小物理攻击总伤害额外降低 32%
+攻击附加 1 - 19 基础物理伤害
++96 最大生命
+晕眩敌人时获得 53 生命
+		</Item>
+		<Item id="17">
+			稀 有 度: 传奇
+大地之握
+火蝮鳞手套
+Unique ID: 48a190b7ebcba99492a675e7462c36e931e5d133cfd68b481c10ef2136ff7c95
+Item Level: 82
+品质: 20
+品质说明: 
+插槽: G-G-G-G
+等级需求: 59
+固定基底词缀: 1
+你被暴击时触发【光之令】
+该装备的护甲与闪避提高 122%
++70 最大生命
+对流血敌人的命中值 +482
+拥有【猫之隐匿】时，你的攻击必定造成流血
+击中和异常状态对流血敌人的伤害提高 45%
+拥有【猫之隐匿】时获得【玫红之舞】
+		</Item>
+		<Item id="18">
+			稀 有 度: 传奇
+隐逝
+黑曜护身符
+Unique ID: 48fdd766121a420278523699b0acc0aad299f8b0838c5488ffb7300d76b0d8e3
+Item Level: 85
+品质: 0
+品质说明: 
+等级需求: 20
+固定基底词缀: 2
++19 全属性
+Allocates Cleaving
+附加 12 - 22 基础物理伤害
++435 护甲
++70 最大生命
+晕眩回复和格挡回复提高 37%
+【脆弱】的魔力保留降低 100%
+击败稀有或者传奇敌人时，获得【癫狂】状态 10 秒
+		</Item>
+		<Item id="19">
+			稀 有 度: 稀有
+RARE fbccfc8
+红玉戒指
+Unique ID: 551e6ca145e56ddda33256d5433d0fb889e6de6952011e37593243471fbccfc8
+Item Level: 84
+品质: 0
+品质说明: 
+等级需求: 16
+固定基底词缀: 1
++30% 火焰抗性
+攻击附加 7 - 18 基础物理伤害
+攻击附加 1 - 33 基础闪电伤害
+11.2 每秒生命回复
++47% 冰霜抗性
++42% 闪电抗性
+{crafted}+55 最大生命
+		</Item>
+		<Slot name="Gloves" itemId="17"/>
+		<Slot name="Flask 3" itemId="9"/>
+		<Slot name="Belt" itemId="16"/>
+		<Slot name="Flask 4" itemId="10"/>
+		<Slot name="Flask 1" itemId="13"/>
+		<Slot name="Amulet" itemId="18"/>
+		<Slot name="Boots" itemId="6"/>
+		<Slot name="Flask 2" itemId="12"/>
+		<Slot name="Weapon 2" itemId="8"/>
+		<Slot name="Helmet" itemId="4"/>
+		<Slot name="Weapon 2 Swap" itemId="11"/>
+		<Slot name="Body Armour" itemId="15"/>
+		<Slot name="Weapon 1 Swap" itemId="5"/>
+		<Slot name="Ring 2" itemId="3"/>
+		<Slot name="Flask 5" itemId="14"/>
+		<Slot name="Ring 1" itemId="19"/>
+		<Slot name="Weapon 1" itemId="7"/>
+		<ItemSet useSecondWeaponSet="false" id="1">
+			<Slot name="Gloves" itemId="17"/>
+			<Slot name="Weapon 2Swap Abyssal Socket 2" itemId="0"/>
+			<Slot name="Belt Abyssal Socket 2" itemId="0"/>
+			<Slot name="Flask 3" itemId="9"/>
+			<Slot name="Weapon 2Swap Abyssal Socket 1" itemId="0"/>
+			<Slot name="Helmet Abyssal Socket 1" itemId="0"/>
+			<Slot name="Helmet Abyssal Socket 2" itemId="0"/>
+			<Slot name="Weapon 1 Abyssal Socket 1" itemId="0"/>
+			<Slot name="Belt" itemId="16"/>
+			<Slot name="Weapon 1 Abyssal Socket 2" itemId="0"/>
+			<Slot name="Weapon 2 Abyssal Socket 2" itemId="0"/>
+			<Slot name="Boots Abyssal Socket 2" itemId="0"/>
+			<Slot name="Flask 4" itemId="10"/>
+			<Slot name="Gloves Abyssal Socket 1" itemId="0"/>
+			<Slot name="Flask 1" itemId="13"/>
+			<Slot name="Body Armour Abyssal Socket 2" itemId="0"/>
+			<Slot name="Amulet" itemId="18"/>
+			<Slot name="Boots" itemId="6"/>
+			<Slot name="Weapon 2 Abyssal Socket 1" itemId="0"/>
+			<Slot name="Boots Abyssal Socket 1" itemId="0"/>
+			<Slot name="Belt Abyssal Socket 1" itemId="0"/>
+			<Slot name="Flask 2" itemId="12"/>
+			<Slot name="Weapon 1Swap Abyssal Socket 2" itemId="0"/>
+			<Slot name="Weapon 1Swap Abyssal Socket 1" itemId="0"/>
+			<Slot name="Weapon 2" itemId="8"/>
+			<Slot name="Helmet" itemId="4"/>
+			<Slot name="Weapon 2 Swap" itemId="11"/>
+			<Slot name="Body Armour" itemId="15"/>
+			<Slot name="Weapon 1 Swap" itemId="5"/>
+			<Slot name="Ring 2" itemId="3"/>
+			<Slot name="Gloves Abyssal Socket 2" itemId="0"/>
+			<Slot name="Body Armour Abyssal Socket 1" itemId="0"/>
+			<Slot name="Flask 5" itemId="14"/>
+			<Slot name="Ring 1" itemId="19"/>
+			<Slot name="Weapon 1" itemId="7"/>
+		</ItemSet>
+	</Items>
+	<Config/>
+</PathOfBuilding>

@@ -1,0 +1,1080 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PathOfBuilding>
+	<Build level="90" targetVersion="3_0" banditNormal="None" banditMerciless="None" className="女巫" ascendClassName="Necromancer" mainSocketGroup="4" viewMode="SKILLS" banditCruel="None">
+		<PlayerStat stat="AverageHit" value="0"/>
+		<PlayerStat stat="AverageDamage" value="0"/>
+		<PlayerStat stat="Speed" value="1.9"/>
+		<PlayerStat stat="Speed" value="1.9"/>
+		<PlayerStat stat="PreEffectiveCritChance" value="0"/>
+		<PlayerStat stat="CritChance" value="0"/>
+		<PlayerStat stat="CritMultiplier" value="1.5"/>
+		<PlayerStat stat="HitChance" value="100"/>
+		<PlayerStat stat="TotalDPS" value="0"/>
+		<PlayerStat stat="TotalDot" value="0"/>
+		<PlayerStat stat="WithPoisonDPS" value="0"/>
+		<PlayerStat stat="CombinedDPS" value="0"/>
+		<PlayerStat stat="ManaCost" value="27"/>
+		<PlayerStat stat="Str" value="94"/>
+		<PlayerStat stat="ReqStr" value="98"/>
+		<PlayerStat stat="Dex" value="34"/>
+		<PlayerStat stat="ReqDex" value="58"/>
+		<PlayerStat stat="Int" value="397"/>
+		<PlayerStat stat="ReqInt" value="242"/>
+		<PlayerStat stat="Devotion" value="0"/>
+		<PlayerStat stat="Life" value="4024"/>
+		<PlayerStat stat="Spec:LifeInc" value="131"/>
+		<PlayerStat stat="LifeUnreserved" value="4024"/>
+		<PlayerStat stat="LifeUnreservedPercent" value="100"/>
+		<PlayerStat stat="LifeRegen" value="155.912"/>
+		<PlayerStat stat="LifeLeechGainRate" value="0"/>
+		<PlayerStat stat="Mana" value="2358"/>
+		<PlayerStat stat="Spec:ManaInc" value="109"/>
+		<PlayerStat stat="ManaUnreserved" value="2358"/>
+		<PlayerStat stat="ManaUnreservedPercent" value="100"/>
+		<PlayerStat stat="ManaRegen" value="99"/>
+		<PlayerStat stat="ManaLeechGainRate" value="0"/>
+		<PlayerStat stat="EnergyShield" value="591"/>
+		<PlayerStat stat="Spec:EnergyShieldInc" value="0"/>
+		<PlayerStat stat="EnergyShieldRegen" value="0"/>
+		<PlayerStat stat="EnergyShieldLeechGainRate" value="0"/>
+		<PlayerStat stat="Evasion" value="823"/>
+		<PlayerStat stat="Spec:EvasionInc" value="0"/>
+		<PlayerStat stat="MeleeEvadeChance" value="0"/>
+		<PlayerStat stat="MeleeEvadeChance" value="0"/>
+		<PlayerStat stat="ProjectileEvadeChance" value="0"/>
+		<PlayerStat stat="Armour" value="0"/>
+		<PlayerStat stat="Spec:ArmourInc" value="0"/>
+		<PlayerStat stat="PhysicalDamageReduction" value="0"/>
+		<PlayerStat stat="EffectiveMovementSpeedMod" value="1.32"/>
+		<PlayerStat stat="BlockChance" value="0"/>
+		<PlayerStat stat="SpellBlockChance" value="0"/>
+		<PlayerStat stat="AttackDodgeChance" value="0"/>
+		<PlayerStat stat="SpellDodgeChance" value="0"/>
+		<PlayerStat stat="FireResist" value="-55"/>
+		<PlayerStat stat="ColdResist" value="-27"/>
+		<PlayerStat stat="LightningResist" value="-27"/>
+		<PlayerStat stat="ChaosResist" value="-40"/>
+		<PlayerStat stat="FireResistOverCap" value="0"/>
+		<PlayerStat stat="ColdResistOverCap" value="0"/>
+		<PlayerStat stat="LightningResistOverCap" value="0"/>
+		<PlayerStat stat="ChaosResistOverCap" value="0"/>
+		<PlayerStat stat="PowerCharges" value="0"/>
+		<PlayerStat stat="PowerChargesMax" value="3"/>
+		<PlayerStat stat="FrenzyCharges" value="0"/>
+		<PlayerStat stat="FrenzyChargesMax" value="3"/>
+		<PlayerStat stat="EnduranceCharges" value="0"/>
+		<PlayerStat stat="EnduranceChargesMax" value="3"/>
+		<MinionStat stat="AverageDamage" value="222.88987005542"/>
+		<MinionStat stat="Speed" value="2.086"/>
+		<MinionStat stat="PreEffectiveCritChance" value="7"/>
+		<MinionStat stat="CritChance" value="7"/>
+		<MinionStat stat="CritMultiplier" value="1.3"/>
+		<MinionStat stat="TotalDPS" value="464.94826893561"/>
+		<MinionStat stat="TotalDot" value="0"/>
+		<MinionStat stat="WithPoisonDPS" value="464.94826893561"/>
+		<MinionStat stat="Life" value="87652"/>
+		<MinionStat stat="LifeRegen" value="2629.56"/>
+		<MinionStat stat="LifeLeechGainRate" value="0.92989653787122"/>
+		<MinionStat stat="EnergyShield" value="354"/>
+		<MinionStat stat="EnergyShieldRegen" value="0"/>
+		<MinionStat stat="EnergyShieldLeechGainRate" value="0"/>
+	</Build>
+	<Import/>
+	<Tree activeSpec="1">
+		<Spec ascendClassId="3" nodes="7388,45680,39841,10835,7444,19103,54447,29781,52502,9408,36634,26298,11490,37999,32024,48362,27203,4177,14936,63976,16775,46910,42760,65034,27659,55485,33755,18663,63447,49254,39085,7960,34144,65558,21958,44184,66582,8948,11420,47251,43716,33479,61471,26196,18359,14057,23027,41263,65578,65574,36949,10031,66585,1203,31875,31103,55646,66576,7898,66579,65555,65561,39648,60791,46092,51923,34098,21678,34880,15046,65573,48778,29712,57565,17821,2292,54159,19897,6712,52412,65575,27929,2348,44788,35685,10904,9386,48713,24362,65552,4397,29199,13009,38989,41190,57226,17412,4247,18309,20987,34306,35260,29171,26270,5743,65568,21330,64210,32210,45175,27611,18033,60547,17735,14603,10490,58218,36678,65153,26481,41472,60398,37671" treeVersion="3_10" classId="3">
+			<URL>
+				https://poe.game.qq.com/passive-skill-tree/AAAABAMDABzcsnCboSpTHRRKn3RVzRYkwI8aZros4pRvfRi86mpDEFE6WPnoQYe3PqcI_gpsC9i9g9tI5_fXwGaYrR8YhWBVxqyYIvQsnLiTqsSCx_AfZlRHtzbpWfOhL5BVJy8Es3yDeX_ZXh7amuC0DMrThTJUrohAOsa-inQQ4N1FnQj0049NuRo4zLxtGQksrvSLZSqYJKq-SV8qES1yDzLRmE2g5t-KRAQQl0eFUfuGAom8cfNmnhZvU1L60n3SsHdr20Zx7INFRzkLKPrjao9G_oFncaIA6-6TJw==
+			</URL>
+			<Sockets>
+				<Socket nodeId="16218" itemId="0"/>
+				<Socket nodeId="11150" itemId="0"/>
+				<Socket nodeId="61834" itemId="0"/>
+				<Socket nodeId="24970" itemId="0"/>
+				<Socket nodeId="51198" itemId="0"/>
+				<Socket nodeId="48679" itemId="0"/>
+				<Socket nodeId="2311" itemId="0"/>
+				<Socket nodeId="9408" itemId="8"/>
+				<Socket nodeId="36634" itemId="0"/>
+				<Socket nodeId="61305" itemId="0"/>
+				<Socket nodeId="21984" itemId="0"/>
+				<Socket nodeId="2491" itemId="0"/>
+				<Socket nodeId="33753" itemId="0"/>
+				<Socket nodeId="60735" itemId="0"/>
+				<Socket nodeId="6230" itemId="0"/>
+				<Socket nodeId="55190" itemId="0"/>
+				<Socket nodeId="22748" itemId="0"/>
+				<Socket nodeId="13170" itemId="0"/>
+				<Socket nodeId="12613" itemId="0"/>
+				<Socket nodeId="10532" itemId="0"/>
+				<Socket nodeId="46519" itemId="0"/>
+				<Socket nodeId="33631" itemId="0"/>
+				<Socket nodeId="44169" itemId="0"/>
+				<Socket nodeId="3109" itemId="0"/>
+				<Socket nodeId="26725" itemId="0"/>
+				<Socket nodeId="46393" itemId="0"/>
+				<Socket nodeId="23756" itemId="0"/>
+				<Socket nodeId="59585" itemId="0"/>
+				<Socket nodeId="14993" itemId="0"/>
+				<Socket nodeId="49080" itemId="0"/>
+				<Socket nodeId="9797" itemId="0"/>
+				<Socket nodeId="40400" itemId="0"/>
+				<Socket nodeId="26196" itemId="0"/>
+				<Socket nodeId="7960" itemId="7"/>
+				<Socket nodeId="61288" itemId="0"/>
+				<Socket nodeId="46882" itemId="0"/>
+				<Socket nodeId="33989" itemId="0"/>
+				<Socket nodeId="12161" itemId="0"/>
+				<Socket nodeId="17219" itemId="0"/>
+				<Socket nodeId="23984" itemId="0"/>
+				<Socket nodeId="18436" itemId="0"/>
+				<Socket nodeId="61419" itemId="0"/>
+				<Socket nodeId="61666" itemId="0"/>
+				<Socket nodeId="28475" itemId="0"/>
+				<Socket nodeId="54127" itemId="0"/>
+				<Socket nodeId="29712" itemId="8"/>
+				<Socket nodeId="32763" itemId="0"/>
+				<Socket nodeId="49684" itemId="0"/>
+				<Socket nodeId="48768" itemId="0"/>
+				<Socket nodeId="41876" itemId="0"/>
+				<Socket nodeId="64583" itemId="0"/>
+				<Socket nodeId="41263" itemId="0"/>
+				<Socket nodeId="31683" itemId="0"/>
+				<Socket nodeId="22994" itemId="0"/>
+				<Socket nodeId="36931" itemId="0"/>
+				<Socket nodeId="6910" itemId="0"/>
+				<Socket nodeId="34483" itemId="0"/>
+			</Sockets>
+		</Spec>
+	</Tree>
+	<Notes>
+		
+	</Notes>
+	<Skills defaultGemQuality="nil" defaultGemLevel="nil" showSupportGemTypes="ALL" sortGemsByDPS="true">
+		<Skill mainActiveSkillCalcs="1" label="" enabled="true" slot="Helmet" mainActiveSkill="1">
+			<Gem enableGlobal2="nil" skillMinionSkillCalcs="3" skillMinionCalcs="SummonedRagingSpirit" quality="20" level="20" gemId="Metadata/Items/Gems/SkillGemSummonRagingSpirit" skillId="SummonRagingSpirit" skillMinionSkill="3" enableGlobal1="true" enabled="true" nameSpec="召唤愤怒狂灵" skillMinion="SummonedRagingSpirit"/>
+			<Gem enableGlobal2="nil" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemInfernalLegion" skillId="SupportBurningMinions" enableGlobal1="true" enabled="true" nameSpec="炎军（辅）"/>
+			<Gem enableGlobal2="nil" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemHandcastAnticipation" skillId="SupportHandcastAnticipation" enableGlobal1="true" enabled="true" nameSpec="释出（辅）"/>
+			<Gem enableGlobal2="nil" quality="20" level="20" gemId="Metadata/Items/Gems/SupportGemChanceToIgnite" skillId="SupportChanceToIgnite" enableGlobal1="true" enabled="true" nameSpec="几率点燃(辅)"/>
+		</Skill>
+		<Skill mainActiveSkillCalcs="nil" label="" enabled="true" mainActiveSkill="nil">
+			<Gem enableGlobal2="nil" quality="0" level="20" gemId="Metadata/Items/Gems/SupportGemCurseOnHit" skillId="SupportCurseOnHit" enableGlobal1="true" enabled="true" nameSpec="击中附加诅咒(辅)"/>
+			<Gem enableGlobal2="nil" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemFlammability" skillId="Flammability" enableGlobal1="true" enabled="true" nameSpec="易燃"/>
+		</Skill>
+		<Skill mainActiveSkillCalcs="nil" label="" enabled="true" mainActiveSkill="nil">
+			<Gem enableGlobal2="nil" skillMinionSkillCalcs="1" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemSummonCarrionGolem" skillId="SummonBoneGolem" skillMinionSkill="1" enableGlobal1="true" enabled="true" nameSpec="召唤腐化魔像" skillMinion="SummonedCarrionGolem"/>
+		</Skill>
+		<Skill mainActiveSkillCalcs="nil" label="" enabled="true" mainActiveSkill="1">
+			<Gem enableGlobal2="nil" skillMinionSkillCalcs="1" quality="0" level="20" gemId="Metadata/Items/Gems/SkillGemAnimateArmour" skillId="AnimateArmour" skillMinionSkill="1" skillMinionItemSet="1" enableGlobal1="true" enabled="true" nameSpec="幻化守卫" skillMinion="AnimatedArmour"/>
+			<Gem enableGlobal2="nil" quality="0" level="20" gemId="Metadata/Items/Gems/SupportGemMinionLife" skillId="SupportMinionLife" enableGlobal1="true" enabled="true" nameSpec="召唤生物生命(辅)"/>
+		</Skill>
+		<Skill source="Item:6:血脉相连, 骨制战甲" mainActiveSkillCalcs="nil" label="" enabled="true" slot="Body Armour" mainActiveSkill="nil">
+			<Gem enableGlobal2="nil" quality="0" level="15" skillId="BloodOffering" enableGlobal1="true" enabled="true" nameSpec=""/>
+		</Skill>
+	</Skills>
+	<Calcs>
+		<Input name="showMinion" boolean="false"/>
+		<Input name="skill_number" number="1"/>
+		<Input name="misc_buffMode" string="EFFECTIVE"/>
+		<Section collapsed="nil" id="SkillSelect"/>
+		<Section collapsed="nil" id="HitDamage"/>
+		<Section collapsed="nil" id="Dot"/>
+		<Section collapsed="nil" id="Speed"/>
+		<Section collapsed="nil" id="Crit"/>
+		<Section collapsed="nil" id="HitChance"/>
+		<Section collapsed="nil" id="SkillTypeStats"/>
+		<Section collapsed="nil" id="Bleed"/>
+		<Section collapsed="nil" id="Impale"/>
+		<Section collapsed="nil" id="Poison"/>
+		<Section collapsed="nil" id="Ignite"/>
+		<Section collapsed="nil" id="Decay"/>
+		<Section collapsed="nil" id="LeechGain"/>
+		<Section collapsed="nil" id="MiscEffects"/>
+		<Section collapsed="nil" id="Attributes"/>
+		<Section collapsed="nil" id="Life"/>
+		<Section collapsed="nil" id="Mana"/>
+		<Section collapsed="nil" id="EnergyShield"/>
+		<Section collapsed="nil" id="Armour"/>
+		<Section collapsed="nil" id="Evasion"/>
+		<Section collapsed="nil" id="Resist"/>
+		<Section collapsed="nil" id="DamageTaken"/>
+		<Section collapsed="nil" id="MiscDefences"/>
+	</Calcs>
+	<AboutTab/>
+	<TreeView searchStr="" zoomY="394.98305203704" showHeatMap="nil" zoomLevel="5" showStatDifferences="true" zoomX="102.41646409694"/>
+	<Items activeItemSet="1" useSecondWeaponSet="nil">
+		<Item variant="2" id="1">
+			稀 有 度: 传奇
+马雷格罗的染血透镜
+复合刺盾
+版本: 3.0.0以前
+版本: 当前
+Selected Variant: 2
+品质: 20
+品质说明: 
+插槽: G-G-G
+等级需求: 45
+固定基底词缀: 2
+{variant:1}{range:0.5}反射 (51-70) 物理伤害给近战攻击者
+{variant:2}2% 几率躲避法术击中
+{range:0.5}攻击速度提高 (10-15)%
+{range:0.5}最大生命提高 (10-20)%
+获得 -50% 火焰、冰霜、闪电抗性
+范围效果扩大 10%
+周围盟友在你死亡时，会回复等同你最大生命 2% 的生命
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+		</Item>
+		<Item id="2">
+			稀 有 度: 传奇
+叶兰德尔的拥抱
+远古之祭
+品质: 20
+品质说明: 
+插槽: B-B-B
+等级需求: 35
+固定基底词缀: 1
+火焰、冰霜、闪电伤害提高 18%
+{range:0.5}+(20-30) 全属性
+{range:0.5}召唤生物的伤害提高 (30-40)%
+异灵魔侍被击中时让敌人受到【灰烬缠身】
+{range:0.5}异灵魔侍每秒将其最大生命的 (15-30)% 转化为火焰伤害
+异灵魔侍获得【火之化身】
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="5"/>
+		</Item>
+		<Item id="3">
+			稀 有 度: 传奇
+圣令
+珊瑚护身符
+League: 战乱之殇
+品质说明: 
+等级需求: 54
+固定基底词缀: 1
+{tags:life}{range:0.5}(2.0-4.0) 每秒生命回复
+{tags:jewellery_attribute}{range:0.5}+(30-40) 智慧
+{tags:jewellery_resistance}{range:0.5}召唤生物有 +(-17-17)% 混沌抗性
+{range:0.5}召唤愤怒狂灵的持续时间延长 (20-30)%
+{range:0.5}召唤愤怒狂灵的伤害提高 (60-80)%
+{tags:life}{range:0.5}愤怒狂灵的最大生命提高 (80-100)%
+{tags:life}愤怒狂灵每秒受到等同于最大生命 20% 的混沌伤害
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+		</Item>
+		<Item id="4">
+			稀 有 度: 传奇
+要塞誓约
+钴蓝珠宝
+品质说明: 
+等级需求: 20
+范围: 中
+仅限: 1
+固定基底词缀: 0
+{range:0.5}召唤生物的伤害提高 (35-45)%
+{range:0.5}召唤生物有+(10-12)% 攻击伤害格挡几率
+{range:0.5}召唤生物获得 +(10-12)% 格挡法术伤害率
+范围内的核心天赋技能转化替代为：召唤生物受到的伤害提高 20%
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+		</Item>
+		<Item id="5">
+			稀 有 度: 稀有
+New Item
+灵主之环
+裂界之器
+工艺: true
+前缀: {range:0.482}AreaDamageSupportedUber3
+前缀: {range:0.461}MinionLifeSupportedUber3
+前缀: {range:0.461}MinionDamageSupportedUber3
+后缀: None
+后缀: None
+后缀: None
+品质: 20
+品质说明: 
+插槽: B-B-B-B
+等级需求: 69
+固定基底词缀: 0
+此物品上的技能石受到 20 级的 集中效应 辅助
+此物品上的技能石受到 20 级的 召唤生物生命 辅助
+此物品上的技能石受到 20 级的 召唤生物伤害 辅助
+召唤生物的最大生命提高 24%
+召唤生物的伤害提高 24%
+范围伤害提高 24%
+		</Item>
+		<Item id="6">
+			稀 有 度: 传奇
+血脉相连
+骨制战甲
+品质: 20
+品质说明: 
+插槽: G-G-G-G-G-G
+等级需求: 35
+固定基底词缀: 0
+获得 15 级的的主动技能【血脉奉献】
+{range:0.5}该装备的闪避与能量护盾提高 (100-120)%
+{range:0.5}最大生命提高 (15-25)%
+{range:0.5}召唤生物的最大生命提高 (20-30)%
+每秒回复 1% 生命
+{range:0.5}召唤生物有额外 (6-10)% 躲避击中几率
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="6"/>
+		</Item>
+		<Item id="7">
+			稀 有 度: 稀有
+New Item
+大型星团珠宝
+工艺: true
+前缀: {range:0.5}AfflictionNotableSealMender
+前缀: {range:0.5}AfflictionNotableAncestralInspiration__
+后缀: {range:0.5}JewelExpansionJewelNodesLarge2___
+后缀: None
+Cluster Jewel Skill: affliction_spell_damage
+Cluster Jewel Node Count: 8
+品质: 0
+品质说明: 
+等级需求: 60
+固定基底词缀: 2
+{crafted}附加 8 天赋点
+{crafted}增加的小天赋获得：法术伤害提高 10%
+其中 1 个增加的天赋为【先祖教化】
+其中 1 个增加的天赋为【弥补之印】
+其中 2 个增加的天赋为【珠宝槽】
+		</Item>
+		<Item variant="281" variantAlt2="269" variantAlt="264" id="8">
+			稀 有 度: 传奇
+妄想症
+中型星团珠宝
+League: 惊悸迷雾
+版本: 万物滋生
+版本: 万象之力
+版本: 不动专注
+版本: 不动之恶
+版本: 不可燃烧
+版本: 不可触及
+版本: 不眠哨卫
+版本: 乱中有静
+版本: 以眼还眼
+版本: 优雅处刑
+版本: 优雅形体
+版本: 传令者
+版本: 低容忍
+版本: 侧舷炮
+版本: 保镖
+版本: 倔强学徒
+版本: 僵化灵药
+版本: 充能器
+版本: 充能备战
+版本: 先祖之力
+版本: 先祖回音
+版本: 先祖护佑
+版本: 先祖指引
+版本: 先祖教化
+版本: 先祖降临
+版本: 先遣卫士
+版本: 内奸
+版本: 冬眠者
+版本: 冷血杀手
+版本: 冻彻心扉
+版本: 准备就绪
+版本: 凌虐酷刑
+版本: 凌迟
+版本: 凝聚
+版本: 凶蛮回荡
+版本: 凶骇武士
+版本: 刻板援军
+版本: 力量倍增
+版本: 力量萃取
+版本: 勇毅先驱
+版本: 勇毅斗士
+版本: 勇毅者
+版本: 千斤坠
+版本: 千里冰封
+版本: 即兴演出
+版本: 原初之缚
+版本: 又快又狠
+版本: 受福
+版本: 受福重生
+版本: 变换之影
+版本: 呼啸飞箭
+版本: 咒法之墙
+版本: 品味片刻
+版本: 回风之剑
+版本: 坚守战场
+版本: 坚忍专注
+版本: 坦率
+版本: 复兴
+版本: 多利亚尼之训
+版本: 多彩之色
+版本: 大出血
+版本: 大雪漫天
+版本: 天人化生
+版本: 天才
+版本: 天生狡诈
+版本: 天衣无缝
+版本: 天赋禀异
+版本: 天雷轰顶
+版本: 奥术专家
+版本: 奥术烟花
+版本: 奥术英姿
+版本: 奥法蠕虫
+版本: 好整以暇
+版本: 如臂使指
+版本: 威力结界
+版本: 完美无暇
+版本: 宏伟计划
+版本: 寒冰导体
+版本: 寸草不生
+版本: 屠夫呼唤
+版本: 屠龙猎手
+版本: 崇高感
+版本: 巅峰状态
+版本: 巫灵斗士
+版本: 开凿
+版本: 弥补之印
+版本: 弥补之源
+版本: 弧光箭
+版本: 循环湮灭
+版本: 心意已决
+版本: 心无旁骛
+版本: 心灵枯竭
+版本: 心神错乱
+版本: 忠诚钢印
+版本: 怒火盛宴
+版本: 恐惧之主
+版本: 恢宏壁垒
+版本: 恶化创伤
+版本: 恶名昭著
+版本: 恶毒守卫
+版本: 恶毒撕咬
+版本: 恶毒穿刺
+版本: 恶灵之嚎
+版本: 恶狼哭号
+版本: 惊奇破坏
+版本: 惊寒降临
+版本: 惊怖酷刑
+版本: 战场主宰
+版本: 截心击
+版本: 扩张
+版本: 技如长虹
+版本: 折回冲刺
+版本: 持久专注
+版本: 持久冷静
+版本: 持久印象
+版本: 持久结界
+版本: 按图索骥
+版本: 探索符文
+版本: 掷象功
+版本: 撕裂
+版本: 放大器
+版本: 放血
+版本: 整顿
+版本: 斋戒
+版本: 施法熟手
+版本: 无中生有
+版本: 无垠之力
+版本: 无尽杀戮
+版本: 旧神启迪
+版本: 暴民思维
+版本: 暴风雪
+版本: 末日使者
+版本: 梳洗之刑
+版本: 棱光之壳
+版本: 棱光之心
+版本: 棱光之舞
+版本: 横扫千军
+版本: 欢欣预兆
+版本: 正念
+版本: 武艺专精
+版本: 武艺精湛
+版本: 死亡之愿
+版本: 死亡私语
+版本: 残酷之触
+版本: 毁天灭地
+版本: 毁灭使徒
+版本: 毁灭引擎
+版本: 永恒苦难
+版本: 汤镬
+版本: 沉着应战
+版本: 法师猎人
+版本: 活力专注
+版本: 活力振奋
+版本: 流线作业
+版本: 液化启迪
+版本: 淬火箭头
+版本: 深冬潜者
+版本: 深寒
+版本: 混元震天
+版本: 混沌降生
+版本: 渎神雅量
+版本: 游击战
+版本: 激荡狂灵
+版本: 激进理念
+版本: 火冥功
+版本: 火焰之主
+版本: 火焰缠身
+版本: 灵活哨兵
+版本: 灾殃
+版本: 炼金师
+版本: 焚化炉
+版本: 煽风点火
+版本: 熊熊燃烧
+版本: 熔岩者印记
+版本: 燃烬之烟
+版本: 特别预备
+版本: 牺牲制造者
+版本: 狂虐者
+版本: 狂风扫荡
+版本: 独断宣言
+版本: 猛烈灌注
+版本: 由死复生
+版本: 疫病弥漫
+版本: 疾雨摧花
+版本: 瘫痪
+版本: 直攻要害
+版本: 睚眦必报
+版本: 破坏专家
+版本: 破坏者
+版本: 破法
+版本: 碎颅斗士
+版本: 神出鬼没
+版本: 神圣征服
+版本: 祭仪领袖
+版本: 禁断之言
+版本: 秘法结界
+版本: 穷兵黩武
+版本: 空气力学
+版本: 突进时刻
+版本: 精华疾攻
+版本: 精确专注
+版本: 累累伤痕
+版本: 纯粹之力
+版本: 纯粹苦痛
+版本: 绝妙镇压
+版本: 绝缘
+版本: 统御之主
+版本: 缓慢折磨
+版本: 罪恶滔天
+版本: 翻天横扫
+版本: 老痕新伤
+版本: 肌肉之墙
+版本: 肾上腺素
+版本: 肿胀灵枢
+版本: 胁迫如山
+版本: 能量留存
+版本: 腐朽学徒
+版本: 腐烂之爪
+版本: 腐烂抗力
+版本: 腐蚀元素
+版本: 自信斗士
+版本: 自圆其说
+版本: 致命行军
+版本: 苦难根基
+版本: 莫名之赐
+版本: 螺旋之风
+版本: 血仇必报
+版本: 血肉盛宴
+版本: 规律主宰
+版本: 角斗战法
+版本: 解剖疗法
+版本: 警戒之号
+版本: 谨慎操纵
+版本: 贤者
+版本: 赋能使者
+版本: 趁机发难
+版本: 超级聚能
+版本: 还击
+版本: 连发
+版本: 连打带跑
+版本: 追随
+版本: 逃之夭夭
+版本: 邪恶之眼
+版本: 邪恶复兴
+版本: 邪恶烟云
+版本: 重装上阵
+版本: 野蛮嚎叫
+版本: 金刚拳
+版本: 钉刺调和
+版本: 钢铁之心
+版本: 钢铁斗士
+版本: 铁匠
+版本: 门徒
+版本: 闪光理念
+版本: 防御老手
+版本: 防护冻结
+版本: 防护毒素
+版本: 阴冷誓言
+版本: 降蛊
+版本: 霸主
+版本: 霹雳雷震
+版本: 非凡才能
+版本: 非凡瞩目
+版本: 韵律战法
+版本: 顽强壁垒
+版本: 领军之将
+版本: 风暴之手
+版本: 风暴之眼
+版本: 风暴痛饮
+版本: 风暴骑手
+版本: 飘雪穿云
+版本: 饕餮群魔
+版本: 骚乱平息
+版本: 高枕无忧
+版本: 高空钢丝
+版本: 魔侍凋零
+版本: 鲜血之腥
+版本: 鹤立鸡群
+版本: 黑暗使者
+版本: 黑暗构想
+版本: 黑暗篇章
+Selected Variant: 281
+Has Alt Variant: true
+Selected Alt Variant: 264
+Has Alt Variant Two: true
+Selected Alt Variant Two: 269
+品质说明: 
+固定基底词缀: 0
+增加 4 个天赋技能
+增加的小天赋无效果
+{variant:1}其中 1 个增加的天赋为【万物滋生】
+{variant:2}其中 1 个增加的天赋为【万象之力】
+{variant:3}其中 1 个增加的天赋为【不动专注】
+{variant:4}其中 1 个增加的天赋为【不动之恶】
+{variant:5}其中 1 个增加的天赋为【不可燃烧】
+{variant:6}其中 1 个增加的天赋为【不可触及】
+{variant:7}其中 1 个增加的天赋为【不眠哨卫】
+{variant:8}其中 1 个增加的天赋为【乱中有静】
+{variant:9}其中 1 个增加的天赋为【以眼还眼】
+{variant:10}其中 1 个增加的天赋为【优雅处刑】
+{variant:11}其中 1 个增加的天赋为【优雅形体】
+{variant:12}其中 1 个增加的天赋为【传令者】
+{variant:13}其中 1 个增加的天赋为【低容忍】
+{variant:14}其中 1 个增加的天赋为【侧舷炮】
+{variant:15}其中 1 个增加的天赋为【保镖】
+{variant:16}其中 1 个增加的天赋为【倔强学徒】
+{variant:17}其中 1 个增加的天赋为【僵化灵药】
+{variant:18}其中 1 个增加的天赋为【充能器】
+{variant:19}其中 1 个增加的天赋为【充能备战】
+{variant:20}其中 1 个增加的天赋为【先祖之力】
+{variant:21}其中 1 个增加的天赋为【先祖回音】
+{variant:22}其中 1 个增加的天赋为【先祖护佑】
+{variant:23}其中 1 个增加的天赋为【先祖指引】
+{variant:24}其中 1 个增加的天赋为【先祖教化】
+{variant:25}其中 1 个增加的天赋为【先祖降临】
+{variant:26}其中 1 个增加的天赋为【先遣卫士】
+{variant:27}其中 1 个增加的天赋为【内奸】
+{variant:28}其中 1 个增加的天赋为【冬眠者】
+{variant:29}其中 1 个增加的天赋为【冷血杀手】
+{variant:30}其中 1 个增加的天赋为【冻彻心扉】
+{variant:31}其中 1 个增加的天赋为【准备就绪】
+{variant:32}其中 1 个增加的天赋为【凌虐酷刑】
+{variant:33}其中 1 个增加的天赋为【凌迟】
+{variant:34}其中 1 个增加的天赋为【凝聚】
+{variant:35}其中 1 个增加的天赋为【凶蛮回荡】
+{variant:36}其中 1 个增加的天赋为【凶骇武士】
+{variant:37}其中 1 个增加的天赋为【刻板援军】
+{variant:38}其中 1 个增加的天赋为【力量倍增】
+{variant:39}其中 1 个增加的天赋为【力量萃取】
+{variant:40}其中 1 个增加的天赋为【勇毅先驱】
+{variant:41}其中 1 个增加的天赋为【勇毅斗士】
+{variant:42}其中 1 个增加的天赋为【勇毅者】
+{variant:43}其中 1 个增加的天赋为【千斤坠】
+{variant:44}其中 1 个增加的天赋为【千里冰封】
+{variant:45}其中 1 个增加的天赋为【即兴演出】
+{variant:46}其中 1 个增加的天赋为【原初之缚】
+{variant:47}其中 1 个增加的天赋为【又快又狠】
+{variant:48}其中 1 个增加的天赋为【受福】
+{variant:49}其中 1 个增加的天赋为【受福重生】
+{variant:50}其中 1 个增加的天赋为【变换之影】
+{variant:51}其中 1 个增加的天赋为【呼啸飞箭】
+{variant:52}其中 1 个增加的天赋为【咒法之墙】
+{variant:53}其中 1 个增加的天赋为【品味片刻】
+{variant:54}其中 1 个增加的天赋为【回风之剑】
+{variant:55}其中 1 个增加的天赋为【坚守战场】
+{variant:56}其中 1 个增加的天赋为【坚忍专注】
+{variant:57}其中 1 个增加的天赋为【坦率】
+{variant:58}其中 1 个增加的天赋为【复兴】
+{variant:59}其中 1 个增加的天赋为【多利亚尼之训】
+{variant:60}其中 1 个增加的天赋为【多彩之色】
+{variant:61}其中 1 个增加的天赋为【大出血】
+{variant:62}其中 1 个增加的天赋为【大雪漫天】
+{variant:63}其中 1 个增加的天赋为【天人化生】
+{variant:64}其中 1 个增加的天赋为【天才】
+{variant:65}其中 1 个增加的天赋为【天生狡诈】
+{variant:66}其中 1 个增加的天赋为【天衣无缝】
+{variant:67}其中 1 个增加的天赋为【天赋禀异】
+{variant:68}其中 1 个增加的天赋为【天雷轰顶】
+{variant:69}其中 1 个增加的天赋为【奥术专家】
+{variant:70}其中 1 个增加的天赋为【奥术烟花】
+{variant:71}其中 1 个增加的天赋为【奥术英姿】
+{variant:72}其中 1 个增加的天赋为【奥法蠕虫】
+{variant:73}其中 1 个增加的天赋为【好整以暇】
+{variant:74}其中 1 个增加的天赋为【如臂使指】
+{variant:75}其中 1 个增加的天赋为【威力结界】
+{variant:76}其中 1 个增加的天赋为【完美无暇】
+{variant:77}其中 1 个增加的天赋为【宏伟计划】
+{variant:78}其中 1 个增加的天赋为【寒冰导体】
+{variant:79}其中 1 个增加的天赋为【寸草不生】
+{variant:80}其中 1 个增加的天赋为【屠夫呼唤】
+{variant:81}其中 1 个增加的天赋为【屠龙猎手】
+{variant:82}其中 1 个增加的天赋为【崇高感】
+{variant:83}其中 1 个增加的天赋为【巅峰状态】
+{variant:84}其中 1 个增加的天赋为【巫灵斗士】
+{variant:85}其中 1 个增加的天赋为【开凿】
+{variant:86}其中 1 个增加的天赋为【弥补之印】
+{variant:87}其中 1 个增加的天赋为【弥补之源】
+{variant:88}其中 1 个增加的天赋为【弧光箭】
+{variant:89}其中 1 个增加的天赋为【循环湮灭】
+{variant:90}其中 1 个增加的天赋为【心意已决】
+{variant:91}其中 1 个增加的天赋为【心无旁骛】
+{variant:92}其中 1 个增加的天赋为【心灵枯竭】
+{variant:93}其中 1 个增加的天赋为【心神错乱】
+{variant:94}其中 1 个增加的天赋为【忠诚钢印】
+{variant:95}其中 1 个增加的天赋为【怒火盛宴】
+{variant:96}其中 1 个增加的天赋为【恐惧之主】
+{variant:97}其中 1 个增加的天赋为【恢宏壁垒】
+{variant:98}其中 1 个增加的天赋为【恶化创伤】
+{variant:99}其中 1 个增加的天赋为【恶名昭著】
+{variant:100}其中 1 个增加的天赋为【恶毒守卫】
+{variant:101}其中 1 个增加的天赋为【恶毒撕咬】
+{variant:102}其中 1 个增加的天赋为【恶毒穿刺】
+{variant:103}其中 1 个增加的天赋为【恶灵之嚎】
+{variant:104}其中 1 个增加的天赋为【恶狼哭号】
+{variant:105}其中 1 个增加的天赋为【惊奇破坏】
+{variant:106}其中 1 个增加的天赋为【惊寒降临】
+{variant:107}其中 1 个增加的天赋为【惊怖酷刑】
+{variant:108}其中 1 个增加的天赋为【战场主宰】
+{variant:109}其中 1 个增加的天赋为【截心击】
+{variant:110}其中 1 个增加的天赋为【扩张】
+{variant:111}其中 1 个增加的天赋为【技如长虹】
+{variant:112}其中 1 个增加的天赋为【折回冲刺】
+{variant:113}其中 1 个增加的天赋为【持久专注】
+{variant:114}其中 1 个增加的天赋为【持久冷静】
+{variant:115}其中 1 个增加的天赋为【持久印象】
+{variant:116}其中 1 个增加的天赋为【持久结界】
+{variant:117}其中 1 个增加的天赋为【按图索骥】
+{variant:118}其中 1 个增加的天赋为【探索符文】
+{variant:119}其中 1 个增加的天赋为【掷象功】
+{variant:120}其中 1 个增加的天赋为【撕裂】
+{variant:121}其中 1 个增加的天赋为【放大器】
+{variant:122}其中 1 个增加的天赋为【放血】
+{variant:123}其中 1 个增加的天赋为【整顿】
+{variant:124}其中 1 个增加的天赋为【斋戒】
+{variant:125}其中 1 个增加的天赋为【施法熟手】
+{variant:126}其中 1 个增加的天赋为【无中生有】
+{variant:127}其中 1 个增加的天赋为【无垠之力】
+{variant:128}其中 1 个增加的天赋为【无尽杀戮】
+{variant:129}其中 1 个增加的天赋为【旧神启迪】
+{variant:130}其中 1 个增加的天赋为【暴民思维】
+{variant:131}其中 1 个增加的天赋为【暴风雪】
+{variant:132}其中 1 个增加的天赋为【末日使者】
+{variant:133}其中 1 个增加的天赋为【梳洗之刑】
+{variant:134}其中 1 个增加的天赋为【棱光之壳】
+{variant:135}其中 1 个增加的天赋为【棱光之心】
+{variant:136}其中 1 个增加的天赋为【棱光之舞】
+{variant:137}其中 1 个增加的天赋为【横扫千军】
+{variant:138}其中 1 个增加的天赋为【欢欣预兆】
+{variant:139}其中 1 个增加的天赋为【正念】
+{variant:140}其中 1 个增加的天赋为【武艺专精】
+{variant:141}其中 1 个增加的天赋为【武艺精湛】
+{variant:142}其中 1 个增加的天赋为【死亡之愿】
+{variant:143}其中 1 个增加的天赋为【死亡私语】
+{variant:144}其中 1 个增加的天赋为【残酷之触】
+{variant:145}其中 1 个增加的天赋为【毁天灭地】
+{variant:146}其中 1 个增加的天赋为【毁灭使徒】
+{variant:147}其中 1 个增加的天赋为【毁灭引擎】
+{variant:148}其中 1 个增加的天赋为【永恒苦难】
+{variant:149}其中 1 个增加的天赋为【汤镬】
+{variant:150}其中 1 个增加的天赋为【沉着应战】
+{variant:151}其中 1 个增加的天赋为【法师猎人】
+{variant:152}其中 1 个增加的天赋为【活力专注】
+{variant:153}其中 1 个增加的天赋为【活力振奋】
+{variant:154}其中 1 个增加的天赋为【流线作业】
+{variant:155}其中 1 个增加的天赋为【液化启迪】
+{variant:156}其中 1 个增加的天赋为【淬火箭头】
+{variant:157}其中 1 个增加的天赋为【深冬潜者】
+{variant:158}其中 1 个增加的天赋为【深寒】
+{variant:159}其中 1 个增加的天赋为【混元震天】
+{variant:160}其中 1 个增加的天赋为【混沌降生】
+{variant:161}其中 1 个增加的天赋为【渎神雅量】
+{variant:162}其中 1 个增加的天赋为【游击战】
+{variant:163}其中 1 个增加的天赋为【激荡狂灵】
+{variant:164}其中 1 个增加的天赋为【激进理念】
+{variant:165}其中 1 个增加的天赋为【火冥功】
+{variant:166}其中 1 个增加的天赋为【火焰之主】
+{variant:167}其中 1 个增加的天赋为【火焰缠身】
+{variant:168}其中 1 个增加的天赋为【灵活哨兵】
+{variant:169}其中 1 个增加的天赋为【灾殃】
+{variant:170}其中 1 个增加的天赋为【炼金师】
+{variant:171}其中 1 个增加的天赋为【焚化炉】
+{variant:172}其中 1 个增加的天赋为【煽风点火】
+{variant:173}其中 1 个增加的天赋为【熊熊燃烧】
+{variant:174}其中 1 个增加的天赋为【熔岩者印记】
+{variant:175}其中 1 个增加的天赋为【燃烬之烟】
+{variant:176}其中 1 个增加的天赋为【特别预备】
+{variant:177}其中 1 个增加的天赋为【牺牲制造者】
+{variant:178}其中 1 个增加的天赋为【狂虐者】
+{variant:179}其中 1 个增加的天赋为【狂风扫荡】
+{variant:180}其中 1 个增加的天赋为【独断宣言】
+{variant:181}其中 1 个增加的天赋为【猛烈灌注】
+{variant:182}其中 1 个增加的天赋为【由死复生】
+{variant:183}其中 1 个增加的天赋为【疫病弥漫】
+{variant:184}其中 1 个增加的天赋为【疾雨摧花】
+{variant:185}其中 1 个增加的天赋为【瘫痪】
+{variant:186}其中 1 个增加的天赋为【直攻要害】
+{variant:187}其中 1 个增加的天赋为【睚眦必报】
+{variant:188}其中 1 个增加的天赋为【破坏专家】
+{variant:189}其中 1 个增加的天赋为【破坏者】
+{variant:190}其中 1 个增加的天赋为【破法】
+{variant:191}其中 1 个增加的天赋为【碎颅斗士】
+{variant:192}其中 1 个增加的天赋为【神出鬼没】
+{variant:193}其中 1 个增加的天赋为【神圣征服】
+{variant:194}其中 1 个增加的天赋为【祭仪领袖】
+{variant:195}其中 1 个增加的天赋为【禁断之言】
+{variant:196}其中 1 个增加的天赋为【秘法结界】
+{variant:197}其中 1 个增加的天赋为【穷兵黩武】
+{variant:198}其中 1 个增加的天赋为【空气力学】
+{variant:199}其中 1 个增加的天赋为【突进时刻】
+{variant:200}其中 1 个增加的天赋为【精华疾攻】
+{variant:201}其中 1 个增加的天赋为【精确专注】
+{variant:202}其中 1 个增加的天赋为【累累伤痕】
+{variant:203}其中 1 个增加的天赋为【纯粹之力】
+{variant:204}其中 1 个增加的天赋为【纯粹苦痛】
+{variant:205}其中 1 个增加的天赋为【绝妙镇压】
+{variant:206}其中 1 个增加的天赋为【绝缘】
+{variant:207}其中 1 个增加的天赋为【统御之主】
+{variant:208}其中 1 个增加的天赋为【缓慢折磨】
+{variant:209}其中 1 个增加的天赋为【罪恶滔天】
+{variant:210}其中 1 个增加的天赋为【翻天横扫】
+{variant:211}其中 1 个增加的天赋为【老痕新伤】
+{variant:212}其中 1 个增加的天赋为【肌肉之墙】
+{variant:213}其中 1 个增加的天赋为【肾上腺素】
+{variant:214}其中 1 个增加的天赋为【肿胀灵枢】
+{variant:215}其中 1 个增加的天赋为【胁迫如山】
+{variant:216}其中 1 个增加的天赋为【能量留存】
+{variant:217}其中 1 个增加的天赋为【腐朽学徒】
+{variant:218}其中 1 个增加的天赋为【腐烂之爪】
+{variant:219}其中 1 个增加的天赋为【腐烂抗力】
+{variant:220}其中 1 个增加的天赋为【腐蚀元素】
+{variant:221}其中 1 个增加的天赋为【自信斗士】
+{variant:222}其中 1 个增加的天赋为【自圆其说】
+{variant:223}其中 1 个增加的天赋为【致命行军】
+{variant:224}其中 1 个增加的天赋为【苦难根基】
+{variant:225}其中 1 个增加的天赋为【莫名之赐】
+{variant:226}其中 1 个增加的天赋为【螺旋之风】
+{variant:227}其中 1 个增加的天赋为【血仇必报】
+{variant:228}其中 1 个增加的天赋为【血肉盛宴】
+{variant:229}其中 1 个增加的天赋为【规律主宰】
+{variant:230}其中 1 个增加的天赋为【角斗战法】
+{variant:231}其中 1 个增加的天赋为【解剖疗法】
+{variant:232}其中 1 个增加的天赋为【警戒之号】
+{variant:233}其中 1 个增加的天赋为【谨慎操纵】
+{variant:234}其中 1 个增加的天赋为【贤者】
+{variant:235}其中 1 个增加的天赋为【赋能使者】
+{variant:236}其中 1 个增加的天赋为【趁机发难】
+{variant:237}其中 1 个增加的天赋为【超级聚能】
+{variant:238}其中 1 个增加的天赋为【还击】
+{variant:239}其中 1 个增加的天赋为【连发】
+{variant:240}其中 1 个增加的天赋为【连打带跑】
+{variant:241}其中 1 个增加的天赋为【追随】
+{variant:242}其中 1 个增加的天赋为【逃之夭夭】
+{variant:243}其中 1 个增加的天赋为【邪恶之眼】
+{variant:244}其中 1 个增加的天赋为【邪恶复兴】
+{variant:245}其中 1 个增加的天赋为【邪恶烟云】
+{variant:246}其中 1 个增加的天赋为【重装上阵】
+{variant:247}其中 1 个增加的天赋为【野蛮嚎叫】
+{variant:248}其中 1 个增加的天赋为【金刚拳】
+{variant:249}其中 1 个增加的天赋为【钉刺调和】
+{variant:250}其中 1 个增加的天赋为【钢铁之心】
+{variant:251}其中 1 个增加的天赋为【钢铁斗士】
+{variant:252}其中 1 个增加的天赋为【铁匠】
+{variant:253}其中 1 个增加的天赋为【门徒】
+{variant:254}其中 1 个增加的天赋为【闪光理念】
+{variant:255}其中 1 个增加的天赋为【防御老手】
+{variant:256}其中 1 个增加的天赋为【防护冻结】
+{variant:257}其中 1 个增加的天赋为【防护毒素】
+{variant:258}其中 1 个增加的天赋为【阴冷誓言】
+{variant:259}其中 1 个增加的天赋为【降蛊】
+{variant:260}其中 1 个增加的天赋为【霸主】
+{variant:261}其中 1 个增加的天赋为【霹雳雷震】
+{variant:262}其中 1 个增加的天赋为【非凡才能】
+{variant:263}其中 1 个增加的天赋为【非凡瞩目】
+{variant:264}其中 1 个增加的天赋为【韵律战法】
+{variant:265}其中 1 个增加的天赋为【顽强壁垒】
+{variant:266}其中 1 个增加的天赋为【领军之将】
+{variant:267}其中 1 个增加的天赋为【风暴之手】
+{variant:268}其中 1 个增加的天赋为【风暴之眼】
+{variant:269}其中 1 个增加的天赋为【风暴痛饮】
+{variant:270}其中 1 个增加的天赋为【风暴骑手】
+{variant:271}其中 1 个增加的天赋为【飘雪穿云】
+{variant:272}其中 1 个增加的天赋为【饕餮群魔】
+{variant:273}其中 1 个增加的天赋为【骚乱平息】
+{variant:274}其中 1 个增加的天赋为【高枕无忧】
+{variant:275}其中 1 个增加的天赋为【高空钢丝】
+{variant:276}其中 1 个增加的天赋为【魔侍凋零】
+{variant:277}其中 1 个增加的天赋为【鲜血之腥】
+{variant:278}其中 1 个增加的天赋为【鹤立鸡群】
+{variant:279}其中 1 个增加的天赋为【黑暗使者】
+{variant:280}其中 1 个增加的天赋为【黑暗构想】
+{variant:281}其中 1 个增加的天赋为【黑暗篇章】
+		</Item>
+		<Item id="9">
+			稀 有 度: 稀有
+New Item
+召集法杖
+工艺: true
+前缀: {range:0.93}MinionDamageOnWeapon7
+前缀: None
+前缀: None
+后缀: {range:0.387}MinionLifeWeapon6_
+后缀: None
+后缀: None
+品质: 20
+品质说明: 
+插槽: B-B-B
+等级需求: 72
+固定基底词缀: 1
+可以附着召唤生物属性
+召唤生物的最大生命提高 38%
+召唤生物的伤害提高 74%
+		</Item>
+		<Item id="10">
+			稀 有 度: 稀有
+New Item
+术士手套
+工艺: true
+前缀: {range:0.018}IncreasedLife8
+前缀: {range:0.563}IncreasedMana11
+前缀: None
+后缀: None
+后缀: None
+后缀: None
+品质: 20
+品质说明: 
+插槽: B-B-B-B
+等级需求: 69
+固定基底词缀: 0
++80 最大生命
++67 最大魔力
+		</Item>
+		<Item id="11">
+			稀 有 度: 稀有
+New Item
+术士长靴
+工艺: true
+前缀: {range:0.144}IncreasedLife8
+前缀: {range:0.817}IncreasedMana11
+前缀: {range:0.451}MovementVelocity6
+后缀: None
+后缀: None
+后缀: None
+品质: 20
+品质说明: 
+插槽: B-B-B-B
+等级需求: 68
+固定基底词缀: 0
++81 最大生命
++67 最大魔力
+移动速度提高 35%
+		</Item>
+		<Item id="12">
+			稀 有 度: 稀有
+New Item
+深渊腰带
+工艺: true
+前缀: {range:0.155}IncreasedLife9
+前缀: {range:0.838}IncreasedMana10
+前缀: None
+后缀: None
+后缀: None
+后缀: None
+品质: 0
+品质说明: 
+插槽: A
+等级需求: 55
+固定基底词缀: 1
+拥有 1 个深渊插槽
++91 最大生命
++63 最大魔力
+		</Item>
+		<Item id="13">
+			稀 有 度: 稀有
+New Item
+Two-Stone Ring (Cold/Lightning)
+工艺: true
+前缀: {range:0.873}IncreasedLife6
+前缀: {range:0.123}IncreasedMana12
+前缀: None
+后缀: None
+后缀: None
+后缀: None
+品质: 0
+品质说明: 
+等级需求: 64
+固定基底词缀: 1
+{tags:cold,lightning,jewellery_resistance}{range:0.5}+(12-16)% 冰霜与闪电抗性
++68 最大生命
++69 最大魔力
+			<ModRange range="0.5" id="1"/>
+		</Item>
+		<Slot name="Gloves" itemId="10"/>
+		<Slot name="Belt" itemId="12"/>
+		<Slot name="Amulet" itemId="3"/>
+		<Slot name="Boots" itemId="11"/>
+		<Slot name="Weapon 2" itemId="1"/>
+		<Slot name="Helmet" itemId="5"/>
+		<Slot name="Body Armour" itemId="6"/>
+		<Slot name="Ring 2" itemId="13"/>
+		<Slot name="Ring 1" itemId="13"/>
+		<Slot name="Weapon 1" itemId="9"/>
+		<ItemSet useSecondWeaponSet="nil" id="1">
+			<Slot name="Gloves" itemId="10"/>
+			<Slot name="Weapon 2Swap Abyssal Socket 2" itemId="0"/>
+			<Slot name="Belt Abyssal Socket 2" itemId="0"/>
+			<Slot name="Flask 3" itemId="0"/>
+			<Slot name="Weapon 2Swap Abyssal Socket 1" itemId="0"/>
+			<Slot name="Helmet Abyssal Socket 1" itemId="0"/>
+			<Slot name="Helmet Abyssal Socket 2" itemId="0"/>
+			<Slot name="Weapon 1 Abyssal Socket 1" itemId="0"/>
+			<Slot name="Belt" itemId="12"/>
+			<Slot name="Weapon 1 Abyssal Socket 2" itemId="0"/>
+			<Slot name="Weapon 2 Abyssal Socket 2" itemId="0"/>
+			<Slot name="Boots Abyssal Socket 2" itemId="0"/>
+			<Slot name="Flask 4" itemId="0"/>
+			<Slot name="Gloves Abyssal Socket 1" itemId="0"/>
+			<Slot name="Flask 1" itemId="0"/>
+			<Slot name="Body Armour Abyssal Socket 2" itemId="0"/>
+			<Slot name="Amulet" itemId="3"/>
+			<Slot name="Boots" itemId="11"/>
+			<Slot name="Weapon 2 Abyssal Socket 1" itemId="0"/>
+			<Slot name="Boots Abyssal Socket 1" itemId="0"/>
+			<Slot name="Belt Abyssal Socket 1" itemId="0"/>
+			<Slot name="Flask 2" itemId="0"/>
+			<Slot name="Weapon 1Swap Abyssal Socket 2" itemId="0"/>
+			<Slot name="Weapon 1Swap Abyssal Socket 1" itemId="0"/>
+			<Slot name="Weapon 2" itemId="1"/>
+			<Slot name="Helmet" itemId="5"/>
+			<Slot name="Weapon 2 Swap" itemId="0"/>
+			<Slot name="Body Armour" itemId="6"/>
+			<Slot name="Weapon 1 Swap" itemId="0"/>
+			<Slot name="Ring 2" itemId="13"/>
+			<Slot name="Gloves Abyssal Socket 2" itemId="0"/>
+			<Slot name="Body Armour Abyssal Socket 1" itemId="0"/>
+			<Slot name="Flask 5" itemId="0"/>
+			<Slot name="Ring 1" itemId="13"/>
+			<Slot name="Weapon 1" itemId="9"/>
+		</ItemSet>
+	</Items>
+	<Config>
+		<Input name="conditionEnemyIgnited" boolean="true"/>
+		<Input name="enemyConditionHitByLightningDamage" boolean="true"/>
+		<Input name="enemyIsBoss" string="SHAPER"/>
+	</Config>
+</PathOfBuilding>
